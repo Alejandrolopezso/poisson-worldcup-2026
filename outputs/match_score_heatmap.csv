@@ -1,0 +1,3529 @@
+match_id,group,team1,team2,match_label,goals_team1,goals_team2,probability
+1,A,Mexico,South Africa,Mexico vs South Africa,0,0,11.6
+1,A,Mexico,South Africa,Mexico vs South Africa,0,1,6.54
+1,A,Mexico,South Africa,Mexico vs South Africa,0,2,1.84
+1,A,Mexico,South Africa,Mexico vs South Africa,0,3,0.35
+1,A,Mexico,South Africa,Mexico vs South Africa,0,4,0.05
+1,A,Mexico,South Africa,Mexico vs South Africa,0,5,0.01
+1,A,Mexico,South Africa,Mexico vs South Africa,0,6,0.0
+1,A,Mexico,South Africa,Mexico vs South Africa,1,0,18.45
+1,A,Mexico,South Africa,Mexico vs South Africa,1,1,10.4
+1,A,Mexico,South Africa,Mexico vs South Africa,1,2,2.93
+1,A,Mexico,South Africa,Mexico vs South Africa,1,3,0.55
+1,A,Mexico,South Africa,Mexico vs South Africa,1,4,0.08
+1,A,Mexico,South Africa,Mexico vs South Africa,1,5,0.01
+1,A,Mexico,South Africa,Mexico vs South Africa,1,6,0.0
+1,A,Mexico,South Africa,Mexico vs South Africa,2,0,14.67
+1,A,Mexico,South Africa,Mexico vs South Africa,2,1,8.27
+1,A,Mexico,South Africa,Mexico vs South Africa,2,2,2.33
+1,A,Mexico,South Africa,Mexico vs South Africa,2,3,0.44
+1,A,Mexico,South Africa,Mexico vs South Africa,2,4,0.06
+1,A,Mexico,South Africa,Mexico vs South Africa,2,5,0.01
+1,A,Mexico,South Africa,Mexico vs South Africa,2,6,0.0
+1,A,Mexico,South Africa,Mexico vs South Africa,3,0,7.78
+1,A,Mexico,South Africa,Mexico vs South Africa,3,1,4.38
+1,A,Mexico,South Africa,Mexico vs South Africa,3,2,1.24
+1,A,Mexico,South Africa,Mexico vs South Africa,3,3,0.23
+1,A,Mexico,South Africa,Mexico vs South Africa,3,4,0.03
+1,A,Mexico,South Africa,Mexico vs South Africa,3,5,0.0
+1,A,Mexico,South Africa,Mexico vs South Africa,3,6,0.0
+1,A,Mexico,South Africa,Mexico vs South Africa,4,0,3.09
+1,A,Mexico,South Africa,Mexico vs South Africa,4,1,1.74
+1,A,Mexico,South Africa,Mexico vs South Africa,4,2,0.49
+1,A,Mexico,South Africa,Mexico vs South Africa,4,3,0.09
+1,A,Mexico,South Africa,Mexico vs South Africa,4,4,0.01
+1,A,Mexico,South Africa,Mexico vs South Africa,4,5,0.0
+1,A,Mexico,South Africa,Mexico vs South Africa,4,6,0.0
+1,A,Mexico,South Africa,Mexico vs South Africa,5,0,0.98
+1,A,Mexico,South Africa,Mexico vs South Africa,5,1,0.55
+1,A,Mexico,South Africa,Mexico vs South Africa,5,2,0.16
+1,A,Mexico,South Africa,Mexico vs South Africa,5,3,0.03
+1,A,Mexico,South Africa,Mexico vs South Africa,5,4,0.0
+1,A,Mexico,South Africa,Mexico vs South Africa,5,5,0.0
+1,A,Mexico,South Africa,Mexico vs South Africa,5,6,0.0
+1,A,Mexico,South Africa,Mexico vs South Africa,6,0,0.26
+1,A,Mexico,South Africa,Mexico vs South Africa,6,1,0.15
+1,A,Mexico,South Africa,Mexico vs South Africa,6,2,0.04
+1,A,Mexico,South Africa,Mexico vs South Africa,6,3,0.01
+1,A,Mexico,South Africa,Mexico vs South Africa,6,4,0.0
+1,A,Mexico,South Africa,Mexico vs South Africa,6,5,0.0
+1,A,Mexico,South Africa,Mexico vs South Africa,6,6,0.0
+2,A,South Korea,Czechia,South Korea vs Czechia,0,0,7.41
+2,A,South Korea,Czechia,South Korea vs Czechia,0,1,6.56
+2,A,South Korea,Czechia,South Korea vs Czechia,0,2,2.9
+2,A,South Korea,Czechia,South Korea vs Czechia,0,3,0.86
+2,A,South Korea,Czechia,South Korea vs Czechia,0,4,0.19
+2,A,South Korea,Czechia,South Korea vs Czechia,0,5,0.03
+2,A,South Korea,Czechia,South Korea vs Czechia,0,6,0.0
+2,A,South Korea,Czechia,South Korea vs Czechia,1,0,12.73
+2,A,South Korea,Czechia,South Korea vs Czechia,1,1,11.26
+2,A,South Korea,Czechia,South Korea vs Czechia,1,2,4.98
+2,A,South Korea,Czechia,South Korea vs Czechia,1,3,1.47
+2,A,South Korea,Czechia,South Korea vs Czechia,1,4,0.33
+2,A,South Korea,Czechia,South Korea vs Czechia,1,5,0.06
+2,A,South Korea,Czechia,South Korea vs Czechia,1,6,0.01
+2,A,South Korea,Czechia,South Korea vs Czechia,2,0,10.93
+2,A,South Korea,Czechia,South Korea vs Czechia,2,1,9.67
+2,A,South Korea,Czechia,South Korea vs Czechia,2,2,4.28
+2,A,South Korea,Czechia,South Korea vs Czechia,2,3,1.26
+2,A,South Korea,Czechia,South Korea vs Czechia,2,4,0.28
+2,A,South Korea,Czechia,South Korea vs Czechia,2,5,0.05
+2,A,South Korea,Czechia,South Korea vs Czechia,2,6,0.01
+2,A,South Korea,Czechia,South Korea vs Czechia,3,0,6.25
+2,A,South Korea,Czechia,South Korea vs Czechia,3,1,5.53
+2,A,South Korea,Czechia,South Korea vs Czechia,3,2,2.45
+2,A,South Korea,Czechia,South Korea vs Czechia,3,3,0.72
+2,A,South Korea,Czechia,South Korea vs Czechia,3,4,0.16
+2,A,South Korea,Czechia,South Korea vs Czechia,3,5,0.03
+2,A,South Korea,Czechia,South Korea vs Czechia,3,6,0.0
+2,A,South Korea,Czechia,South Korea vs Czechia,4,0,2.68
+2,A,South Korea,Czechia,South Korea vs Czechia,4,1,2.38
+2,A,South Korea,Czechia,South Korea vs Czechia,4,2,1.05
+2,A,South Korea,Czechia,South Korea vs Czechia,4,3,0.31
+2,A,South Korea,Czechia,South Korea vs Czechia,4,4,0.07
+2,A,South Korea,Czechia,South Korea vs Czechia,4,5,0.01
+2,A,South Korea,Czechia,South Korea vs Czechia,4,6,0.0
+2,A,South Korea,Czechia,South Korea vs Czechia,5,0,0.92
+2,A,South Korea,Czechia,South Korea vs Czechia,5,1,0.82
+2,A,South Korea,Czechia,South Korea vs Czechia,5,2,0.36
+2,A,South Korea,Czechia,South Korea vs Czechia,5,3,0.11
+2,A,South Korea,Czechia,South Korea vs Czechia,5,4,0.02
+2,A,South Korea,Czechia,South Korea vs Czechia,5,5,0.0
+2,A,South Korea,Czechia,South Korea vs Czechia,5,6,0.0
+2,A,South Korea,Czechia,South Korea vs Czechia,6,0,0.26
+2,A,South Korea,Czechia,South Korea vs Czechia,6,1,0.23
+2,A,South Korea,Czechia,South Korea vs Czechia,6,2,0.1
+2,A,South Korea,Czechia,South Korea vs Czechia,6,3,0.03
+2,A,South Korea,Czechia,South Korea vs Czechia,6,4,0.01
+2,A,South Korea,Czechia,South Korea vs Czechia,6,5,0.0
+2,A,South Korea,Czechia,South Korea vs Czechia,6,6,0.0
+3,A,South Korea,Mexico,South Korea vs Mexico,0,0,14.98
+3,A,South Korea,Mexico,South Korea vs Mexico,0,1,12.51
+3,A,South Korea,Mexico,South Korea vs Mexico,0,2,5.23
+3,A,South Korea,Mexico,South Korea vs Mexico,0,3,1.46
+3,A,South Korea,Mexico,South Korea vs Mexico,0,4,0.3
+3,A,South Korea,Mexico,South Korea vs Mexico,0,5,0.05
+3,A,South Korea,Mexico,South Korea vs Mexico,0,6,0.01
+3,A,South Korea,Mexico,South Korea vs Mexico,1,0,15.92
+3,A,South Korea,Mexico,South Korea vs Mexico,1,1,13.3
+3,A,South Korea,Mexico,South Korea vs Mexico,1,2,5.56
+3,A,South Korea,Mexico,South Korea vs Mexico,1,3,1.55
+3,A,South Korea,Mexico,South Korea vs Mexico,1,4,0.32
+3,A,South Korea,Mexico,South Korea vs Mexico,1,5,0.05
+3,A,South Korea,Mexico,South Korea vs Mexico,1,6,0.01
+3,A,South Korea,Mexico,South Korea vs Mexico,2,0,8.46
+3,A,South Korea,Mexico,South Korea vs Mexico,2,1,7.07
+3,A,South Korea,Mexico,South Korea vs Mexico,2,2,2.95
+3,A,South Korea,Mexico,South Korea vs Mexico,2,3,0.82
+3,A,South Korea,Mexico,South Korea vs Mexico,2,4,0.17
+3,A,South Korea,Mexico,South Korea vs Mexico,2,5,0.03
+3,A,South Korea,Mexico,South Korea vs Mexico,2,6,0.0
+3,A,South Korea,Mexico,South Korea vs Mexico,3,0,3.0
+3,A,South Korea,Mexico,South Korea vs Mexico,3,1,2.51
+3,A,South Korea,Mexico,South Korea vs Mexico,3,2,1.05
+3,A,South Korea,Mexico,South Korea vs Mexico,3,3,0.29
+3,A,South Korea,Mexico,South Korea vs Mexico,3,4,0.06
+3,A,South Korea,Mexico,South Korea vs Mexico,3,5,0.01
+3,A,South Korea,Mexico,South Korea vs Mexico,3,6,0.0
+3,A,South Korea,Mexico,South Korea vs Mexico,4,0,0.8
+3,A,South Korea,Mexico,South Korea vs Mexico,4,1,0.67
+3,A,South Korea,Mexico,South Korea vs Mexico,4,2,0.28
+3,A,South Korea,Mexico,South Korea vs Mexico,4,3,0.08
+3,A,South Korea,Mexico,South Korea vs Mexico,4,4,0.02
+3,A,South Korea,Mexico,South Korea vs Mexico,4,5,0.0
+3,A,South Korea,Mexico,South Korea vs Mexico,4,6,0.0
+3,A,South Korea,Mexico,South Korea vs Mexico,5,0,0.17
+3,A,South Korea,Mexico,South Korea vs Mexico,5,1,0.14
+3,A,South Korea,Mexico,South Korea vs Mexico,5,2,0.06
+3,A,South Korea,Mexico,South Korea vs Mexico,5,3,0.02
+3,A,South Korea,Mexico,South Korea vs Mexico,5,4,0.0
+3,A,South Korea,Mexico,South Korea vs Mexico,5,5,0.0
+3,A,South Korea,Mexico,South Korea vs Mexico,5,6,0.0
+3,A,South Korea,Mexico,South Korea vs Mexico,6,0,0.03
+3,A,South Korea,Mexico,South Korea vs Mexico,6,1,0.03
+3,A,South Korea,Mexico,South Korea vs Mexico,6,2,0.01
+3,A,South Korea,Mexico,South Korea vs Mexico,6,3,0.0
+3,A,South Korea,Mexico,South Korea vs Mexico,6,4,0.0
+3,A,South Korea,Mexico,South Korea vs Mexico,6,5,0.0
+3,A,South Korea,Mexico,South Korea vs Mexico,6,6,0.0
+4,A,Czechia,South Africa,Czechia vs South Africa,0,0,7.47
+4,A,Czechia,South Africa,Czechia vs South Africa,0,1,6.8
+4,A,Czechia,South Africa,Czechia vs South Africa,0,2,3.09
+4,A,Czechia,South Africa,Czechia vs South Africa,0,3,0.94
+4,A,Czechia,South Africa,Czechia vs South Africa,0,4,0.21
+4,A,Czechia,South Africa,Czechia vs South Africa,0,5,0.04
+4,A,Czechia,South Africa,Czechia vs South Africa,0,6,0.01
+4,A,Czechia,South Africa,Czechia vs South Africa,1,0,12.58
+4,A,Czechia,South Africa,Czechia vs South Africa,1,1,11.45
+4,A,Czechia,South Africa,Czechia vs South Africa,1,2,5.21
+4,A,Czechia,South Africa,Czechia vs South Africa,1,3,1.58
+4,A,Czechia,South Africa,Czechia vs South Africa,1,4,0.36
+4,A,Czechia,South Africa,Czechia vs South Africa,1,5,0.07
+4,A,Czechia,South Africa,Czechia vs South Africa,1,6,0.01
+4,A,Czechia,South Africa,Czechia vs South Africa,2,0,10.59
+4,A,Czechia,South Africa,Czechia vs South Africa,2,1,9.64
+4,A,Czechia,South Africa,Czechia vs South Africa,2,2,4.39
+4,A,Czechia,South Africa,Czechia vs South Africa,2,3,1.33
+4,A,Czechia,South Africa,Czechia vs South Africa,2,4,0.3
+4,A,Czechia,South Africa,Czechia vs South Africa,2,5,0.06
+4,A,Czechia,South Africa,Czechia vs South Africa,2,6,0.01
+4,A,Czechia,South Africa,Czechia vs South Africa,3,0,5.95
+4,A,Czechia,South Africa,Czechia vs South Africa,3,1,5.41
+4,A,Czechia,South Africa,Czechia vs South Africa,3,2,2.46
+4,A,Czechia,South Africa,Czechia vs South Africa,3,3,0.75
+4,A,Czechia,South Africa,Czechia vs South Africa,3,4,0.17
+4,A,Czechia,South Africa,Czechia vs South Africa,3,5,0.03
+4,A,Czechia,South Africa,Czechia vs South Africa,3,6,0.0
+4,A,Czechia,South Africa,Czechia vs South Africa,4,0,2.5
+4,A,Czechia,South Africa,Czechia vs South Africa,4,1,2.28
+4,A,Czechia,South Africa,Czechia vs South Africa,4,2,1.04
+4,A,Czechia,South Africa,Czechia vs South Africa,4,3,0.31
+4,A,Czechia,South Africa,Czechia vs South Africa,4,4,0.07
+4,A,Czechia,South Africa,Czechia vs South Africa,4,5,0.01
+4,A,Czechia,South Africa,Czechia vs South Africa,4,6,0.0
+4,A,Czechia,South Africa,Czechia vs South Africa,5,0,0.84
+4,A,Czechia,South Africa,Czechia vs South Africa,5,1,0.77
+4,A,Czechia,South Africa,Czechia vs South Africa,5,2,0.35
+4,A,Czechia,South Africa,Czechia vs South Africa,5,3,0.11
+4,A,Czechia,South Africa,Czechia vs South Africa,5,4,0.02
+4,A,Czechia,South Africa,Czechia vs South Africa,5,5,0.0
+4,A,Czechia,South Africa,Czechia vs South Africa,5,6,0.0
+4,A,Czechia,South Africa,Czechia vs South Africa,6,0,0.24
+4,A,Czechia,South Africa,Czechia vs South Africa,6,1,0.22
+4,A,Czechia,South Africa,Czechia vs South Africa,6,2,0.1
+4,A,Czechia,South Africa,Czechia vs South Africa,6,3,0.03
+4,A,Czechia,South Africa,Czechia vs South Africa,6,4,0.01
+4,A,Czechia,South Africa,Czechia vs South Africa,6,5,0.0
+4,A,Czechia,South Africa,Czechia vs South Africa,6,6,0.0
+5,A,Czechia,Mexico,Czechia vs Mexico,0,0,7.25
+5,A,Czechia,Mexico,Czechia vs Mexico,0,1,11.49
+5,A,Czechia,Mexico,Czechia vs Mexico,0,2,9.1
+5,A,Czechia,Mexico,Czechia vs Mexico,0,3,4.81
+5,A,Czechia,Mexico,Czechia vs Mexico,0,4,1.91
+5,A,Czechia,Mexico,Czechia vs Mexico,0,5,0.6
+5,A,Czechia,Mexico,Czechia vs Mexico,0,6,0.16
+5,A,Czechia,Mexico,Czechia vs Mexico,1,0,7.53
+5,A,Czechia,Mexico,Czechia vs Mexico,1,1,11.94
+5,A,Czechia,Mexico,Czechia vs Mexico,1,2,9.46
+5,A,Czechia,Mexico,Czechia vs Mexico,1,3,5.0
+5,A,Czechia,Mexico,Czechia vs Mexico,1,4,1.98
+5,A,Czechia,Mexico,Czechia vs Mexico,1,5,0.63
+5,A,Czechia,Mexico,Czechia vs Mexico,1,6,0.17
+5,A,Czechia,Mexico,Czechia vs Mexico,2,0,3.92
+5,A,Czechia,Mexico,Czechia vs Mexico,2,1,6.21
+5,A,Czechia,Mexico,Czechia vs Mexico,2,2,4.92
+5,A,Czechia,Mexico,Czechia vs Mexico,2,3,2.6
+5,A,Czechia,Mexico,Czechia vs Mexico,2,4,1.03
+5,A,Czechia,Mexico,Czechia vs Mexico,2,5,0.33
+5,A,Czechia,Mexico,Czechia vs Mexico,2,6,0.09
+5,A,Czechia,Mexico,Czechia vs Mexico,3,0,1.36
+5,A,Czechia,Mexico,Czechia vs Mexico,3,1,2.15
+5,A,Czechia,Mexico,Czechia vs Mexico,3,2,1.7
+5,A,Czechia,Mexico,Czechia vs Mexico,3,3,0.9
+5,A,Czechia,Mexico,Czechia vs Mexico,3,4,0.36
+5,A,Czechia,Mexico,Czechia vs Mexico,3,5,0.11
+5,A,Czechia,Mexico,Czechia vs Mexico,3,6,0.03
+5,A,Czechia,Mexico,Czechia vs Mexico,4,0,0.35
+5,A,Czechia,Mexico,Czechia vs Mexico,4,1,0.56
+5,A,Czechia,Mexico,Czechia vs Mexico,4,2,0.44
+5,A,Czechia,Mexico,Czechia vs Mexico,4,3,0.23
+5,A,Czechia,Mexico,Czechia vs Mexico,4,4,0.09
+5,A,Czechia,Mexico,Czechia vs Mexico,4,5,0.03
+5,A,Czechia,Mexico,Czechia vs Mexico,4,6,0.01
+5,A,Czechia,Mexico,Czechia vs Mexico,5,0,0.07
+5,A,Czechia,Mexico,Czechia vs Mexico,5,1,0.12
+5,A,Czechia,Mexico,Czechia vs Mexico,5,2,0.09
+5,A,Czechia,Mexico,Czechia vs Mexico,5,3,0.05
+5,A,Czechia,Mexico,Czechia vs Mexico,5,4,0.02
+5,A,Czechia,Mexico,Czechia vs Mexico,5,5,0.01
+5,A,Czechia,Mexico,Czechia vs Mexico,5,6,0.0
+5,A,Czechia,Mexico,Czechia vs Mexico,6,0,0.01
+5,A,Czechia,Mexico,Czechia vs Mexico,6,1,0.02
+5,A,Czechia,Mexico,Czechia vs Mexico,6,2,0.02
+5,A,Czechia,Mexico,Czechia vs Mexico,6,3,0.01
+5,A,Czechia,Mexico,Czechia vs Mexico,6,4,0.0
+5,A,Czechia,Mexico,Czechia vs Mexico,6,5,0.0
+5,A,Czechia,Mexico,Czechia vs Mexico,6,6,0.0
+6,A,South Africa,South Korea,South Africa vs South Korea,0,0,11.05
+6,A,South Africa,South Korea,South Africa vs South Korea,0,1,19.04
+6,A,South Africa,South Korea,South Africa vs South Korea,0,2,16.4
+6,A,South Africa,South Korea,South Africa vs South Korea,0,3,9.42
+6,A,South Africa,South Korea,South Africa vs South Korea,0,4,4.05
+6,A,South Africa,South Korea,South Africa vs South Korea,0,5,1.4
+6,A,South Africa,South Korea,South Africa vs South Korea,0,6,0.4
+6,A,South Africa,South Korea,South Africa vs South Korea,1,0,5.3
+6,A,South Africa,South Korea,South Africa vs South Korea,1,1,9.14
+6,A,South Africa,South Korea,South Africa vs South Korea,1,2,7.87
+6,A,South Africa,South Korea,South Africa vs South Korea,1,3,4.52
+6,A,South Africa,South Korea,South Africa vs South Korea,1,4,1.95
+6,A,South Africa,South Korea,South Africa vs South Korea,1,5,0.67
+6,A,South Africa,South Korea,South Africa vs South Korea,1,6,0.19
+6,A,South Africa,South Korea,South Africa vs South Korea,2,0,1.27
+6,A,South Africa,South Korea,South Africa vs South Korea,2,1,2.19
+6,A,South Africa,South Korea,South Africa vs South Korea,2,2,1.89
+6,A,South Africa,South Korea,South Africa vs South Korea,2,3,1.08
+6,A,South Africa,South Korea,South Africa vs South Korea,2,4,0.47
+6,A,South Africa,South Korea,South Africa vs South Korea,2,5,0.16
+6,A,South Africa,South Korea,South Africa vs South Korea,2,6,0.05
+6,A,South Africa,South Korea,South Africa vs South Korea,3,0,0.2
+6,A,South Africa,South Korea,South Africa vs South Korea,3,1,0.35
+6,A,South Africa,South Korea,South Africa vs South Korea,3,2,0.3
+6,A,South Africa,South Korea,South Africa vs South Korea,3,3,0.17
+6,A,South Africa,South Korea,South Africa vs South Korea,3,4,0.07
+6,A,South Africa,South Korea,South Africa vs South Korea,3,5,0.03
+6,A,South Africa,South Korea,South Africa vs South Korea,3,6,0.01
+6,A,South Africa,South Korea,South Africa vs South Korea,4,0,0.02
+6,A,South Africa,South Korea,South Africa vs South Korea,4,1,0.04
+6,A,South Africa,South Korea,South Africa vs South Korea,4,2,0.04
+6,A,South Africa,South Korea,South Africa vs South Korea,4,3,0.02
+6,A,South Africa,South Korea,South Africa vs South Korea,4,4,0.01
+6,A,South Africa,South Korea,South Africa vs South Korea,4,5,0.0
+6,A,South Africa,South Korea,South Africa vs South Korea,4,6,0.0
+6,A,South Africa,South Korea,South Africa vs South Korea,5,0,0.0
+6,A,South Africa,South Korea,South Africa vs South Korea,5,1,0.0
+6,A,South Africa,South Korea,South Africa vs South Korea,5,2,0.0
+6,A,South Africa,South Korea,South Africa vs South Korea,5,3,0.0
+6,A,South Africa,South Korea,South Africa vs South Korea,5,4,0.0
+6,A,South Africa,South Korea,South Africa vs South Korea,5,5,0.0
+6,A,South Africa,South Korea,South Africa vs South Korea,5,6,0.0
+6,A,South Africa,South Korea,South Africa vs South Korea,6,0,0.0
+6,A,South Africa,South Korea,South Africa vs South Korea,6,1,0.0
+6,A,South Africa,South Korea,South Africa vs South Korea,6,2,0.0
+6,A,South Africa,South Korea,South Africa vs South Korea,6,3,0.0
+6,A,South Africa,South Korea,South Africa vs South Korea,6,4,0.0
+6,A,South Africa,South Korea,South Africa vs South Korea,6,5,0.0
+6,A,South Africa,South Korea,South Africa vs South Korea,6,6,0.0
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,0,0,20.04
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,0,1,13.89
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,0,2,4.81
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,0,3,1.11
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,0,4,0.19
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,0,5,0.03
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,0,6,0.0
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,1,0,18.32
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,1,1,12.7
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,1,2,4.4
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,1,3,1.02
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,1,4,0.18
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,1,5,0.02
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,1,6,0.0
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,2,0,8.38
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,2,1,5.81
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,2,2,2.01
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,2,3,0.46
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,2,4,0.08
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,2,5,0.01
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,2,6,0.0
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,3,0,2.55
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,3,1,1.77
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,3,2,0.61
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,3,3,0.14
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,3,4,0.02
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,3,5,0.0
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,3,6,0.0
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,4,0,0.58
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,4,1,0.4
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,4,2,0.14
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,4,3,0.03
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,4,4,0.01
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,4,5,0.0
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,4,6,0.0
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,5,0,0.11
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,5,1,0.07
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,5,2,0.03
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,5,3,0.01
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,5,4,0.0
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,5,5,0.0
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,5,6,0.0
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,6,0,0.02
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,6,1,0.01
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,6,2,0.0
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,6,3,0.0
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,6,4,0.0
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,6,5,0.0
+7,B,Canada,Bosnia and Herzegovina,Canada vs Bosnia and Herzegovina,6,6,0.0
+8,B,Qatar,Switzerland,Qatar vs Switzerland,0,0,10.0
+8,B,Qatar,Switzerland,Qatar vs Switzerland,0,1,18.54
+8,B,Qatar,Switzerland,Qatar vs Switzerland,0,2,17.18
+8,B,Qatar,Switzerland,Qatar vs Switzerland,0,3,10.62
+8,B,Qatar,Switzerland,Qatar vs Switzerland,0,4,4.92
+8,B,Qatar,Switzerland,Qatar vs Switzerland,0,5,1.82
+8,B,Qatar,Switzerland,Qatar vs Switzerland,0,6,0.56
+8,B,Qatar,Switzerland,Qatar vs Switzerland,1,0,4.49
+8,B,Qatar,Switzerland,Qatar vs Switzerland,1,1,8.32
+8,B,Qatar,Switzerland,Qatar vs Switzerland,1,2,7.71
+8,B,Qatar,Switzerland,Qatar vs Switzerland,1,3,4.76
+8,B,Qatar,Switzerland,Qatar vs Switzerland,1,4,2.21
+8,B,Qatar,Switzerland,Qatar vs Switzerland,1,5,0.82
+8,B,Qatar,Switzerland,Qatar vs Switzerland,1,6,0.25
+8,B,Qatar,Switzerland,Qatar vs Switzerland,2,0,1.01
+8,B,Qatar,Switzerland,Qatar vs Switzerland,2,1,1.87
+8,B,Qatar,Switzerland,Qatar vs Switzerland,2,2,1.73
+8,B,Qatar,Switzerland,Qatar vs Switzerland,2,3,1.07
+8,B,Qatar,Switzerland,Qatar vs Switzerland,2,4,0.5
+8,B,Qatar,Switzerland,Qatar vs Switzerland,2,5,0.18
+8,B,Qatar,Switzerland,Qatar vs Switzerland,2,6,0.06
+8,B,Qatar,Switzerland,Qatar vs Switzerland,3,0,0.15
+8,B,Qatar,Switzerland,Qatar vs Switzerland,3,1,0.28
+8,B,Qatar,Switzerland,Qatar vs Switzerland,3,2,0.26
+8,B,Qatar,Switzerland,Qatar vs Switzerland,3,3,0.16
+8,B,Qatar,Switzerland,Qatar vs Switzerland,3,4,0.07
+8,B,Qatar,Switzerland,Qatar vs Switzerland,3,5,0.03
+8,B,Qatar,Switzerland,Qatar vs Switzerland,3,6,0.01
+8,B,Qatar,Switzerland,Qatar vs Switzerland,4,0,0.02
+8,B,Qatar,Switzerland,Qatar vs Switzerland,4,1,0.03
+8,B,Qatar,Switzerland,Qatar vs Switzerland,4,2,0.03
+8,B,Qatar,Switzerland,Qatar vs Switzerland,4,3,0.02
+8,B,Qatar,Switzerland,Qatar vs Switzerland,4,4,0.01
+8,B,Qatar,Switzerland,Qatar vs Switzerland,4,5,0.0
+8,B,Qatar,Switzerland,Qatar vs Switzerland,4,6,0.0
+8,B,Qatar,Switzerland,Qatar vs Switzerland,5,0,0.0
+8,B,Qatar,Switzerland,Qatar vs Switzerland,5,1,0.0
+8,B,Qatar,Switzerland,Qatar vs Switzerland,5,2,0.0
+8,B,Qatar,Switzerland,Qatar vs Switzerland,5,3,0.0
+8,B,Qatar,Switzerland,Qatar vs Switzerland,5,4,0.0
+8,B,Qatar,Switzerland,Qatar vs Switzerland,5,5,0.0
+8,B,Qatar,Switzerland,Qatar vs Switzerland,5,6,0.0
+8,B,Qatar,Switzerland,Qatar vs Switzerland,6,0,0.0
+8,B,Qatar,Switzerland,Qatar vs Switzerland,6,1,0.0
+8,B,Qatar,Switzerland,Qatar vs Switzerland,6,2,0.0
+8,B,Qatar,Switzerland,Qatar vs Switzerland,6,3,0.0
+8,B,Qatar,Switzerland,Qatar vs Switzerland,6,4,0.0
+8,B,Qatar,Switzerland,Qatar vs Switzerland,6,5,0.0
+8,B,Qatar,Switzerland,Qatar vs Switzerland,6,6,0.0
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,0,0,11.61
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,0,1,9.5
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,0,2,3.89
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,0,3,1.06
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,0,4,0.22
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,0,5,0.04
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,0,6,0.0
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,1,0,15.5
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,1,1,12.68
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,1,2,5.19
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,1,3,1.42
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,1,4,0.29
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,1,5,0.05
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,1,6,0.01
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,2,0,10.35
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,2,1,8.47
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,2,2,3.46
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,2,3,0.94
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,2,4,0.19
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,2,5,0.03
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,2,6,0.0
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,3,0,4.6
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,3,1,3.77
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,3,2,1.54
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,3,3,0.42
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,3,4,0.09
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,3,5,0.01
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,3,6,0.0
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,4,0,1.54
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,4,1,1.26
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,4,2,0.51
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,4,3,0.14
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,4,4,0.03
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,4,5,0.0
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,4,6,0.0
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,5,0,0.41
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,5,1,0.34
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,5,2,0.14
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,5,3,0.04
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,5,4,0.01
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,5,5,0.0
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,5,6,0.0
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,6,0,0.09
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,6,1,0.07
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,6,2,0.03
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,6,3,0.01
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,6,4,0.0
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,6,5,0.0
+9,B,Switzerland,Bosnia and Herzegovina,Switzerland vs Bosnia and Herzegovina,6,6,0.0
+10,B,Canada,Qatar,Canada vs Qatar,0,0,19.21
+10,B,Canada,Qatar,Canada vs Qatar,0,1,7.3
+10,B,Canada,Qatar,Canada vs Qatar,0,2,1.39
+10,B,Canada,Qatar,Canada vs Qatar,0,3,0.18
+10,B,Canada,Qatar,Canada vs Qatar,0,4,0.02
+10,B,Canada,Qatar,Canada vs Qatar,0,5,0.0
+10,B,Canada,Qatar,Canada vs Qatar,0,6,0.0
+10,B,Canada,Qatar,Canada vs Qatar,1,0,24.39
+10,B,Canada,Qatar,Canada vs Qatar,1,1,9.27
+10,B,Canada,Qatar,Canada vs Qatar,1,2,1.76
+10,B,Canada,Qatar,Canada vs Qatar,1,3,0.22
+10,B,Canada,Qatar,Canada vs Qatar,1,4,0.02
+10,B,Canada,Qatar,Canada vs Qatar,1,5,0.0
+10,B,Canada,Qatar,Canada vs Qatar,1,6,0.0
+10,B,Canada,Qatar,Canada vs Qatar,2,0,15.48
+10,B,Canada,Qatar,Canada vs Qatar,2,1,5.89
+10,B,Canada,Qatar,Canada vs Qatar,2,2,1.12
+10,B,Canada,Qatar,Canada vs Qatar,2,3,0.14
+10,B,Canada,Qatar,Canada vs Qatar,2,4,0.01
+10,B,Canada,Qatar,Canada vs Qatar,2,5,0.0
+10,B,Canada,Qatar,Canada vs Qatar,2,6,0.0
+10,B,Canada,Qatar,Canada vs Qatar,3,0,6.55
+10,B,Canada,Qatar,Canada vs Qatar,3,1,2.49
+10,B,Canada,Qatar,Canada vs Qatar,3,2,0.47
+10,B,Canada,Qatar,Canada vs Qatar,3,3,0.06
+10,B,Canada,Qatar,Canada vs Qatar,3,4,0.01
+10,B,Canada,Qatar,Canada vs Qatar,3,5,0.0
+10,B,Canada,Qatar,Canada vs Qatar,3,6,0.0
+10,B,Canada,Qatar,Canada vs Qatar,4,0,2.08
+10,B,Canada,Qatar,Canada vs Qatar,4,1,0.79
+10,B,Canada,Qatar,Canada vs Qatar,4,2,0.15
+10,B,Canada,Qatar,Canada vs Qatar,4,3,0.02
+10,B,Canada,Qatar,Canada vs Qatar,4,4,0.0
+10,B,Canada,Qatar,Canada vs Qatar,4,5,0.0
+10,B,Canada,Qatar,Canada vs Qatar,4,6,0.0
+10,B,Canada,Qatar,Canada vs Qatar,5,0,0.53
+10,B,Canada,Qatar,Canada vs Qatar,5,1,0.2
+10,B,Canada,Qatar,Canada vs Qatar,5,2,0.04
+10,B,Canada,Qatar,Canada vs Qatar,5,3,0.0
+10,B,Canada,Qatar,Canada vs Qatar,5,4,0.0
+10,B,Canada,Qatar,Canada vs Qatar,5,5,0.0
+10,B,Canada,Qatar,Canada vs Qatar,5,6,0.0
+10,B,Canada,Qatar,Canada vs Qatar,6,0,0.11
+10,B,Canada,Qatar,Canada vs Qatar,6,1,0.04
+10,B,Canada,Qatar,Canada vs Qatar,6,2,0.01
+10,B,Canada,Qatar,Canada vs Qatar,6,3,0.0
+10,B,Canada,Qatar,Canada vs Qatar,6,4,0.0
+10,B,Canada,Qatar,Canada vs Qatar,6,5,0.0
+10,B,Canada,Qatar,Canada vs Qatar,6,6,0.0
+11,B,Switzerland,Canada,Switzerland vs Canada,0,0,10.53
+11,B,Switzerland,Canada,Switzerland vs Canada,0,1,10.6
+11,B,Switzerland,Canada,Switzerland vs Canada,0,2,5.33
+11,B,Switzerland,Canada,Switzerland vs Canada,0,3,1.79
+11,B,Switzerland,Canada,Switzerland vs Canada,0,4,0.45
+11,B,Switzerland,Canada,Switzerland vs Canada,0,5,0.09
+11,B,Switzerland,Canada,Switzerland vs Canada,0,6,0.02
+11,B,Switzerland,Canada,Switzerland vs Canada,1,0,13.1
+11,B,Switzerland,Canada,Switzerland vs Canada,1,1,13.19
+11,B,Switzerland,Canada,Switzerland vs Canada,1,2,6.64
+11,B,Switzerland,Canada,Switzerland vs Canada,1,3,2.23
+11,B,Switzerland,Canada,Switzerland vs Canada,1,4,0.56
+11,B,Switzerland,Canada,Switzerland vs Canada,1,5,0.11
+11,B,Switzerland,Canada,Switzerland vs Canada,1,6,0.02
+11,B,Switzerland,Canada,Switzerland vs Canada,2,0,8.16
+11,B,Switzerland,Canada,Switzerland vs Canada,2,1,8.21
+11,B,Switzerland,Canada,Switzerland vs Canada,2,2,4.13
+11,B,Switzerland,Canada,Switzerland vs Canada,2,3,1.39
+11,B,Switzerland,Canada,Switzerland vs Canada,2,4,0.35
+11,B,Switzerland,Canada,Switzerland vs Canada,2,5,0.07
+11,B,Switzerland,Canada,Switzerland vs Canada,2,6,0.01
+11,B,Switzerland,Canada,Switzerland vs Canada,3,0,3.38
+11,B,Switzerland,Canada,Switzerland vs Canada,3,1,3.4
+11,B,Switzerland,Canada,Switzerland vs Canada,3,2,1.71
+11,B,Switzerland,Canada,Switzerland vs Canada,3,3,0.57
+11,B,Switzerland,Canada,Switzerland vs Canada,3,4,0.14
+11,B,Switzerland,Canada,Switzerland vs Canada,3,5,0.03
+11,B,Switzerland,Canada,Switzerland vs Canada,3,6,0.0
+11,B,Switzerland,Canada,Switzerland vs Canada,4,0,1.05
+11,B,Switzerland,Canada,Switzerland vs Canada,4,1,1.06
+11,B,Switzerland,Canada,Switzerland vs Canada,4,2,0.53
+11,B,Switzerland,Canada,Switzerland vs Canada,4,3,0.18
+11,B,Switzerland,Canada,Switzerland vs Canada,4,4,0.04
+11,B,Switzerland,Canada,Switzerland vs Canada,4,5,0.01
+11,B,Switzerland,Canada,Switzerland vs Canada,4,6,0.0
+11,B,Switzerland,Canada,Switzerland vs Canada,5,0,0.26
+11,B,Switzerland,Canada,Switzerland vs Canada,5,1,0.26
+11,B,Switzerland,Canada,Switzerland vs Canada,5,2,0.13
+11,B,Switzerland,Canada,Switzerland vs Canada,5,3,0.04
+11,B,Switzerland,Canada,Switzerland vs Canada,5,4,0.01
+11,B,Switzerland,Canada,Switzerland vs Canada,5,5,0.0
+11,B,Switzerland,Canada,Switzerland vs Canada,5,6,0.0
+11,B,Switzerland,Canada,Switzerland vs Canada,6,0,0.05
+11,B,Switzerland,Canada,Switzerland vs Canada,6,1,0.05
+11,B,Switzerland,Canada,Switzerland vs Canada,6,2,0.03
+11,B,Switzerland,Canada,Switzerland vs Canada,6,3,0.01
+11,B,Switzerland,Canada,Switzerland vs Canada,6,4,0.0
+11,B,Switzerland,Canada,Switzerland vs Canada,6,5,0.0
+11,B,Switzerland,Canada,Switzerland vs Canada,6,6,0.0
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,0,0,23.69
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,0,1,9.66
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,0,2,1.97
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,0,3,0.27
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,0,4,0.03
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,0,5,0.0
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,0,6,0.0
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,1,0,24.46
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,1,1,9.97
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,1,2,2.03
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,1,3,0.28
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,1,4,0.03
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,1,5,0.0
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,1,6,0.0
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,2,0,12.62
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,2,1,5.15
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,2,2,1.05
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,2,3,0.14
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,2,4,0.01
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,2,5,0.0
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,2,6,0.0
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,3,0,4.34
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,3,1,1.77
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,3,2,0.36
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,3,3,0.05
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,3,4,0.01
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,3,5,0.0
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,3,6,0.0
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,4,0,1.12
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,4,1,0.46
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,4,2,0.09
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,4,3,0.01
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,4,4,0.0
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,4,5,0.0
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,4,6,0.0
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,5,0,0.23
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,5,1,0.09
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,5,2,0.02
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,5,3,0.0
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,5,4,0.0
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,5,5,0.0
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,5,6,0.0
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,6,0,0.04
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,6,1,0.02
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,6,2,0.0
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,6,3,0.0
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,6,4,0.0
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,6,5,0.0
+12,B,Bosnia and Herzegovina,Qatar,Bosnia and Herzegovina vs Qatar,6,6,0.0
+13,C,Brazil,Morocco,Brazil vs Morocco,0,0,4.62
+13,C,Brazil,Morocco,Brazil vs Morocco,0,1,7.19
+13,C,Brazil,Morocco,Brazil vs Morocco,0,2,5.6
+13,C,Brazil,Morocco,Brazil vs Morocco,0,3,2.91
+13,C,Brazil,Morocco,Brazil vs Morocco,0,4,1.13
+13,C,Brazil,Morocco,Brazil vs Morocco,0,5,0.35
+13,C,Brazil,Morocco,Brazil vs Morocco,0,6,0.09
+13,C,Brazil,Morocco,Brazil vs Morocco,1,0,7.01
+13,C,Brazil,Morocco,Brazil vs Morocco,1,1,10.91
+13,C,Brazil,Morocco,Brazil vs Morocco,1,2,8.5
+13,C,Brazil,Morocco,Brazil vs Morocco,1,3,4.41
+13,C,Brazil,Morocco,Brazil vs Morocco,1,4,1.72
+13,C,Brazil,Morocco,Brazil vs Morocco,1,5,0.54
+13,C,Brazil,Morocco,Brazil vs Morocco,1,6,0.14
+13,C,Brazil,Morocco,Brazil vs Morocco,2,0,5.32
+13,C,Brazil,Morocco,Brazil vs Morocco,2,1,8.28
+13,C,Brazil,Morocco,Brazil vs Morocco,2,2,6.45
+13,C,Brazil,Morocco,Brazil vs Morocco,2,3,3.35
+13,C,Brazil,Morocco,Brazil vs Morocco,2,4,1.3
+13,C,Brazil,Morocco,Brazil vs Morocco,2,5,0.41
+13,C,Brazil,Morocco,Brazil vs Morocco,2,6,0.11
+13,C,Brazil,Morocco,Brazil vs Morocco,3,0,2.69
+13,C,Brazil,Morocco,Brazil vs Morocco,3,1,4.19
+13,C,Brazil,Morocco,Brazil vs Morocco,3,2,3.26
+13,C,Brazil,Morocco,Brazil vs Morocco,3,3,1.69
+13,C,Brazil,Morocco,Brazil vs Morocco,3,4,0.66
+13,C,Brazil,Morocco,Brazil vs Morocco,3,5,0.21
+13,C,Brazil,Morocco,Brazil vs Morocco,3,6,0.05
+13,C,Brazil,Morocco,Brazil vs Morocco,4,0,1.02
+13,C,Brazil,Morocco,Brazil vs Morocco,4,1,1.59
+13,C,Brazil,Morocco,Brazil vs Morocco,4,2,1.24
+13,C,Brazil,Morocco,Brazil vs Morocco,4,3,0.64
+13,C,Brazil,Morocco,Brazil vs Morocco,4,4,0.25
+13,C,Brazil,Morocco,Brazil vs Morocco,4,5,0.08
+13,C,Brazil,Morocco,Brazil vs Morocco,4,6,0.02
+13,C,Brazil,Morocco,Brazil vs Morocco,5,0,0.31
+13,C,Brazil,Morocco,Brazil vs Morocco,5,1,0.48
+13,C,Brazil,Morocco,Brazil vs Morocco,5,2,0.38
+13,C,Brazil,Morocco,Brazil vs Morocco,5,3,0.2
+13,C,Brazil,Morocco,Brazil vs Morocco,5,4,0.08
+13,C,Brazil,Morocco,Brazil vs Morocco,5,5,0.02
+13,C,Brazil,Morocco,Brazil vs Morocco,5,6,0.01
+13,C,Brazil,Morocco,Brazil vs Morocco,6,0,0.08
+13,C,Brazil,Morocco,Brazil vs Morocco,6,1,0.12
+13,C,Brazil,Morocco,Brazil vs Morocco,6,2,0.1
+13,C,Brazil,Morocco,Brazil vs Morocco,6,3,0.05
+13,C,Brazil,Morocco,Brazil vs Morocco,6,4,0.02
+13,C,Brazil,Morocco,Brazil vs Morocco,6,5,0.01
+13,C,Brazil,Morocco,Brazil vs Morocco,6,6,0.0
+14,C,Haiti,Scotland,Haiti vs Scotland,0,0,7.28
+14,C,Haiti,Scotland,Haiti vs Scotland,0,1,12.42
+14,C,Haiti,Scotland,Haiti vs Scotland,0,2,10.61
+14,C,Haiti,Scotland,Haiti vs Scotland,0,3,6.04
+14,C,Haiti,Scotland,Haiti vs Scotland,0,4,2.58
+14,C,Haiti,Scotland,Haiti vs Scotland,0,5,0.88
+14,C,Haiti,Scotland,Haiti vs Scotland,0,6,0.25
+14,C,Haiti,Scotland,Haiti vs Scotland,1,0,6.64
+14,C,Haiti,Scotland,Haiti vs Scotland,1,1,11.34
+14,C,Haiti,Scotland,Haiti vs Scotland,1,2,9.68
+14,C,Haiti,Scotland,Haiti vs Scotland,1,3,5.51
+14,C,Haiti,Scotland,Haiti vs Scotland,1,4,2.35
+14,C,Haiti,Scotland,Haiti vs Scotland,1,5,0.8
+14,C,Haiti,Scotland,Haiti vs Scotland,1,6,0.23
+14,C,Haiti,Scotland,Haiti vs Scotland,2,0,3.03
+14,C,Haiti,Scotland,Haiti vs Scotland,2,1,5.18
+14,C,Haiti,Scotland,Haiti vs Scotland,2,2,4.42
+14,C,Haiti,Scotland,Haiti vs Scotland,2,3,2.52
+14,C,Haiti,Scotland,Haiti vs Scotland,2,4,1.07
+14,C,Haiti,Scotland,Haiti vs Scotland,2,5,0.37
+14,C,Haiti,Scotland,Haiti vs Scotland,2,6,0.1
+14,C,Haiti,Scotland,Haiti vs Scotland,3,0,0.92
+14,C,Haiti,Scotland,Haiti vs Scotland,3,1,1.58
+14,C,Haiti,Scotland,Haiti vs Scotland,3,2,1.35
+14,C,Haiti,Scotland,Haiti vs Scotland,3,3,0.77
+14,C,Haiti,Scotland,Haiti vs Scotland,3,4,0.33
+14,C,Haiti,Scotland,Haiti vs Scotland,3,5,0.11
+14,C,Haiti,Scotland,Haiti vs Scotland,3,6,0.03
+14,C,Haiti,Scotland,Haiti vs Scotland,4,0,0.21
+14,C,Haiti,Scotland,Haiti vs Scotland,4,1,0.36
+14,C,Haiti,Scotland,Haiti vs Scotland,4,2,0.31
+14,C,Haiti,Scotland,Haiti vs Scotland,4,3,0.17
+14,C,Haiti,Scotland,Haiti vs Scotland,4,4,0.07
+14,C,Haiti,Scotland,Haiti vs Scotland,4,5,0.03
+14,C,Haiti,Scotland,Haiti vs Scotland,4,6,0.01
+14,C,Haiti,Scotland,Haiti vs Scotland,5,0,0.04
+14,C,Haiti,Scotland,Haiti vs Scotland,5,1,0.07
+14,C,Haiti,Scotland,Haiti vs Scotland,5,2,0.06
+14,C,Haiti,Scotland,Haiti vs Scotland,5,3,0.03
+14,C,Haiti,Scotland,Haiti vs Scotland,5,4,0.01
+14,C,Haiti,Scotland,Haiti vs Scotland,5,5,0.0
+14,C,Haiti,Scotland,Haiti vs Scotland,5,6,0.0
+14,C,Haiti,Scotland,Haiti vs Scotland,6,0,0.01
+14,C,Haiti,Scotland,Haiti vs Scotland,6,1,0.01
+14,C,Haiti,Scotland,Haiti vs Scotland,6,2,0.01
+14,C,Haiti,Scotland,Haiti vs Scotland,6,3,0.0
+14,C,Haiti,Scotland,Haiti vs Scotland,6,4,0.0
+14,C,Haiti,Scotland,Haiti vs Scotland,6,5,0.0
+14,C,Haiti,Scotland,Haiti vs Scotland,6,6,0.0
+15,C,Brazil,Haiti,Brazil vs Haiti,0,0,3.97
+15,C,Brazil,Haiti,Brazil vs Haiti,0,1,3.34
+15,C,Brazil,Haiti,Brazil vs Haiti,0,2,1.4
+15,C,Brazil,Haiti,Brazil vs Haiti,0,3,0.39
+15,C,Brazil,Haiti,Brazil vs Haiti,0,4,0.08
+15,C,Brazil,Haiti,Brazil vs Haiti,0,5,0.01
+15,C,Brazil,Haiti,Brazil vs Haiti,0,6,0.0
+15,C,Brazil,Haiti,Brazil vs Haiti,1,0,9.48
+15,C,Brazil,Haiti,Brazil vs Haiti,1,1,7.97
+15,C,Brazil,Haiti,Brazil vs Haiti,1,2,3.35
+15,C,Brazil,Haiti,Brazil vs Haiti,1,3,0.94
+15,C,Brazil,Haiti,Brazil vs Haiti,1,4,0.2
+15,C,Brazil,Haiti,Brazil vs Haiti,1,5,0.03
+15,C,Brazil,Haiti,Brazil vs Haiti,1,6,0.0
+15,C,Brazil,Haiti,Brazil vs Haiti,2,0,11.3
+15,C,Brazil,Haiti,Brazil vs Haiti,2,1,9.5
+15,C,Brazil,Haiti,Brazil vs Haiti,2,2,3.99
+15,C,Brazil,Haiti,Brazil vs Haiti,2,3,1.12
+15,C,Brazil,Haiti,Brazil vs Haiti,2,4,0.24
+15,C,Brazil,Haiti,Brazil vs Haiti,2,5,0.04
+15,C,Brazil,Haiti,Brazil vs Haiti,2,6,0.01
+15,C,Brazil,Haiti,Brazil vs Haiti,3,0,8.98
+15,C,Brazil,Haiti,Brazil vs Haiti,3,1,7.55
+15,C,Brazil,Haiti,Brazil vs Haiti,3,2,3.17
+15,C,Brazil,Haiti,Brazil vs Haiti,3,3,0.89
+15,C,Brazil,Haiti,Brazil vs Haiti,3,4,0.19
+15,C,Brazil,Haiti,Brazil vs Haiti,3,5,0.03
+15,C,Brazil,Haiti,Brazil vs Haiti,3,6,0.0
+15,C,Brazil,Haiti,Brazil vs Haiti,4,0,5.35
+15,C,Brazil,Haiti,Brazil vs Haiti,4,1,4.5
+15,C,Brazil,Haiti,Brazil vs Haiti,4,2,1.89
+15,C,Brazil,Haiti,Brazil vs Haiti,4,3,0.53
+15,C,Brazil,Haiti,Brazil vs Haiti,4,4,0.11
+15,C,Brazil,Haiti,Brazil vs Haiti,4,5,0.02
+15,C,Brazil,Haiti,Brazil vs Haiti,4,6,0.0
+15,C,Brazil,Haiti,Brazil vs Haiti,5,0,2.55
+15,C,Brazil,Haiti,Brazil vs Haiti,5,1,2.15
+15,C,Brazil,Haiti,Brazil vs Haiti,5,2,0.9
+15,C,Brazil,Haiti,Brazil vs Haiti,5,3,0.25
+15,C,Brazil,Haiti,Brazil vs Haiti,5,4,0.05
+15,C,Brazil,Haiti,Brazil vs Haiti,5,5,0.01
+15,C,Brazil,Haiti,Brazil vs Haiti,5,6,0.0
+15,C,Brazil,Haiti,Brazil vs Haiti,6,0,1.01
+15,C,Brazil,Haiti,Brazil vs Haiti,6,1,0.85
+15,C,Brazil,Haiti,Brazil vs Haiti,6,2,0.36
+15,C,Brazil,Haiti,Brazil vs Haiti,6,3,0.1
+15,C,Brazil,Haiti,Brazil vs Haiti,6,4,0.02
+15,C,Brazil,Haiti,Brazil vs Haiti,6,5,0.0
+15,C,Brazil,Haiti,Brazil vs Haiti,6,6,0.0
+16,C,Morocco,Scotland,Morocco vs Scotland,0,0,6.22
+16,C,Morocco,Scotland,Morocco vs Scotland,0,1,6.76
+16,C,Morocco,Scotland,Morocco vs Scotland,0,2,3.67
+16,C,Morocco,Scotland,Morocco vs Scotland,0,3,1.33
+16,C,Morocco,Scotland,Morocco vs Scotland,0,4,0.36
+16,C,Morocco,Scotland,Morocco vs Scotland,0,5,0.08
+16,C,Morocco,Scotland,Morocco vs Scotland,0,6,0.01
+16,C,Morocco,Scotland,Morocco vs Scotland,1,0,10.51
+16,C,Morocco,Scotland,Morocco vs Scotland,1,1,11.43
+16,C,Morocco,Scotland,Morocco vs Scotland,1,2,6.21
+16,C,Morocco,Scotland,Morocco vs Scotland,1,3,2.25
+16,C,Morocco,Scotland,Morocco vs Scotland,1,4,0.61
+16,C,Morocco,Scotland,Morocco vs Scotland,1,5,0.13
+16,C,Morocco,Scotland,Morocco vs Scotland,1,6,0.02
+16,C,Morocco,Scotland,Morocco vs Scotland,2,0,8.89
+16,C,Morocco,Scotland,Morocco vs Scotland,2,1,9.66
+16,C,Morocco,Scotland,Morocco vs Scotland,2,2,5.25
+16,C,Morocco,Scotland,Morocco vs Scotland,2,3,1.9
+16,C,Morocco,Scotland,Morocco vs Scotland,2,4,0.52
+16,C,Morocco,Scotland,Morocco vs Scotland,2,5,0.11
+16,C,Morocco,Scotland,Morocco vs Scotland,2,6,0.02
+16,C,Morocco,Scotland,Morocco vs Scotland,3,0,5.01
+16,C,Morocco,Scotland,Morocco vs Scotland,3,1,5.45
+16,C,Morocco,Scotland,Morocco vs Scotland,3,2,2.96
+16,C,Morocco,Scotland,Morocco vs Scotland,3,3,1.07
+16,C,Morocco,Scotland,Morocco vs Scotland,3,4,0.29
+16,C,Morocco,Scotland,Morocco vs Scotland,3,5,0.06
+16,C,Morocco,Scotland,Morocco vs Scotland,3,6,0.01
+16,C,Morocco,Scotland,Morocco vs Scotland,4,0,2.12
+16,C,Morocco,Scotland,Morocco vs Scotland,4,1,2.3
+16,C,Morocco,Scotland,Morocco vs Scotland,4,2,1.25
+16,C,Morocco,Scotland,Morocco vs Scotland,4,3,0.45
+16,C,Morocco,Scotland,Morocco vs Scotland,4,4,0.12
+16,C,Morocco,Scotland,Morocco vs Scotland,4,5,0.03
+16,C,Morocco,Scotland,Morocco vs Scotland,4,6,0.0
+16,C,Morocco,Scotland,Morocco vs Scotland,5,0,0.72
+16,C,Morocco,Scotland,Morocco vs Scotland,5,1,0.78
+16,C,Morocco,Scotland,Morocco vs Scotland,5,2,0.42
+16,C,Morocco,Scotland,Morocco vs Scotland,5,3,0.15
+16,C,Morocco,Scotland,Morocco vs Scotland,5,4,0.04
+16,C,Morocco,Scotland,Morocco vs Scotland,5,5,0.01
+16,C,Morocco,Scotland,Morocco vs Scotland,5,6,0.0
+16,C,Morocco,Scotland,Morocco vs Scotland,6,0,0.2
+16,C,Morocco,Scotland,Morocco vs Scotland,6,1,0.22
+16,C,Morocco,Scotland,Morocco vs Scotland,6,2,0.12
+16,C,Morocco,Scotland,Morocco vs Scotland,6,3,0.04
+16,C,Morocco,Scotland,Morocco vs Scotland,6,4,0.01
+16,C,Morocco,Scotland,Morocco vs Scotland,6,5,0.0
+16,C,Morocco,Scotland,Morocco vs Scotland,6,6,0.0
+17,C,Scotland,Brazil,Scotland vs Brazil,0,0,2.94
+17,C,Scotland,Brazil,Scotland vs Brazil,0,1,6.25
+17,C,Scotland,Brazil,Scotland vs Brazil,0,2,6.64
+17,C,Scotland,Brazil,Scotland vs Brazil,0,3,4.7
+17,C,Scotland,Brazil,Scotland vs Brazil,0,4,2.5
+17,C,Scotland,Brazil,Scotland vs Brazil,0,5,1.06
+17,C,Scotland,Brazil,Scotland vs Brazil,0,6,0.38
+17,C,Scotland,Brazil,Scotland vs Brazil,1,0,4.12
+17,C,Scotland,Brazil,Scotland vs Brazil,1,1,8.76
+17,C,Scotland,Brazil,Scotland vs Brazil,1,2,9.31
+17,C,Scotland,Brazil,Scotland vs Brazil,1,3,6.59
+17,C,Scotland,Brazil,Scotland vs Brazil,1,4,3.5
+17,C,Scotland,Brazil,Scotland vs Brazil,1,5,1.49
+17,C,Scotland,Brazil,Scotland vs Brazil,1,6,0.53
+17,C,Scotland,Brazil,Scotland vs Brazil,2,0,2.89
+17,C,Scotland,Brazil,Scotland vs Brazil,2,1,6.14
+17,C,Scotland,Brazil,Scotland vs Brazil,2,2,6.52
+17,C,Scotland,Brazil,Scotland vs Brazil,2,3,4.62
+17,C,Scotland,Brazil,Scotland vs Brazil,2,4,2.45
+17,C,Scotland,Brazil,Scotland vs Brazil,2,5,1.04
+17,C,Scotland,Brazil,Scotland vs Brazil,2,6,0.37
+17,C,Scotland,Brazil,Scotland vs Brazil,3,0,1.35
+17,C,Scotland,Brazil,Scotland vs Brazil,3,1,2.87
+17,C,Scotland,Brazil,Scotland vs Brazil,3,2,3.05
+17,C,Scotland,Brazil,Scotland vs Brazil,3,3,2.16
+17,C,Scotland,Brazil,Scotland vs Brazil,3,4,1.15
+17,C,Scotland,Brazil,Scotland vs Brazil,3,5,0.49
+17,C,Scotland,Brazil,Scotland vs Brazil,3,6,0.17
+17,C,Scotland,Brazil,Scotland vs Brazil,4,0,0.47
+17,C,Scotland,Brazil,Scotland vs Brazil,4,1,1.0
+17,C,Scotland,Brazil,Scotland vs Brazil,4,2,1.07
+17,C,Scotland,Brazil,Scotland vs Brazil,4,3,0.76
+17,C,Scotland,Brazil,Scotland vs Brazil,4,4,0.4
+17,C,Scotland,Brazil,Scotland vs Brazil,4,5,0.17
+17,C,Scotland,Brazil,Scotland vs Brazil,4,6,0.06
+17,C,Scotland,Brazil,Scotland vs Brazil,5,0,0.13
+17,C,Scotland,Brazil,Scotland vs Brazil,5,1,0.28
+17,C,Scotland,Brazil,Scotland vs Brazil,5,2,0.3
+17,C,Scotland,Brazil,Scotland vs Brazil,5,3,0.21
+17,C,Scotland,Brazil,Scotland vs Brazil,5,4,0.11
+17,C,Scotland,Brazil,Scotland vs Brazil,5,5,0.05
+17,C,Scotland,Brazil,Scotland vs Brazil,5,6,0.02
+17,C,Scotland,Brazil,Scotland vs Brazil,6,0,0.03
+17,C,Scotland,Brazil,Scotland vs Brazil,6,1,0.07
+17,C,Scotland,Brazil,Scotland vs Brazil,6,2,0.07
+17,C,Scotland,Brazil,Scotland vs Brazil,6,3,0.05
+17,C,Scotland,Brazil,Scotland vs Brazil,6,4,0.03
+17,C,Scotland,Brazil,Scotland vs Brazil,6,5,0.01
+17,C,Scotland,Brazil,Scotland vs Brazil,6,6,0.0
+18,C,Morocco,Haiti,Morocco vs Haiti,0,0,7.81
+18,C,Morocco,Haiti,Morocco vs Haiti,0,1,5.09
+18,C,Morocco,Haiti,Morocco vs Haiti,0,2,1.66
+18,C,Morocco,Haiti,Morocco vs Haiti,0,3,0.36
+18,C,Morocco,Haiti,Morocco vs Haiti,0,4,0.06
+18,C,Morocco,Haiti,Morocco vs Haiti,0,5,0.01
+18,C,Morocco,Haiti,Morocco vs Haiti,0,6,0.0
+18,C,Morocco,Haiti,Morocco vs Haiti,1,0,14.82
+18,C,Morocco,Haiti,Morocco vs Haiti,1,1,9.67
+18,C,Morocco,Haiti,Morocco vs Haiti,1,2,3.15
+18,C,Morocco,Haiti,Morocco vs Haiti,1,3,0.69
+18,C,Morocco,Haiti,Morocco vs Haiti,1,4,0.11
+18,C,Morocco,Haiti,Morocco vs Haiti,1,5,0.01
+18,C,Morocco,Haiti,Morocco vs Haiti,1,6,0.0
+18,C,Morocco,Haiti,Morocco vs Haiti,2,0,14.06
+18,C,Morocco,Haiti,Morocco vs Haiti,2,1,9.17
+18,C,Morocco,Haiti,Morocco vs Haiti,2,2,2.99
+18,C,Morocco,Haiti,Morocco vs Haiti,2,3,0.65
+18,C,Morocco,Haiti,Morocco vs Haiti,2,4,0.11
+18,C,Morocco,Haiti,Morocco vs Haiti,2,5,0.01
+18,C,Morocco,Haiti,Morocco vs Haiti,2,6,0.0
+18,C,Morocco,Haiti,Morocco vs Haiti,3,0,8.89
+18,C,Morocco,Haiti,Morocco vs Haiti,3,1,5.8
+18,C,Morocco,Haiti,Morocco vs Haiti,3,2,1.89
+18,C,Morocco,Haiti,Morocco vs Haiti,3,3,0.41
+18,C,Morocco,Haiti,Morocco vs Haiti,3,4,0.07
+18,C,Morocco,Haiti,Morocco vs Haiti,3,5,0.01
+18,C,Morocco,Haiti,Morocco vs Haiti,3,6,0.0
+18,C,Morocco,Haiti,Morocco vs Haiti,4,0,4.22
+18,C,Morocco,Haiti,Morocco vs Haiti,4,1,2.75
+18,C,Morocco,Haiti,Morocco vs Haiti,4,2,0.9
+18,C,Morocco,Haiti,Morocco vs Haiti,4,3,0.2
+18,C,Morocco,Haiti,Morocco vs Haiti,4,4,0.03
+18,C,Morocco,Haiti,Morocco vs Haiti,4,5,0.0
+18,C,Morocco,Haiti,Morocco vs Haiti,4,6,0.0
+18,C,Morocco,Haiti,Morocco vs Haiti,5,0,1.6
+18,C,Morocco,Haiti,Morocco vs Haiti,5,1,1.04
+18,C,Morocco,Haiti,Morocco vs Haiti,5,2,0.34
+18,C,Morocco,Haiti,Morocco vs Haiti,5,3,0.07
+18,C,Morocco,Haiti,Morocco vs Haiti,5,4,0.01
+18,C,Morocco,Haiti,Morocco vs Haiti,5,5,0.0
+18,C,Morocco,Haiti,Morocco vs Haiti,5,6,0.0
+18,C,Morocco,Haiti,Morocco vs Haiti,6,0,0.51
+18,C,Morocco,Haiti,Morocco vs Haiti,6,1,0.33
+18,C,Morocco,Haiti,Morocco vs Haiti,6,2,0.11
+18,C,Morocco,Haiti,Morocco vs Haiti,6,3,0.02
+18,C,Morocco,Haiti,Morocco vs Haiti,6,4,0.0
+18,C,Morocco,Haiti,Morocco vs Haiti,6,5,0.0
+18,C,Morocco,Haiti,Morocco vs Haiti,6,6,0.0
+19,D,USA,Paraguay,USA vs Paraguay,0,0,4.1
+19,D,USA,Paraguay,USA vs Paraguay,0,1,5.73
+19,D,USA,Paraguay,USA vs Paraguay,0,2,4.01
+19,D,USA,Paraguay,USA vs Paraguay,0,3,1.87
+19,D,USA,Paraguay,USA vs Paraguay,0,4,0.65
+19,D,USA,Paraguay,USA vs Paraguay,0,5,0.18
+19,D,USA,Paraguay,USA vs Paraguay,0,6,0.04
+19,D,USA,Paraguay,USA vs Paraguay,1,0,7.37
+19,D,USA,Paraguay,USA vs Paraguay,1,1,10.3
+19,D,USA,Paraguay,USA vs Paraguay,1,2,7.19
+19,D,USA,Paraguay,USA vs Paraguay,1,3,3.35
+19,D,USA,Paraguay,USA vs Paraguay,1,4,1.17
+19,D,USA,Paraguay,USA vs Paraguay,1,5,0.33
+19,D,USA,Paraguay,USA vs Paraguay,1,6,0.08
+19,D,USA,Paraguay,USA vs Paraguay,2,0,6.62
+19,D,USA,Paraguay,USA vs Paraguay,2,1,9.25
+19,D,USA,Paraguay,USA vs Paraguay,2,2,6.46
+19,D,USA,Paraguay,USA vs Paraguay,2,3,3.01
+19,D,USA,Paraguay,USA vs Paraguay,2,4,1.05
+19,D,USA,Paraguay,USA vs Paraguay,2,5,0.29
+19,D,USA,Paraguay,USA vs Paraguay,2,6,0.07
+19,D,USA,Paraguay,USA vs Paraguay,3,0,3.96
+19,D,USA,Paraguay,USA vs Paraguay,3,1,5.54
+19,D,USA,Paraguay,USA vs Paraguay,3,2,3.87
+19,D,USA,Paraguay,USA vs Paraguay,3,3,1.8
+19,D,USA,Paraguay,USA vs Paraguay,3,4,0.63
+19,D,USA,Paraguay,USA vs Paraguay,3,5,0.18
+19,D,USA,Paraguay,USA vs Paraguay,3,6,0.04
+19,D,USA,Paraguay,USA vs Paraguay,4,0,1.78
+19,D,USA,Paraguay,USA vs Paraguay,4,1,2.49
+19,D,USA,Paraguay,USA vs Paraguay,4,2,1.74
+19,D,USA,Paraguay,USA vs Paraguay,4,3,0.81
+19,D,USA,Paraguay,USA vs Paraguay,4,4,0.28
+19,D,USA,Paraguay,USA vs Paraguay,4,5,0.08
+19,D,USA,Paraguay,USA vs Paraguay,4,6,0.02
+19,D,USA,Paraguay,USA vs Paraguay,5,0,0.64
+19,D,USA,Paraguay,USA vs Paraguay,5,1,0.89
+19,D,USA,Paraguay,USA vs Paraguay,5,2,0.62
+19,D,USA,Paraguay,USA vs Paraguay,5,3,0.29
+19,D,USA,Paraguay,USA vs Paraguay,5,4,0.1
+19,D,USA,Paraguay,USA vs Paraguay,5,5,0.03
+19,D,USA,Paraguay,USA vs Paraguay,5,6,0.01
+19,D,USA,Paraguay,USA vs Paraguay,6,0,0.19
+19,D,USA,Paraguay,USA vs Paraguay,6,1,0.27
+19,D,USA,Paraguay,USA vs Paraguay,6,2,0.19
+19,D,USA,Paraguay,USA vs Paraguay,6,3,0.09
+19,D,USA,Paraguay,USA vs Paraguay,6,4,0.03
+19,D,USA,Paraguay,USA vs Paraguay,6,5,0.01
+19,D,USA,Paraguay,USA vs Paraguay,6,6,0.0
+20,D,Australia,Türkiye,Australia vs Türkiye,0,0,10.28
+20,D,Australia,Türkiye,Australia vs Türkiye,0,1,11.81
+20,D,Australia,Türkiye,Australia vs Türkiye,0,2,6.78
+20,D,Australia,Türkiye,Australia vs Türkiye,0,3,2.6
+20,D,Australia,Türkiye,Australia vs Türkiye,0,4,0.75
+20,D,Australia,Türkiye,Australia vs Türkiye,0,5,0.17
+20,D,Australia,Türkiye,Australia vs Türkiye,0,6,0.03
+20,D,Australia,Türkiye,Australia vs Türkiye,1,0,11.58
+20,D,Australia,Türkiye,Australia vs Türkiye,1,1,13.3
+20,D,Australia,Türkiye,Australia vs Türkiye,1,2,7.64
+20,D,Australia,Türkiye,Australia vs Türkiye,1,3,2.92
+20,D,Australia,Türkiye,Australia vs Türkiye,1,4,0.84
+20,D,Australia,Türkiye,Australia vs Türkiye,1,5,0.19
+20,D,Australia,Türkiye,Australia vs Türkiye,1,6,0.04
+20,D,Australia,Türkiye,Australia vs Türkiye,2,0,6.52
+20,D,Australia,Türkiye,Australia vs Türkiye,2,1,7.49
+20,D,Australia,Türkiye,Australia vs Türkiye,2,2,4.3
+20,D,Australia,Türkiye,Australia vs Türkiye,2,3,1.65
+20,D,Australia,Türkiye,Australia vs Türkiye,2,4,0.47
+20,D,Australia,Türkiye,Australia vs Türkiye,2,5,0.11
+20,D,Australia,Türkiye,Australia vs Türkiye,2,6,0.02
+20,D,Australia,Türkiye,Australia vs Türkiye,3,0,2.45
+20,D,Australia,Türkiye,Australia vs Türkiye,3,1,2.81
+20,D,Australia,Türkiye,Australia vs Türkiye,3,2,1.61
+20,D,Australia,Türkiye,Australia vs Türkiye,3,3,0.62
+20,D,Australia,Türkiye,Australia vs Türkiye,3,4,0.18
+20,D,Australia,Türkiye,Australia vs Türkiye,3,5,0.04
+20,D,Australia,Türkiye,Australia vs Türkiye,3,6,0.01
+20,D,Australia,Türkiye,Australia vs Türkiye,4,0,0.69
+20,D,Australia,Türkiye,Australia vs Türkiye,4,1,0.79
+20,D,Australia,Türkiye,Australia vs Türkiye,4,2,0.45
+20,D,Australia,Türkiye,Australia vs Türkiye,4,3,0.17
+20,D,Australia,Türkiye,Australia vs Türkiye,4,4,0.05
+20,D,Australia,Türkiye,Australia vs Türkiye,4,5,0.01
+20,D,Australia,Türkiye,Australia vs Türkiye,4,6,0.0
+20,D,Australia,Türkiye,Australia vs Türkiye,5,0,0.16
+20,D,Australia,Türkiye,Australia vs Türkiye,5,1,0.18
+20,D,Australia,Türkiye,Australia vs Türkiye,5,2,0.1
+20,D,Australia,Türkiye,Australia vs Türkiye,5,3,0.04
+20,D,Australia,Türkiye,Australia vs Türkiye,5,4,0.01
+20,D,Australia,Türkiye,Australia vs Türkiye,5,5,0.0
+20,D,Australia,Türkiye,Australia vs Türkiye,5,6,0.0
+20,D,Australia,Türkiye,Australia vs Türkiye,6,0,0.03
+20,D,Australia,Türkiye,Australia vs Türkiye,6,1,0.03
+20,D,Australia,Türkiye,Australia vs Türkiye,6,2,0.02
+20,D,Australia,Türkiye,Australia vs Türkiye,6,3,0.01
+20,D,Australia,Türkiye,Australia vs Türkiye,6,4,0.0
+20,D,Australia,Türkiye,Australia vs Türkiye,6,5,0.0
+20,D,Australia,Türkiye,Australia vs Türkiye,6,6,0.0
+21,D,USA,Australia,USA vs Australia,0,0,3.99
+21,D,USA,Australia,USA vs Australia,0,1,7.16
+21,D,USA,Australia,USA vs Australia,0,2,6.42
+21,D,USA,Australia,USA vs Australia,0,3,3.84
+21,D,USA,Australia,USA vs Australia,0,4,1.72
+21,D,USA,Australia,USA vs Australia,0,5,0.62
+21,D,USA,Australia,USA vs Australia,0,6,0.19
+21,D,USA,Australia,USA vs Australia,1,0,5.69
+21,D,USA,Australia,USA vs Australia,1,1,10.21
+21,D,USA,Australia,USA vs Australia,1,2,9.17
+21,D,USA,Australia,USA vs Australia,1,3,5.48
+21,D,USA,Australia,USA vs Australia,1,4,2.46
+21,D,USA,Australia,USA vs Australia,1,5,0.88
+21,D,USA,Australia,USA vs Australia,1,6,0.26
+21,D,USA,Australia,USA vs Australia,2,0,4.06
+21,D,USA,Australia,USA vs Australia,2,1,7.29
+21,D,USA,Australia,USA vs Australia,2,2,6.54
+21,D,USA,Australia,USA vs Australia,2,3,3.91
+21,D,USA,Australia,USA vs Australia,2,4,1.76
+21,D,USA,Australia,USA vs Australia,2,5,0.63
+21,D,USA,Australia,USA vs Australia,2,6,0.19
+21,D,USA,Australia,USA vs Australia,3,0,1.93
+21,D,USA,Australia,USA vs Australia,3,1,3.47
+21,D,USA,Australia,USA vs Australia,3,2,3.11
+21,D,USA,Australia,USA vs Australia,3,3,1.86
+21,D,USA,Australia,USA vs Australia,3,4,0.84
+21,D,USA,Australia,USA vs Australia,3,5,0.3
+21,D,USA,Australia,USA vs Australia,3,6,0.09
+21,D,USA,Australia,USA vs Australia,4,0,0.69
+21,D,USA,Australia,USA vs Australia,4,1,1.24
+21,D,USA,Australia,USA vs Australia,4,2,1.11
+21,D,USA,Australia,USA vs Australia,4,3,0.66
+21,D,USA,Australia,USA vs Australia,4,4,0.3
+21,D,USA,Australia,USA vs Australia,4,5,0.11
+21,D,USA,Australia,USA vs Australia,4,6,0.03
+21,D,USA,Australia,USA vs Australia,5,0,0.2
+21,D,USA,Australia,USA vs Australia,5,1,0.35
+21,D,USA,Australia,USA vs Australia,5,2,0.32
+21,D,USA,Australia,USA vs Australia,5,3,0.19
+21,D,USA,Australia,USA vs Australia,5,4,0.09
+21,D,USA,Australia,USA vs Australia,5,5,0.03
+21,D,USA,Australia,USA vs Australia,5,6,0.01
+21,D,USA,Australia,USA vs Australia,6,0,0.05
+21,D,USA,Australia,USA vs Australia,6,1,0.08
+21,D,USA,Australia,USA vs Australia,6,2,0.08
+21,D,USA,Australia,USA vs Australia,6,3,0.05
+21,D,USA,Australia,USA vs Australia,6,4,0.02
+21,D,USA,Australia,USA vs Australia,6,5,0.01
+21,D,USA,Australia,USA vs Australia,6,6,0.0
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,0,0,9.81
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,0,1,8.6
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,0,2,3.77
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,0,3,1.1
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,0,4,0.24
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,0,5,0.04
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,0,6,0.01
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,1,0,14.17
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,1,1,12.43
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,1,2,5.45
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,1,3,1.59
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,1,4,0.35
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,1,5,0.06
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,1,6,0.01
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,2,0,10.24
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,2,1,8.98
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,2,2,3.94
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,2,3,1.15
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,2,4,0.25
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,2,5,0.04
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,2,6,0.01
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,3,0,4.94
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,3,1,4.33
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,3,2,1.9
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,3,3,0.55
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,3,4,0.12
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,3,5,0.02
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,3,6,0.0
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,4,0,1.78
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,4,1,1.56
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,4,2,0.69
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,4,3,0.2
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,4,4,0.04
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,4,5,0.01
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,4,6,0.0
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,5,0,0.52
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,5,1,0.45
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,5,2,0.2
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,5,3,0.06
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,5,4,0.01
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,5,5,0.0
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,5,6,0.0
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,6,0,0.12
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,6,1,0.11
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,6,2,0.05
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,6,3,0.01
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,6,4,0.0
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,6,5,0.0
+22,D,Türkiye,Paraguay,Türkiye vs Paraguay,6,6,0.0
+23,D,Türkiye,USA,Türkiye vs USA,0,0,4.21
+23,D,Türkiye,USA,Türkiye vs USA,0,1,5.84
+23,D,Türkiye,USA,Türkiye vs USA,0,2,4.05
+23,D,Türkiye,USA,Türkiye vs USA,0,3,1.88
+23,D,Türkiye,USA,Türkiye vs USA,0,4,0.65
+23,D,Türkiye,USA,Türkiye vs USA,0,5,0.18
+23,D,Türkiye,USA,Türkiye vs USA,0,6,0.04
+23,D,Türkiye,USA,Türkiye vs USA,1,0,7.49
+23,D,Türkiye,USA,Türkiye vs USA,1,1,10.4
+23,D,Türkiye,USA,Türkiye vs USA,1,2,7.22
+23,D,Türkiye,USA,Türkiye vs USA,1,3,3.34
+23,D,Türkiye,USA,Türkiye vs USA,1,4,1.16
+23,D,Türkiye,USA,Türkiye vs USA,1,5,0.32
+23,D,Türkiye,USA,Türkiye vs USA,1,6,0.07
+23,D,Türkiye,USA,Türkiye vs USA,2,0,6.67
+23,D,Türkiye,USA,Türkiye vs USA,2,1,9.25
+23,D,Türkiye,USA,Türkiye vs USA,2,2,6.42
+23,D,Türkiye,USA,Türkiye vs USA,2,3,2.97
+23,D,Türkiye,USA,Türkiye vs USA,2,4,1.03
+23,D,Türkiye,USA,Türkiye vs USA,2,5,0.29
+23,D,Türkiye,USA,Türkiye vs USA,2,6,0.07
+23,D,Türkiye,USA,Türkiye vs USA,3,0,3.96
+23,D,Türkiye,USA,Türkiye vs USA,3,1,5.49
+23,D,Türkiye,USA,Türkiye vs USA,3,2,3.81
+23,D,Türkiye,USA,Türkiye vs USA,3,3,1.76
+23,D,Türkiye,USA,Türkiye vs USA,3,4,0.61
+23,D,Türkiye,USA,Türkiye vs USA,3,5,0.17
+23,D,Türkiye,USA,Türkiye vs USA,3,6,0.04
+23,D,Türkiye,USA,Türkiye vs USA,4,0,1.76
+23,D,Türkiye,USA,Türkiye vs USA,4,1,2.44
+23,D,Türkiye,USA,Türkiye vs USA,4,2,1.7
+23,D,Türkiye,USA,Türkiye vs USA,4,3,0.79
+23,D,Türkiye,USA,Türkiye vs USA,4,4,0.27
+23,D,Türkiye,USA,Türkiye vs USA,4,5,0.08
+23,D,Türkiye,USA,Türkiye vs USA,4,6,0.02
+23,D,Türkiye,USA,Türkiye vs USA,5,0,0.63
+23,D,Türkiye,USA,Türkiye vs USA,5,1,0.87
+23,D,Türkiye,USA,Türkiye vs USA,5,2,0.6
+23,D,Türkiye,USA,Türkiye vs USA,5,3,0.28
+23,D,Türkiye,USA,Türkiye vs USA,5,4,0.1
+23,D,Türkiye,USA,Türkiye vs USA,5,5,0.03
+23,D,Türkiye,USA,Türkiye vs USA,5,6,0.01
+23,D,Türkiye,USA,Türkiye vs USA,6,0,0.19
+23,D,Türkiye,USA,Türkiye vs USA,6,1,0.26
+23,D,Türkiye,USA,Türkiye vs USA,6,2,0.18
+23,D,Türkiye,USA,Türkiye vs USA,6,3,0.08
+23,D,Türkiye,USA,Türkiye vs USA,6,4,0.03
+23,D,Türkiye,USA,Türkiye vs USA,6,5,0.01
+23,D,Türkiye,USA,Türkiye vs USA,6,6,0.0
+24,D,Paraguay,Australia,Paraguay vs Australia,0,0,9.46
+24,D,Paraguay,Australia,Paraguay vs Australia,0,1,13.78
+24,D,Paraguay,Australia,Paraguay vs Australia,0,2,10.04
+24,D,Paraguay,Australia,Paraguay vs Australia,0,3,4.88
+24,D,Paraguay,Australia,Paraguay vs Australia,0,4,1.78
+24,D,Paraguay,Australia,Paraguay vs Australia,0,5,0.52
+24,D,Paraguay,Australia,Paraguay vs Australia,0,6,0.13
+24,D,Paraguay,Australia,Paraguay vs Australia,1,0,8.52
+24,D,Paraguay,Australia,Paraguay vs Australia,1,1,12.42
+24,D,Paraguay,Australia,Paraguay vs Australia,1,2,9.05
+24,D,Paraguay,Australia,Paraguay vs Australia,1,3,4.4
+24,D,Paraguay,Australia,Paraguay vs Australia,1,4,1.6
+24,D,Paraguay,Australia,Paraguay vs Australia,1,5,0.47
+24,D,Paraguay,Australia,Paraguay vs Australia,1,6,0.11
+24,D,Paraguay,Australia,Paraguay vs Australia,2,0,3.84
+24,D,Paraguay,Australia,Paraguay vs Australia,2,1,5.6
+24,D,Paraguay,Australia,Paraguay vs Australia,2,2,4.08
+24,D,Paraguay,Australia,Paraguay vs Australia,2,3,1.98
+24,D,Paraguay,Australia,Paraguay vs Australia,2,4,0.72
+24,D,Paraguay,Australia,Paraguay vs Australia,2,5,0.21
+24,D,Paraguay,Australia,Paraguay vs Australia,2,6,0.05
+24,D,Paraguay,Australia,Paraguay vs Australia,3,0,1.15
+24,D,Paraguay,Australia,Paraguay vs Australia,3,1,1.68
+24,D,Paraguay,Australia,Paraguay vs Australia,3,2,1.22
+24,D,Paraguay,Australia,Paraguay vs Australia,3,3,0.6
+24,D,Paraguay,Australia,Paraguay vs Australia,3,4,0.22
+24,D,Paraguay,Australia,Paraguay vs Australia,3,5,0.06
+24,D,Paraguay,Australia,Paraguay vs Australia,3,6,0.02
+24,D,Paraguay,Australia,Paraguay vs Australia,4,0,0.26
+24,D,Paraguay,Australia,Paraguay vs Australia,4,1,0.38
+24,D,Paraguay,Australia,Paraguay vs Australia,4,2,0.28
+24,D,Paraguay,Australia,Paraguay vs Australia,4,3,0.13
+24,D,Paraguay,Australia,Paraguay vs Australia,4,4,0.05
+24,D,Paraguay,Australia,Paraguay vs Australia,4,5,0.01
+24,D,Paraguay,Australia,Paraguay vs Australia,4,6,0.0
+24,D,Paraguay,Australia,Paraguay vs Australia,5,0,0.05
+24,D,Paraguay,Australia,Paraguay vs Australia,5,1,0.07
+24,D,Paraguay,Australia,Paraguay vs Australia,5,2,0.05
+24,D,Paraguay,Australia,Paraguay vs Australia,5,3,0.02
+24,D,Paraguay,Australia,Paraguay vs Australia,5,4,0.01
+24,D,Paraguay,Australia,Paraguay vs Australia,5,5,0.0
+24,D,Paraguay,Australia,Paraguay vs Australia,5,6,0.0
+24,D,Paraguay,Australia,Paraguay vs Australia,6,0,0.01
+24,D,Paraguay,Australia,Paraguay vs Australia,6,1,0.01
+24,D,Paraguay,Australia,Paraguay vs Australia,6,2,0.01
+24,D,Paraguay,Australia,Paraguay vs Australia,6,3,0.0
+24,D,Paraguay,Australia,Paraguay vs Australia,6,4,0.0
+24,D,Paraguay,Australia,Paraguay vs Australia,6,5,0.0
+24,D,Paraguay,Australia,Paraguay vs Australia,6,6,0.0
+25,E,Germany,Curaçao,Germany vs Curaçao,0,0,0.51
+25,E,Germany,Curaçao,Germany vs Curaçao,0,1,0.28
+25,E,Germany,Curaçao,Germany vs Curaçao,0,2,0.08
+25,E,Germany,Curaçao,Germany vs Curaçao,0,3,0.01
+25,E,Germany,Curaçao,Germany vs Curaçao,0,4,0.0
+25,E,Germany,Curaçao,Germany vs Curaçao,0,5,0.0
+25,E,Germany,Curaçao,Germany vs Curaçao,0,6,0.0
+25,E,Germany,Curaçao,Germany vs Curaçao,1,0,2.42
+25,E,Germany,Curaçao,Germany vs Curaçao,1,1,1.31
+25,E,Germany,Curaçao,Germany vs Curaçao,1,2,0.36
+25,E,Germany,Curaçao,Germany vs Curaçao,1,3,0.06
+25,E,Germany,Curaçao,Germany vs Curaçao,1,4,0.01
+25,E,Germany,Curaçao,Germany vs Curaçao,1,5,0.0
+25,E,Germany,Curaçao,Germany vs Curaçao,1,6,0.0
+25,E,Germany,Curaçao,Germany vs Curaçao,2,0,5.72
+25,E,Germany,Curaçao,Germany vs Curaçao,2,1,3.11
+25,E,Germany,Curaçao,Germany vs Curaçao,2,2,0.85
+25,E,Germany,Curaçao,Germany vs Curaçao,2,3,0.15
+25,E,Germany,Curaçao,Germany vs Curaçao,2,4,0.02
+25,E,Germany,Curaçao,Germany vs Curaçao,2,5,0.0
+25,E,Germany,Curaçao,Germany vs Curaçao,2,6,0.0
+25,E,Germany,Curaçao,Germany vs Curaçao,3,0,9.02
+25,E,Germany,Curaçao,Germany vs Curaçao,3,1,4.91
+25,E,Germany,Curaçao,Germany vs Curaçao,3,2,1.34
+25,E,Germany,Curaçao,Germany vs Curaçao,3,3,0.24
+25,E,Germany,Curaçao,Germany vs Curaçao,3,4,0.03
+25,E,Germany,Curaçao,Germany vs Curaçao,3,5,0.0
+25,E,Germany,Curaçao,Germany vs Curaçao,3,6,0.0
+25,E,Germany,Curaçao,Germany vs Curaçao,4,0,10.68
+25,E,Germany,Curaçao,Germany vs Curaçao,4,1,5.81
+25,E,Germany,Curaçao,Germany vs Curaçao,4,2,1.58
+25,E,Germany,Curaçao,Germany vs Curaçao,4,3,0.29
+25,E,Germany,Curaçao,Germany vs Curaçao,4,4,0.04
+25,E,Germany,Curaçao,Germany vs Curaçao,4,5,0.0
+25,E,Germany,Curaçao,Germany vs Curaçao,4,6,0.0
+25,E,Germany,Curaçao,Germany vs Curaçao,5,0,10.11
+25,E,Germany,Curaçao,Germany vs Curaçao,5,1,5.5
+25,E,Germany,Curaçao,Germany vs Curaçao,5,2,1.5
+25,E,Germany,Curaçao,Germany vs Curaçao,5,3,0.27
+25,E,Germany,Curaçao,Germany vs Curaçao,5,4,0.04
+25,E,Germany,Curaçao,Germany vs Curaçao,5,5,0.0
+25,E,Germany,Curaçao,Germany vs Curaçao,5,6,0.0
+25,E,Germany,Curaçao,Germany vs Curaçao,6,0,7.98
+25,E,Germany,Curaçao,Germany vs Curaçao,6,1,4.34
+25,E,Germany,Curaçao,Germany vs Curaçao,6,2,1.18
+25,E,Germany,Curaçao,Germany vs Curaçao,6,3,0.21
+25,E,Germany,Curaçao,Germany vs Curaçao,6,4,0.03
+25,E,Germany,Curaçao,Germany vs Curaçao,6,5,0.0
+25,E,Germany,Curaçao,Germany vs Curaçao,6,6,0.0
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,0,0,8.86
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,0,1,12.65
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,0,2,9.04
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,0,3,4.3
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,0,4,1.54
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,0,5,0.44
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,0,6,0.1
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,1,0,8.82
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,1,1,12.59
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,1,2,9.0
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,1,3,4.28
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,1,4,1.53
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,1,5,0.44
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,1,6,0.1
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,2,0,4.39
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,2,1,6.27
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,2,2,4.48
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,2,3,2.13
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,2,4,0.76
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,2,5,0.22
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,2,6,0.05
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,3,0,1.46
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,3,1,2.08
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,3,2,1.49
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,3,3,0.71
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,3,4,0.25
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,3,5,0.07
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,3,6,0.02
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,4,0,0.36
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,4,1,0.52
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,4,2,0.37
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,4,3,0.18
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,4,4,0.06
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,4,5,0.02
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,4,6,0.0
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,5,0,0.07
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,5,1,0.1
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,5,2,0.07
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,5,3,0.04
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,5,4,0.01
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,5,5,0.0
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,5,6,0.0
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,6,0,0.01
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,6,1,0.02
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,6,2,0.01
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,6,3,0.01
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,6,4,0.0
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,6,5,0.0
+26,E,Ivory Coast,Ecuador,Ivory Coast vs Ecuador,6,6,0.0
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,0,0,2.21
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,0,1,2.44
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,0,2,1.35
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,0,3,0.5
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,0,4,0.14
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,0,5,0.03
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,0,6,0.01
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,1,0,5.97
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,1,1,6.61
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,1,2,3.66
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,1,3,1.35
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,1,4,0.37
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,1,5,0.08
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,1,6,0.02
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,2,0,8.08
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,2,1,8.95
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,2,2,4.96
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,2,3,1.83
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,2,4,0.51
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,2,5,0.11
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,2,6,0.02
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,3,0,7.29
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,3,1,8.07
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,3,2,4.47
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,3,3,1.65
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,3,4,0.46
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,3,5,0.1
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,3,6,0.02
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,4,0,4.93
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,4,1,5.46
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,4,2,3.03
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,4,3,1.12
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,4,4,0.31
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,4,5,0.07
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,4,6,0.01
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,5,0,2.67
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,5,1,2.96
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,5,2,1.64
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,5,3,0.6
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,5,4,0.17
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,5,5,0.04
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,5,6,0.01
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,6,0,1.2
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,6,1,1.33
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,6,2,0.74
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,6,3,0.27
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,6,4,0.08
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,6,5,0.02
+27,E,Germany,Ivory Coast,Germany vs Ivory Coast,6,6,0.0
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,0,0,5.04
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,0,1,2.46
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,0,2,0.6
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,0,3,0.1
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,0,4,0.01
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,0,5,0.0
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,0,6,0.0
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,1,0,12.59
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,1,1,6.16
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,1,2,1.5
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,1,3,0.25
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,1,4,0.03
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,1,5,0.0
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,1,6,0.0
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,2,0,15.74
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,2,1,7.69
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,2,2,1.88
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,2,3,0.31
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,2,4,0.04
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,2,5,0.0
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,2,6,0.0
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,3,0,13.11
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,3,1,6.41
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,3,2,1.57
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,3,3,0.26
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,3,4,0.03
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,3,5,0.0
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,3,6,0.0
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,4,0,8.19
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,4,1,4.0
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,4,2,0.98
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,4,3,0.16
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,4,4,0.02
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,4,5,0.0
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,4,6,0.0
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,5,0,4.09
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,5,1,2.0
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,5,2,0.49
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,5,3,0.08
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,5,4,0.01
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,5,5,0.0
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,5,6,0.0
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,6,0,1.71
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,6,1,0.83
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,6,2,0.2
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,6,3,0.03
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,6,4,0.0
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,6,5,0.0
+28,E,Ecuador,Curaçao,Ecuador vs Curaçao,6,6,0.0
+29,E,Ecuador,Germany,Ecuador vs Germany,0,0,4.77
+29,E,Ecuador,Germany,Ecuador vs Germany,0,1,9.14
+29,E,Ecuador,Germany,Ecuador vs Germany,0,2,8.76
+29,E,Ecuador,Germany,Ecuador vs Germany,0,3,5.6
+29,E,Ecuador,Germany,Ecuador vs Germany,0,4,2.68
+29,E,Ecuador,Germany,Ecuador vs Germany,0,5,1.03
+29,E,Ecuador,Germany,Ecuador vs Germany,0,6,0.33
+29,E,Ecuador,Germany,Ecuador vs Germany,1,0,5.37
+29,E,Ecuador,Germany,Ecuador vs Germany,1,1,10.29
+29,E,Ecuador,Germany,Ecuador vs Germany,1,2,9.87
+29,E,Ecuador,Germany,Ecuador vs Germany,1,3,6.3
+29,E,Ecuador,Germany,Ecuador vs Germany,1,4,3.02
+29,E,Ecuador,Germany,Ecuador vs Germany,1,5,1.16
+29,E,Ecuador,Germany,Ecuador vs Germany,1,6,0.37
+29,E,Ecuador,Germany,Ecuador vs Germany,2,0,3.02
+29,E,Ecuador,Germany,Ecuador vs Germany,2,1,5.8
+29,E,Ecuador,Germany,Ecuador vs Germany,2,2,5.56
+29,E,Ecuador,Germany,Ecuador vs Germany,2,3,3.55
+29,E,Ecuador,Germany,Ecuador vs Germany,2,4,1.7
+29,E,Ecuador,Germany,Ecuador vs Germany,2,5,0.65
+29,E,Ecuador,Germany,Ecuador vs Germany,2,6,0.21
+29,E,Ecuador,Germany,Ecuador vs Germany,3,0,1.14
+29,E,Ecuador,Germany,Ecuador vs Germany,3,1,2.18
+29,E,Ecuador,Germany,Ecuador vs Germany,3,2,2.09
+29,E,Ecuador,Germany,Ecuador vs Germany,3,3,1.33
+29,E,Ecuador,Germany,Ecuador vs Germany,3,4,0.64
+29,E,Ecuador,Germany,Ecuador vs Germany,3,5,0.24
+29,E,Ecuador,Germany,Ecuador vs Germany,3,6,0.08
+29,E,Ecuador,Germany,Ecuador vs Germany,4,0,0.32
+29,E,Ecuador,Germany,Ecuador vs Germany,4,1,0.61
+29,E,Ecuador,Germany,Ecuador vs Germany,4,2,0.59
+29,E,Ecuador,Germany,Ecuador vs Germany,4,3,0.38
+29,E,Ecuador,Germany,Ecuador vs Germany,4,4,0.18
+29,E,Ecuador,Germany,Ecuador vs Germany,4,5,0.07
+29,E,Ecuador,Germany,Ecuador vs Germany,4,6,0.02
+29,E,Ecuador,Germany,Ecuador vs Germany,5,0,0.07
+29,E,Ecuador,Germany,Ecuador vs Germany,5,1,0.14
+29,E,Ecuador,Germany,Ecuador vs Germany,5,2,0.13
+29,E,Ecuador,Germany,Ecuador vs Germany,5,3,0.08
+29,E,Ecuador,Germany,Ecuador vs Germany,5,4,0.04
+29,E,Ecuador,Germany,Ecuador vs Germany,5,5,0.02
+29,E,Ecuador,Germany,Ecuador vs Germany,5,6,0.0
+29,E,Ecuador,Germany,Ecuador vs Germany,6,0,0.01
+29,E,Ecuador,Germany,Ecuador vs Germany,6,1,0.03
+29,E,Ecuador,Germany,Ecuador vs Germany,6,2,0.02
+29,E,Ecuador,Germany,Ecuador vs Germany,6,3,0.02
+29,E,Ecuador,Germany,Ecuador vs Germany,6,4,0.01
+29,E,Ecuador,Germany,Ecuador vs Germany,6,5,0.0
+29,E,Ecuador,Germany,Ecuador vs Germany,6,6,0.0
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,0,0,4.29
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,0,1,10.55
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,0,2,12.97
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,0,3,10.63
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,0,4,6.53
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,0,5,3.21
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,0,6,1.32
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,1,0,2.96
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,1,1,7.28
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,1,2,8.95
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,1,3,7.33
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,1,4,4.51
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,1,5,2.22
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,1,6,0.91
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,2,0,1.02
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,2,1,2.51
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,2,2,3.09
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,2,3,2.53
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,2,4,1.55
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,2,5,0.76
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,2,6,0.31
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,3,0,0.24
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,3,1,0.58
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,3,2,0.71
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,3,3,0.58
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,3,4,0.36
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,3,5,0.18
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,3,6,0.07
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,4,0,0.04
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,4,1,0.1
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,4,2,0.12
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,4,3,0.1
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,4,4,0.06
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,4,5,0.03
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,4,6,0.01
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,5,0,0.01
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,5,1,0.01
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,5,2,0.02
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,5,3,0.01
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,5,4,0.01
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,5,5,0.0
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,5,6,0.0
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,6,0,0.0
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,6,1,0.0
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,6,2,0.0
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,6,3,0.0
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,6,4,0.0
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,6,5,0.0
+30,E,Curaçao,Ivory Coast,Curaçao vs Ivory Coast,6,6,0.0
+31,F,Netherlands,Japan,Netherlands vs Japan,0,0,17.75
+31,F,Netherlands,Japan,Netherlands vs Japan,0,1,14.14
+31,F,Netherlands,Japan,Netherlands vs Japan,0,2,5.63
+31,F,Netherlands,Japan,Netherlands vs Japan,0,3,1.5
+31,F,Netherlands,Japan,Netherlands vs Japan,0,4,0.3
+31,F,Netherlands,Japan,Netherlands vs Japan,0,5,0.05
+31,F,Netherlands,Japan,Netherlands vs Japan,0,6,0.01
+31,F,Netherlands,Japan,Netherlands vs Japan,1,0,16.54
+31,F,Netherlands,Japan,Netherlands vs Japan,1,1,13.18
+31,F,Netherlands,Japan,Netherlands vs Japan,1,2,5.25
+31,F,Netherlands,Japan,Netherlands vs Japan,1,3,1.39
+31,F,Netherlands,Japan,Netherlands vs Japan,1,4,0.28
+31,F,Netherlands,Japan,Netherlands vs Japan,1,5,0.04
+31,F,Netherlands,Japan,Netherlands vs Japan,1,6,0.01
+31,F,Netherlands,Japan,Netherlands vs Japan,2,0,7.71
+31,F,Netherlands,Japan,Netherlands vs Japan,2,1,6.14
+31,F,Netherlands,Japan,Netherlands vs Japan,2,2,2.45
+31,F,Netherlands,Japan,Netherlands vs Japan,2,3,0.65
+31,F,Netherlands,Japan,Netherlands vs Japan,2,4,0.13
+31,F,Netherlands,Japan,Netherlands vs Japan,2,5,0.02
+31,F,Netherlands,Japan,Netherlands vs Japan,2,6,0.0
+31,F,Netherlands,Japan,Netherlands vs Japan,3,0,2.4
+31,F,Netherlands,Japan,Netherlands vs Japan,3,1,1.91
+31,F,Netherlands,Japan,Netherlands vs Japan,3,2,0.76
+31,F,Netherlands,Japan,Netherlands vs Japan,3,3,0.2
+31,F,Netherlands,Japan,Netherlands vs Japan,3,4,0.04
+31,F,Netherlands,Japan,Netherlands vs Japan,3,5,0.01
+31,F,Netherlands,Japan,Netherlands vs Japan,3,6,0.0
+31,F,Netherlands,Japan,Netherlands vs Japan,4,0,0.56
+31,F,Netherlands,Japan,Netherlands vs Japan,4,1,0.44
+31,F,Netherlands,Japan,Netherlands vs Japan,4,2,0.18
+31,F,Netherlands,Japan,Netherlands vs Japan,4,3,0.05
+31,F,Netherlands,Japan,Netherlands vs Japan,4,4,0.01
+31,F,Netherlands,Japan,Netherlands vs Japan,4,5,0.0
+31,F,Netherlands,Japan,Netherlands vs Japan,4,6,0.0
+31,F,Netherlands,Japan,Netherlands vs Japan,5,0,0.1
+31,F,Netherlands,Japan,Netherlands vs Japan,5,1,0.08
+31,F,Netherlands,Japan,Netherlands vs Japan,5,2,0.03
+31,F,Netherlands,Japan,Netherlands vs Japan,5,3,0.01
+31,F,Netherlands,Japan,Netherlands vs Japan,5,4,0.0
+31,F,Netherlands,Japan,Netherlands vs Japan,5,5,0.0
+31,F,Netherlands,Japan,Netherlands vs Japan,5,6,0.0
+31,F,Netherlands,Japan,Netherlands vs Japan,6,0,0.02
+31,F,Netherlands,Japan,Netherlands vs Japan,6,1,0.01
+31,F,Netherlands,Japan,Netherlands vs Japan,6,2,0.01
+31,F,Netherlands,Japan,Netherlands vs Japan,6,3,0.0
+31,F,Netherlands,Japan,Netherlands vs Japan,6,4,0.0
+31,F,Netherlands,Japan,Netherlands vs Japan,6,5,0.0
+31,F,Netherlands,Japan,Netherlands vs Japan,6,6,0.0
+32,F,Sweden,Tunisia,Sweden vs Tunisia,0,0,9.05
+32,F,Sweden,Tunisia,Sweden vs Tunisia,0,1,6.27
+32,F,Sweden,Tunisia,Sweden vs Tunisia,0,2,2.17
+32,F,Sweden,Tunisia,Sweden vs Tunisia,0,3,0.5
+32,F,Sweden,Tunisia,Sweden vs Tunisia,0,4,0.09
+32,F,Sweden,Tunisia,Sweden vs Tunisia,0,5,0.01
+32,F,Sweden,Tunisia,Sweden vs Tunisia,0,6,0.0
+32,F,Sweden,Tunisia,Sweden vs Tunisia,1,0,15.48
+32,F,Sweden,Tunisia,Sweden vs Tunisia,1,1,10.71
+32,F,Sweden,Tunisia,Sweden vs Tunisia,1,2,3.71
+32,F,Sweden,Tunisia,Sweden vs Tunisia,1,3,0.86
+32,F,Sweden,Tunisia,Sweden vs Tunisia,1,4,0.15
+32,F,Sweden,Tunisia,Sweden vs Tunisia,1,5,0.02
+32,F,Sweden,Tunisia,Sweden vs Tunisia,1,6,0.0
+32,F,Sweden,Tunisia,Sweden vs Tunisia,2,0,13.23
+32,F,Sweden,Tunisia,Sweden vs Tunisia,2,1,9.16
+32,F,Sweden,Tunisia,Sweden vs Tunisia,2,2,3.17
+32,F,Sweden,Tunisia,Sweden vs Tunisia,2,3,0.73
+32,F,Sweden,Tunisia,Sweden vs Tunisia,2,4,0.13
+32,F,Sweden,Tunisia,Sweden vs Tunisia,2,5,0.02
+32,F,Sweden,Tunisia,Sweden vs Tunisia,2,6,0.0
+32,F,Sweden,Tunisia,Sweden vs Tunisia,3,0,7.54
+32,F,Sweden,Tunisia,Sweden vs Tunisia,3,1,5.22
+32,F,Sweden,Tunisia,Sweden vs Tunisia,3,2,1.81
+32,F,Sweden,Tunisia,Sweden vs Tunisia,3,3,0.42
+32,F,Sweden,Tunisia,Sweden vs Tunisia,3,4,0.07
+32,F,Sweden,Tunisia,Sweden vs Tunisia,3,5,0.01
+32,F,Sweden,Tunisia,Sweden vs Tunisia,3,6,0.0
+32,F,Sweden,Tunisia,Sweden vs Tunisia,4,0,3.23
+32,F,Sweden,Tunisia,Sweden vs Tunisia,4,1,2.23
+32,F,Sweden,Tunisia,Sweden vs Tunisia,4,2,0.77
+32,F,Sweden,Tunisia,Sweden vs Tunisia,4,3,0.18
+32,F,Sweden,Tunisia,Sweden vs Tunisia,4,4,0.03
+32,F,Sweden,Tunisia,Sweden vs Tunisia,4,5,0.0
+32,F,Sweden,Tunisia,Sweden vs Tunisia,4,6,0.0
+32,F,Sweden,Tunisia,Sweden vs Tunisia,5,0,1.1
+32,F,Sweden,Tunisia,Sweden vs Tunisia,5,1,0.76
+32,F,Sweden,Tunisia,Sweden vs Tunisia,5,2,0.26
+32,F,Sweden,Tunisia,Sweden vs Tunisia,5,3,0.06
+32,F,Sweden,Tunisia,Sweden vs Tunisia,5,4,0.01
+32,F,Sweden,Tunisia,Sweden vs Tunisia,5,5,0.0
+32,F,Sweden,Tunisia,Sweden vs Tunisia,5,6,0.0
+32,F,Sweden,Tunisia,Sweden vs Tunisia,6,0,0.31
+32,F,Sweden,Tunisia,Sweden vs Tunisia,6,1,0.22
+32,F,Sweden,Tunisia,Sweden vs Tunisia,6,2,0.08
+32,F,Sweden,Tunisia,Sweden vs Tunisia,6,3,0.02
+32,F,Sweden,Tunisia,Sweden vs Tunisia,6,4,0.0
+32,F,Sweden,Tunisia,Sweden vs Tunisia,6,5,0.0
+32,F,Sweden,Tunisia,Sweden vs Tunisia,6,6,0.0
+33,F,Netherlands,Sweden,Netherlands vs Sweden,0,0,5.72
+33,F,Netherlands,Sweden,Netherlands vs Sweden,0,1,6.75
+33,F,Netherlands,Sweden,Netherlands vs Sweden,0,2,3.99
+33,F,Netherlands,Sweden,Netherlands vs Sweden,0,3,1.57
+33,F,Netherlands,Sweden,Netherlands vs Sweden,0,4,0.46
+33,F,Netherlands,Sweden,Netherlands vs Sweden,0,5,0.11
+33,F,Netherlands,Sweden,Netherlands vs Sweden,0,6,0.02
+33,F,Netherlands,Sweden,Netherlands vs Sweden,1,0,9.61
+33,F,Netherlands,Sweden,Netherlands vs Sweden,1,1,11.35
+33,F,Netherlands,Sweden,Netherlands vs Sweden,1,2,6.7
+33,F,Netherlands,Sweden,Netherlands vs Sweden,1,3,2.64
+33,F,Netherlands,Sweden,Netherlands vs Sweden,1,4,0.78
+33,F,Netherlands,Sweden,Netherlands vs Sweden,1,5,0.18
+33,F,Netherlands,Sweden,Netherlands vs Sweden,1,6,0.04
+33,F,Netherlands,Sweden,Netherlands vs Sweden,2,0,8.07
+33,F,Netherlands,Sweden,Netherlands vs Sweden,2,1,9.54
+33,F,Netherlands,Sweden,Netherlands vs Sweden,2,2,5.63
+33,F,Netherlands,Sweden,Netherlands vs Sweden,2,3,2.22
+33,F,Netherlands,Sweden,Netherlands vs Sweden,2,4,0.65
+33,F,Netherlands,Sweden,Netherlands vs Sweden,2,5,0.15
+33,F,Netherlands,Sweden,Netherlands vs Sweden,2,6,0.03
+33,F,Netherlands,Sweden,Netherlands vs Sweden,3,0,4.52
+33,F,Netherlands,Sweden,Netherlands vs Sweden,3,1,5.34
+33,F,Netherlands,Sweden,Netherlands vs Sweden,3,2,3.15
+33,F,Netherlands,Sweden,Netherlands vs Sweden,3,3,1.24
+33,F,Netherlands,Sweden,Netherlands vs Sweden,3,4,0.37
+33,F,Netherlands,Sweden,Netherlands vs Sweden,3,5,0.09
+33,F,Netherlands,Sweden,Netherlands vs Sweden,3,6,0.02
+33,F,Netherlands,Sweden,Netherlands vs Sweden,4,0,1.9
+33,F,Netherlands,Sweden,Netherlands vs Sweden,4,1,2.24
+33,F,Netherlands,Sweden,Netherlands vs Sweden,4,2,1.33
+33,F,Netherlands,Sweden,Netherlands vs Sweden,4,3,0.52
+33,F,Netherlands,Sweden,Netherlands vs Sweden,4,4,0.15
+33,F,Netherlands,Sweden,Netherlands vs Sweden,4,5,0.04
+33,F,Netherlands,Sweden,Netherlands vs Sweden,4,6,0.01
+33,F,Netherlands,Sweden,Netherlands vs Sweden,5,0,0.64
+33,F,Netherlands,Sweden,Netherlands vs Sweden,5,1,0.75
+33,F,Netherlands,Sweden,Netherlands vs Sweden,5,2,0.45
+33,F,Netherlands,Sweden,Netherlands vs Sweden,5,3,0.18
+33,F,Netherlands,Sweden,Netherlands vs Sweden,5,4,0.05
+33,F,Netherlands,Sweden,Netherlands vs Sweden,5,5,0.01
+33,F,Netherlands,Sweden,Netherlands vs Sweden,5,6,0.0
+33,F,Netherlands,Sweden,Netherlands vs Sweden,6,0,0.18
+33,F,Netherlands,Sweden,Netherlands vs Sweden,6,1,0.21
+33,F,Netherlands,Sweden,Netherlands vs Sweden,6,2,0.12
+33,F,Netherlands,Sweden,Netherlands vs Sweden,6,3,0.05
+33,F,Netherlands,Sweden,Netherlands vs Sweden,6,4,0.01
+33,F,Netherlands,Sweden,Netherlands vs Sweden,6,5,0.0
+33,F,Netherlands,Sweden,Netherlands vs Sweden,6,6,0.0
+34,F,Tunisia,Japan,Tunisia vs Japan,0,0,21.49
+34,F,Tunisia,Japan,Tunisia vs Japan,0,1,24.79
+34,F,Tunisia,Japan,Tunisia vs Japan,0,2,14.3
+34,F,Tunisia,Japan,Tunisia vs Japan,0,3,5.5
+34,F,Tunisia,Japan,Tunisia vs Japan,0,4,1.59
+34,F,Tunisia,Japan,Tunisia vs Japan,0,5,0.37
+34,F,Tunisia,Japan,Tunisia vs Japan,0,6,0.07
+34,F,Tunisia,Japan,Tunisia vs Japan,1,0,8.25
+34,F,Tunisia,Japan,Tunisia vs Japan,1,1,9.52
+34,F,Tunisia,Japan,Tunisia vs Japan,1,2,5.49
+34,F,Tunisia,Japan,Tunisia vs Japan,1,3,2.11
+34,F,Tunisia,Japan,Tunisia vs Japan,1,4,0.61
+34,F,Tunisia,Japan,Tunisia vs Japan,1,5,0.14
+34,F,Tunisia,Japan,Tunisia vs Japan,1,6,0.03
+34,F,Tunisia,Japan,Tunisia vs Japan,2,0,1.58
+34,F,Tunisia,Japan,Tunisia vs Japan,2,1,1.83
+34,F,Tunisia,Japan,Tunisia vs Japan,2,2,1.05
+34,F,Tunisia,Japan,Tunisia vs Japan,2,3,0.41
+34,F,Tunisia,Japan,Tunisia vs Japan,2,4,0.12
+34,F,Tunisia,Japan,Tunisia vs Japan,2,5,0.03
+34,F,Tunisia,Japan,Tunisia vs Japan,2,6,0.01
+34,F,Tunisia,Japan,Tunisia vs Japan,3,0,0.2
+34,F,Tunisia,Japan,Tunisia vs Japan,3,1,0.23
+34,F,Tunisia,Japan,Tunisia vs Japan,3,2,0.13
+34,F,Tunisia,Japan,Tunisia vs Japan,3,3,0.05
+34,F,Tunisia,Japan,Tunisia vs Japan,3,4,0.01
+34,F,Tunisia,Japan,Tunisia vs Japan,3,5,0.0
+34,F,Tunisia,Japan,Tunisia vs Japan,3,6,0.0
+34,F,Tunisia,Japan,Tunisia vs Japan,4,0,0.02
+34,F,Tunisia,Japan,Tunisia vs Japan,4,1,0.02
+34,F,Tunisia,Japan,Tunisia vs Japan,4,2,0.01
+34,F,Tunisia,Japan,Tunisia vs Japan,4,3,0.0
+34,F,Tunisia,Japan,Tunisia vs Japan,4,4,0.0
+34,F,Tunisia,Japan,Tunisia vs Japan,4,5,0.0
+34,F,Tunisia,Japan,Tunisia vs Japan,4,6,0.0
+34,F,Tunisia,Japan,Tunisia vs Japan,5,0,0.0
+34,F,Tunisia,Japan,Tunisia vs Japan,5,1,0.0
+34,F,Tunisia,Japan,Tunisia vs Japan,5,2,0.0
+34,F,Tunisia,Japan,Tunisia vs Japan,5,3,0.0
+34,F,Tunisia,Japan,Tunisia vs Japan,5,4,0.0
+34,F,Tunisia,Japan,Tunisia vs Japan,5,5,0.0
+34,F,Tunisia,Japan,Tunisia vs Japan,5,6,0.0
+34,F,Tunisia,Japan,Tunisia vs Japan,6,0,0.0
+34,F,Tunisia,Japan,Tunisia vs Japan,6,1,0.0
+34,F,Tunisia,Japan,Tunisia vs Japan,6,2,0.0
+34,F,Tunisia,Japan,Tunisia vs Japan,6,3,0.0
+34,F,Tunisia,Japan,Tunisia vs Japan,6,4,0.0
+34,F,Tunisia,Japan,Tunisia vs Japan,6,5,0.0
+34,F,Tunisia,Japan,Tunisia vs Japan,6,6,0.0
+35,F,Japan,Sweden,Japan vs Sweden,0,0,10.01
+35,F,Japan,Sweden,Japan vs Sweden,0,1,10.39
+35,F,Japan,Sweden,Japan vs Sweden,0,2,5.4
+35,F,Japan,Sweden,Japan vs Sweden,0,3,1.87
+35,F,Japan,Sweden,Japan vs Sweden,0,4,0.49
+35,F,Japan,Sweden,Japan vs Sweden,0,5,0.1
+35,F,Japan,Sweden,Japan vs Sweden,0,6,0.02
+35,F,Japan,Sweden,Japan vs Sweden,1,0,12.64
+35,F,Japan,Sweden,Japan vs Sweden,1,1,13.13
+35,F,Japan,Sweden,Japan vs Sweden,1,2,6.82
+35,F,Japan,Sweden,Japan vs Sweden,1,3,2.36
+35,F,Japan,Sweden,Japan vs Sweden,1,4,0.61
+35,F,Japan,Sweden,Japan vs Sweden,1,5,0.13
+35,F,Japan,Sweden,Japan vs Sweden,1,6,0.02
+35,F,Japan,Sweden,Japan vs Sweden,2,0,7.98
+35,F,Japan,Sweden,Japan vs Sweden,2,1,8.29
+35,F,Japan,Sweden,Japan vs Sweden,2,2,4.31
+35,F,Japan,Sweden,Japan vs Sweden,2,3,1.49
+35,F,Japan,Sweden,Japan vs Sweden,2,4,0.39
+35,F,Japan,Sweden,Japan vs Sweden,2,5,0.08
+35,F,Japan,Sweden,Japan vs Sweden,2,6,0.01
+35,F,Japan,Sweden,Japan vs Sweden,3,0,3.36
+35,F,Japan,Sweden,Japan vs Sweden,3,1,3.49
+35,F,Japan,Sweden,Japan vs Sweden,3,2,1.81
+35,F,Japan,Sweden,Japan vs Sweden,3,3,0.63
+35,F,Japan,Sweden,Japan vs Sweden,3,4,0.16
+35,F,Japan,Sweden,Japan vs Sweden,3,5,0.03
+35,F,Japan,Sweden,Japan vs Sweden,3,6,0.01
+35,F,Japan,Sweden,Japan vs Sweden,4,0,1.06
+35,F,Japan,Sweden,Japan vs Sweden,4,1,1.1
+35,F,Japan,Sweden,Japan vs Sweden,4,2,0.57
+35,F,Japan,Sweden,Japan vs Sweden,4,3,0.2
+35,F,Japan,Sweden,Japan vs Sweden,4,4,0.05
+35,F,Japan,Sweden,Japan vs Sweden,4,5,0.01
+35,F,Japan,Sweden,Japan vs Sweden,4,6,0.0
+35,F,Japan,Sweden,Japan vs Sweden,5,0,0.27
+35,F,Japan,Sweden,Japan vs Sweden,5,1,0.28
+35,F,Japan,Sweden,Japan vs Sweden,5,2,0.14
+35,F,Japan,Sweden,Japan vs Sweden,5,3,0.05
+35,F,Japan,Sweden,Japan vs Sweden,5,4,0.01
+35,F,Japan,Sweden,Japan vs Sweden,5,5,0.0
+35,F,Japan,Sweden,Japan vs Sweden,5,6,0.0
+35,F,Japan,Sweden,Japan vs Sweden,6,0,0.06
+35,F,Japan,Sweden,Japan vs Sweden,6,1,0.06
+35,F,Japan,Sweden,Japan vs Sweden,6,2,0.03
+35,F,Japan,Sweden,Japan vs Sweden,6,3,0.01
+35,F,Japan,Sweden,Japan vs Sweden,6,4,0.0
+35,F,Japan,Sweden,Japan vs Sweden,6,5,0.0
+35,F,Japan,Sweden,Japan vs Sweden,6,6,0.0
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,0,0,13.93
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,0,1,21.38
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,0,2,16.4
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,0,3,8.39
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,0,4,3.22
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,0,5,0.99
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,0,6,0.25
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,1,0,6.08
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,1,1,9.33
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,1,2,7.16
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,1,3,3.66
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,1,4,1.41
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,1,5,0.43
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,1,6,0.11
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,2,0,1.33
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,2,1,2.04
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,2,2,1.56
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,2,3,0.8
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,2,4,0.31
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,2,5,0.09
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,2,6,0.02
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,3,0,0.19
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,3,1,0.3
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,3,2,0.23
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,3,3,0.12
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,3,4,0.04
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,3,5,0.01
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,3,6,0.0
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,4,0,0.02
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,4,1,0.03
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,4,2,0.02
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,4,3,0.01
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,4,4,0.0
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,4,5,0.0
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,4,6,0.0
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,5,0,0.0
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,5,1,0.0
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,5,2,0.0
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,5,3,0.0
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,5,4,0.0
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,5,5,0.0
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,5,6,0.0
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,6,0,0.0
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,6,1,0.0
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,6,2,0.0
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,6,3,0.0
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,6,4,0.0
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,6,5,0.0
+36,F,Tunisia,Netherlands,Tunisia vs Netherlands,6,6,0.0
+37,G,Belgium,Egypt,Belgium vs Egypt,0,0,8.72
+37,G,Belgium,Egypt,Belgium vs Egypt,0,1,6.09
+37,G,Belgium,Egypt,Belgium vs Egypt,0,2,2.12
+37,G,Belgium,Egypt,Belgium vs Egypt,0,3,0.49
+37,G,Belgium,Egypt,Belgium vs Egypt,0,4,0.09
+37,G,Belgium,Egypt,Belgium vs Egypt,0,5,0.01
+37,G,Belgium,Egypt,Belgium vs Egypt,0,6,0.0
+37,G,Belgium,Egypt,Belgium vs Egypt,1,0,15.19
+37,G,Belgium,Egypt,Belgium vs Egypt,1,1,10.6
+37,G,Belgium,Egypt,Belgium vs Egypt,1,2,3.7
+37,G,Belgium,Egypt,Belgium vs Egypt,1,3,0.86
+37,G,Belgium,Egypt,Belgium vs Egypt,1,4,0.15
+37,G,Belgium,Egypt,Belgium vs Egypt,1,5,0.02
+37,G,Belgium,Egypt,Belgium vs Egypt,1,6,0.0
+37,G,Belgium,Egypt,Belgium vs Egypt,2,0,13.23
+37,G,Belgium,Egypt,Belgium vs Egypt,2,1,9.23
+37,G,Belgium,Egypt,Belgium vs Egypt,2,2,3.22
+37,G,Belgium,Egypt,Belgium vs Egypt,2,3,0.75
+37,G,Belgium,Egypt,Belgium vs Egypt,2,4,0.13
+37,G,Belgium,Egypt,Belgium vs Egypt,2,5,0.02
+37,G,Belgium,Egypt,Belgium vs Egypt,2,6,0.0
+37,G,Belgium,Egypt,Belgium vs Egypt,3,0,7.68
+37,G,Belgium,Egypt,Belgium vs Egypt,3,1,5.36
+37,G,Belgium,Egypt,Belgium vs Egypt,3,2,1.87
+37,G,Belgium,Egypt,Belgium vs Egypt,3,3,0.43
+37,G,Belgium,Egypt,Belgium vs Egypt,3,4,0.08
+37,G,Belgium,Egypt,Belgium vs Egypt,3,5,0.01
+37,G,Belgium,Egypt,Belgium vs Egypt,3,6,0.0
+37,G,Belgium,Egypt,Belgium vs Egypt,4,0,3.34
+37,G,Belgium,Egypt,Belgium vs Egypt,4,1,2.33
+37,G,Belgium,Egypt,Belgium vs Egypt,4,2,0.81
+37,G,Belgium,Egypt,Belgium vs Egypt,4,3,0.19
+37,G,Belgium,Egypt,Belgium vs Egypt,4,4,0.03
+37,G,Belgium,Egypt,Belgium vs Egypt,4,5,0.0
+37,G,Belgium,Egypt,Belgium vs Egypt,4,6,0.0
+37,G,Belgium,Egypt,Belgium vs Egypt,5,0,1.16
+37,G,Belgium,Egypt,Belgium vs Egypt,5,1,0.81
+37,G,Belgium,Egypt,Belgium vs Egypt,5,2,0.28
+37,G,Belgium,Egypt,Belgium vs Egypt,5,3,0.07
+37,G,Belgium,Egypt,Belgium vs Egypt,5,4,0.01
+37,G,Belgium,Egypt,Belgium vs Egypt,5,5,0.0
+37,G,Belgium,Egypt,Belgium vs Egypt,5,6,0.0
+37,G,Belgium,Egypt,Belgium vs Egypt,6,0,0.34
+37,G,Belgium,Egypt,Belgium vs Egypt,6,1,0.24
+37,G,Belgium,Egypt,Belgium vs Egypt,6,2,0.08
+37,G,Belgium,Egypt,Belgium vs Egypt,6,3,0.02
+37,G,Belgium,Egypt,Belgium vs Egypt,6,4,0.0
+37,G,Belgium,Egypt,Belgium vs Egypt,6,5,0.0
+37,G,Belgium,Egypt,Belgium vs Egypt,6,6,0.0
+38,G,Iran,New Zealand,Iran vs New Zealand,0,0,4.51
+38,G,Iran,New Zealand,Iran vs New Zealand,0,1,2.62
+38,G,Iran,New Zealand,Iran vs New Zealand,0,2,0.76
+38,G,Iran,New Zealand,Iran vs New Zealand,0,3,0.15
+38,G,Iran,New Zealand,Iran vs New Zealand,0,4,0.02
+38,G,Iran,New Zealand,Iran vs New Zealand,0,5,0.0
+38,G,Iran,New Zealand,Iran vs New Zealand,0,6,0.0
+38,G,Iran,New Zealand,Iran vs New Zealand,1,0,11.36
+38,G,Iran,New Zealand,Iran vs New Zealand,1,1,6.6
+38,G,Iran,New Zealand,Iran vs New Zealand,1,2,1.91
+38,G,Iran,New Zealand,Iran vs New Zealand,1,3,0.37
+38,G,Iran,New Zealand,Iran vs New Zealand,1,4,0.05
+38,G,Iran,New Zealand,Iran vs New Zealand,1,5,0.01
+38,G,Iran,New Zealand,Iran vs New Zealand,1,6,0.0
+38,G,Iran,New Zealand,Iran vs New Zealand,2,0,14.3
+38,G,Iran,New Zealand,Iran vs New Zealand,2,1,8.3
+38,G,Iran,New Zealand,Iran vs New Zealand,2,2,2.41
+38,G,Iran,New Zealand,Iran vs New Zealand,2,3,0.47
+38,G,Iran,New Zealand,Iran vs New Zealand,2,4,0.07
+38,G,Iran,New Zealand,Iran vs New Zealand,2,5,0.01
+38,G,Iran,New Zealand,Iran vs New Zealand,2,6,0.0
+38,G,Iran,New Zealand,Iran vs New Zealand,3,0,12.0
+38,G,Iran,New Zealand,Iran vs New Zealand,3,1,6.97
+38,G,Iran,New Zealand,Iran vs New Zealand,3,2,2.02
+38,G,Iran,New Zealand,Iran vs New Zealand,3,3,0.39
+38,G,Iran,New Zealand,Iran vs New Zealand,3,4,0.06
+38,G,Iran,New Zealand,Iran vs New Zealand,3,5,0.01
+38,G,Iran,New Zealand,Iran vs New Zealand,3,6,0.0
+38,G,Iran,New Zealand,Iran vs New Zealand,4,0,7.56
+38,G,Iran,New Zealand,Iran vs New Zealand,4,1,4.39
+38,G,Iran,New Zealand,Iran vs New Zealand,4,2,1.27
+38,G,Iran,New Zealand,Iran vs New Zealand,4,3,0.25
+38,G,Iran,New Zealand,Iran vs New Zealand,4,4,0.04
+38,G,Iran,New Zealand,Iran vs New Zealand,4,5,0.0
+38,G,Iran,New Zealand,Iran vs New Zealand,4,6,0.0
+38,G,Iran,New Zealand,Iran vs New Zealand,5,0,3.8
+38,G,Iran,New Zealand,Iran vs New Zealand,5,1,2.21
+38,G,Iran,New Zealand,Iran vs New Zealand,5,2,0.64
+38,G,Iran,New Zealand,Iran vs New Zealand,5,3,0.12
+38,G,Iran,New Zealand,Iran vs New Zealand,5,4,0.02
+38,G,Iran,New Zealand,Iran vs New Zealand,5,5,0.0
+38,G,Iran,New Zealand,Iran vs New Zealand,5,6,0.0
+38,G,Iran,New Zealand,Iran vs New Zealand,6,0,1.6
+38,G,Iran,New Zealand,Iran vs New Zealand,6,1,0.93
+38,G,Iran,New Zealand,Iran vs New Zealand,6,2,0.27
+38,G,Iran,New Zealand,Iran vs New Zealand,6,3,0.05
+38,G,Iran,New Zealand,Iran vs New Zealand,6,4,0.01
+38,G,Iran,New Zealand,Iran vs New Zealand,6,5,0.0
+38,G,Iran,New Zealand,Iran vs New Zealand,6,6,0.0
+39,G,Belgium,Iran,Belgium vs Iran,0,0,4.35
+39,G,Belgium,Iran,Belgium vs Iran,0,1,4.09
+39,G,Belgium,Iran,Belgium vs Iran,0,2,1.92
+39,G,Belgium,Iran,Belgium vs Iran,0,3,0.6
+39,G,Belgium,Iran,Belgium vs Iran,0,4,0.14
+39,G,Belgium,Iran,Belgium vs Iran,0,5,0.03
+39,G,Belgium,Iran,Belgium vs Iran,0,6,0.0
+39,G,Belgium,Iran,Belgium vs Iran,1,0,9.56
+39,G,Belgium,Iran,Belgium vs Iran,1,1,8.98
+39,G,Belgium,Iran,Belgium vs Iran,1,2,4.21
+39,G,Belgium,Iran,Belgium vs Iran,1,3,1.32
+39,G,Belgium,Iran,Belgium vs Iran,1,4,0.31
+39,G,Belgium,Iran,Belgium vs Iran,1,5,0.06
+39,G,Belgium,Iran,Belgium vs Iran,1,6,0.01
+39,G,Belgium,Iran,Belgium vs Iran,2,0,10.49
+39,G,Belgium,Iran,Belgium vs Iran,2,1,9.85
+39,G,Belgium,Iran,Belgium vs Iran,2,2,4.62
+39,G,Belgium,Iran,Belgium vs Iran,2,3,1.45
+39,G,Belgium,Iran,Belgium vs Iran,2,4,0.34
+39,G,Belgium,Iran,Belgium vs Iran,2,5,0.06
+39,G,Belgium,Iran,Belgium vs Iran,2,6,0.01
+39,G,Belgium,Iran,Belgium vs Iran,3,0,7.67
+39,G,Belgium,Iran,Belgium vs Iran,3,1,7.21
+39,G,Belgium,Iran,Belgium vs Iran,3,2,3.38
+39,G,Belgium,Iran,Belgium vs Iran,3,3,1.06
+39,G,Belgium,Iran,Belgium vs Iran,3,4,0.25
+39,G,Belgium,Iran,Belgium vs Iran,3,5,0.05
+39,G,Belgium,Iran,Belgium vs Iran,3,6,0.01
+39,G,Belgium,Iran,Belgium vs Iran,4,0,4.21
+39,G,Belgium,Iran,Belgium vs Iran,4,1,3.95
+39,G,Belgium,Iran,Belgium vs Iran,4,2,1.86
+39,G,Belgium,Iran,Belgium vs Iran,4,3,0.58
+39,G,Belgium,Iran,Belgium vs Iran,4,4,0.14
+39,G,Belgium,Iran,Belgium vs Iran,4,5,0.03
+39,G,Belgium,Iran,Belgium vs Iran,4,6,0.0
+39,G,Belgium,Iran,Belgium vs Iran,5,0,1.85
+39,G,Belgium,Iran,Belgium vs Iran,5,1,1.74
+39,G,Belgium,Iran,Belgium vs Iran,5,2,0.82
+39,G,Belgium,Iran,Belgium vs Iran,5,3,0.26
+39,G,Belgium,Iran,Belgium vs Iran,5,4,0.06
+39,G,Belgium,Iran,Belgium vs Iran,5,5,0.01
+39,G,Belgium,Iran,Belgium vs Iran,5,6,0.0
+39,G,Belgium,Iran,Belgium vs Iran,6,0,0.68
+39,G,Belgium,Iran,Belgium vs Iran,6,1,0.64
+39,G,Belgium,Iran,Belgium vs Iran,6,2,0.3
+39,G,Belgium,Iran,Belgium vs Iran,6,3,0.09
+39,G,Belgium,Iran,Belgium vs Iran,6,4,0.02
+39,G,Belgium,Iran,Belgium vs Iran,6,5,0.0
+39,G,Belgium,Iran,Belgium vs Iran,6,6,0.0
+40,G,New Zealand,Egypt,New Zealand vs Egypt,0,0,9.72
+40,G,New Zealand,Egypt,New Zealand vs Egypt,0,1,18.18
+40,G,New Zealand,Egypt,New Zealand vs Egypt,0,2,17.0
+40,G,New Zealand,Egypt,New Zealand vs Egypt,0,3,10.6
+40,G,New Zealand,Egypt,New Zealand vs Egypt,0,4,4.96
+40,G,New Zealand,Egypt,New Zealand vs Egypt,0,5,1.85
+40,G,New Zealand,Egypt,New Zealand vs Egypt,0,6,0.58
+40,G,New Zealand,Egypt,New Zealand vs Egypt,1,0,4.48
+40,G,New Zealand,Egypt,New Zealand vs Egypt,1,1,8.37
+40,G,New Zealand,Egypt,New Zealand vs Egypt,1,2,7.83
+40,G,New Zealand,Egypt,New Zealand vs Egypt,1,3,4.88
+40,G,New Zealand,Egypt,New Zealand vs Egypt,1,4,2.28
+40,G,New Zealand,Egypt,New Zealand vs Egypt,1,5,0.85
+40,G,New Zealand,Egypt,New Zealand vs Egypt,1,6,0.27
+40,G,New Zealand,Egypt,New Zealand vs Egypt,2,0,1.03
+40,G,New Zealand,Egypt,New Zealand vs Egypt,2,1,1.93
+40,G,New Zealand,Egypt,New Zealand vs Egypt,2,2,1.8
+40,G,New Zealand,Egypt,New Zealand vs Egypt,2,3,1.12
+40,G,New Zealand,Egypt,New Zealand vs Egypt,2,4,0.53
+40,G,New Zealand,Egypt,New Zealand vs Egypt,2,5,0.2
+40,G,New Zealand,Egypt,New Zealand vs Egypt,2,6,0.06
+40,G,New Zealand,Egypt,New Zealand vs Egypt,3,0,0.16
+40,G,New Zealand,Egypt,New Zealand vs Egypt,3,1,0.3
+40,G,New Zealand,Egypt,New Zealand vs Egypt,3,2,0.28
+40,G,New Zealand,Egypt,New Zealand vs Egypt,3,3,0.17
+40,G,New Zealand,Egypt,New Zealand vs Egypt,3,4,0.08
+40,G,New Zealand,Egypt,New Zealand vs Egypt,3,5,0.03
+40,G,New Zealand,Egypt,New Zealand vs Egypt,3,6,0.01
+40,G,New Zealand,Egypt,New Zealand vs Egypt,4,0,0.02
+40,G,New Zealand,Egypt,New Zealand vs Egypt,4,1,0.03
+40,G,New Zealand,Egypt,New Zealand vs Egypt,4,2,0.03
+40,G,New Zealand,Egypt,New Zealand vs Egypt,4,3,0.02
+40,G,New Zealand,Egypt,New Zealand vs Egypt,4,4,0.01
+40,G,New Zealand,Egypt,New Zealand vs Egypt,4,5,0.0
+40,G,New Zealand,Egypt,New Zealand vs Egypt,4,6,0.0
+40,G,New Zealand,Egypt,New Zealand vs Egypt,5,0,0.0
+40,G,New Zealand,Egypt,New Zealand vs Egypt,5,1,0.0
+40,G,New Zealand,Egypt,New Zealand vs Egypt,5,2,0.0
+40,G,New Zealand,Egypt,New Zealand vs Egypt,5,3,0.0
+40,G,New Zealand,Egypt,New Zealand vs Egypt,5,4,0.0
+40,G,New Zealand,Egypt,New Zealand vs Egypt,5,5,0.0
+40,G,New Zealand,Egypt,New Zealand vs Egypt,5,6,0.0
+40,G,New Zealand,Egypt,New Zealand vs Egypt,6,0,0.0
+40,G,New Zealand,Egypt,New Zealand vs Egypt,6,1,0.0
+40,G,New Zealand,Egypt,New Zealand vs Egypt,6,2,0.0
+40,G,New Zealand,Egypt,New Zealand vs Egypt,6,3,0.0
+40,G,New Zealand,Egypt,New Zealand vs Egypt,6,4,0.0
+40,G,New Zealand,Egypt,New Zealand vs Egypt,6,5,0.0
+40,G,New Zealand,Egypt,New Zealand vs Egypt,6,6,0.0
+41,G,Egypt,Iran,Egypt vs Iran,0,0,15.05
+41,G,Egypt,Iran,Egypt vs Iran,0,1,14.72
+41,G,Egypt,Iran,Egypt vs Iran,0,2,7.2
+41,G,Egypt,Iran,Egypt vs Iran,0,3,2.35
+41,G,Egypt,Iran,Egypt vs Iran,0,4,0.57
+41,G,Egypt,Iran,Egypt vs Iran,0,5,0.11
+41,G,Egypt,Iran,Egypt vs Iran,0,6,0.02
+41,G,Egypt,Iran,Egypt vs Iran,1,0,13.78
+41,G,Egypt,Iran,Egypt vs Iran,1,1,13.48
+41,G,Egypt,Iran,Egypt vs Iran,1,2,6.59
+41,G,Egypt,Iran,Egypt vs Iran,1,3,2.15
+41,G,Egypt,Iran,Egypt vs Iran,1,4,0.53
+41,G,Egypt,Iran,Egypt vs Iran,1,5,0.1
+41,G,Egypt,Iran,Egypt vs Iran,1,6,0.02
+41,G,Egypt,Iran,Egypt vs Iran,2,0,6.31
+41,G,Egypt,Iran,Egypt vs Iran,2,1,6.17
+41,G,Egypt,Iran,Egypt vs Iran,2,2,3.02
+41,G,Egypt,Iran,Egypt vs Iran,2,3,0.98
+41,G,Egypt,Iran,Egypt vs Iran,2,4,0.24
+41,G,Egypt,Iran,Egypt vs Iran,2,5,0.05
+41,G,Egypt,Iran,Egypt vs Iran,2,6,0.01
+41,G,Egypt,Iran,Egypt vs Iran,3,0,1.93
+41,G,Egypt,Iran,Egypt vs Iran,3,1,1.88
+41,G,Egypt,Iran,Egypt vs Iran,3,2,0.92
+41,G,Egypt,Iran,Egypt vs Iran,3,3,0.3
+41,G,Egypt,Iran,Egypt vs Iran,3,4,0.07
+41,G,Egypt,Iran,Egypt vs Iran,3,5,0.01
+41,G,Egypt,Iran,Egypt vs Iran,3,6,0.0
+41,G,Egypt,Iran,Egypt vs Iran,4,0,0.44
+41,G,Egypt,Iran,Egypt vs Iran,4,1,0.43
+41,G,Egypt,Iran,Egypt vs Iran,4,2,0.21
+41,G,Egypt,Iran,Egypt vs Iran,4,3,0.07
+41,G,Egypt,Iran,Egypt vs Iran,4,4,0.02
+41,G,Egypt,Iran,Egypt vs Iran,4,5,0.0
+41,G,Egypt,Iran,Egypt vs Iran,4,6,0.0
+41,G,Egypt,Iran,Egypt vs Iran,5,0,0.08
+41,G,Egypt,Iran,Egypt vs Iran,5,1,0.08
+41,G,Egypt,Iran,Egypt vs Iran,5,2,0.04
+41,G,Egypt,Iran,Egypt vs Iran,5,3,0.01
+41,G,Egypt,Iran,Egypt vs Iran,5,4,0.0
+41,G,Egypt,Iran,Egypt vs Iran,5,5,0.0
+41,G,Egypt,Iran,Egypt vs Iran,5,6,0.0
+41,G,Egypt,Iran,Egypt vs Iran,6,0,0.01
+41,G,Egypt,Iran,Egypt vs Iran,6,1,0.01
+41,G,Egypt,Iran,Egypt vs Iran,6,2,0.01
+41,G,Egypt,Iran,Egypt vs Iran,6,3,0.0
+41,G,Egypt,Iran,Egypt vs Iran,6,4,0.0
+41,G,Egypt,Iran,Egypt vs Iran,6,5,0.0
+41,G,Egypt,Iran,Egypt vs Iran,6,6,0.0
+42,G,New Zealand,Belgium,New Zealand vs Belgium,0,0,0.73
+42,G,New Zealand,Belgium,New Zealand vs Belgium,0,1,3.25
+42,G,New Zealand,Belgium,New Zealand vs Belgium,0,2,7.3
+42,G,New Zealand,Belgium,New Zealand vs Belgium,0,3,10.9
+42,G,New Zealand,Belgium,New Zealand vs Belgium,0,4,12.22
+42,G,New Zealand,Belgium,New Zealand vs Belgium,0,5,10.96
+42,G,New Zealand,Belgium,New Zealand vs Belgium,0,6,8.19
+42,G,New Zealand,Belgium,New Zealand vs Belgium,1,0,0.32
+42,G,New Zealand,Belgium,New Zealand vs Belgium,1,1,1.44
+42,G,New Zealand,Belgium,New Zealand vs Belgium,1,2,3.23
+42,G,New Zealand,Belgium,New Zealand vs Belgium,1,3,4.82
+42,G,New Zealand,Belgium,New Zealand vs Belgium,1,4,5.4
+42,G,New Zealand,Belgium,New Zealand vs Belgium,1,5,4.85
+42,G,New Zealand,Belgium,New Zealand vs Belgium,1,6,3.62
+42,G,New Zealand,Belgium,New Zealand vs Belgium,2,0,0.07
+42,G,New Zealand,Belgium,New Zealand vs Belgium,2,1,0.32
+42,G,New Zealand,Belgium,New Zealand vs Belgium,2,2,0.71
+42,G,New Zealand,Belgium,New Zealand vs Belgium,2,3,1.07
+42,G,New Zealand,Belgium,New Zealand vs Belgium,2,4,1.19
+42,G,New Zealand,Belgium,New Zealand vs Belgium,2,5,1.07
+42,G,New Zealand,Belgium,New Zealand vs Belgium,2,6,0.8
+42,G,New Zealand,Belgium,New Zealand vs Belgium,3,0,0.01
+42,G,New Zealand,Belgium,New Zealand vs Belgium,3,1,0.05
+42,G,New Zealand,Belgium,New Zealand vs Belgium,3,2,0.11
+42,G,New Zealand,Belgium,New Zealand vs Belgium,3,3,0.16
+42,G,New Zealand,Belgium,New Zealand vs Belgium,3,4,0.18
+42,G,New Zealand,Belgium,New Zealand vs Belgium,3,5,0.16
+42,G,New Zealand,Belgium,New Zealand vs Belgium,3,6,0.12
+42,G,New Zealand,Belgium,New Zealand vs Belgium,4,0,0.0
+42,G,New Zealand,Belgium,New Zealand vs Belgium,4,1,0.01
+42,G,New Zealand,Belgium,New Zealand vs Belgium,4,2,0.01
+42,G,New Zealand,Belgium,New Zealand vs Belgium,4,3,0.02
+42,G,New Zealand,Belgium,New Zealand vs Belgium,4,4,0.02
+42,G,New Zealand,Belgium,New Zealand vs Belgium,4,5,0.02
+42,G,New Zealand,Belgium,New Zealand vs Belgium,4,6,0.01
+42,G,New Zealand,Belgium,New Zealand vs Belgium,5,0,0.0
+42,G,New Zealand,Belgium,New Zealand vs Belgium,5,1,0.0
+42,G,New Zealand,Belgium,New Zealand vs Belgium,5,2,0.0
+42,G,New Zealand,Belgium,New Zealand vs Belgium,5,3,0.0
+42,G,New Zealand,Belgium,New Zealand vs Belgium,5,4,0.0
+42,G,New Zealand,Belgium,New Zealand vs Belgium,5,5,0.0
+42,G,New Zealand,Belgium,New Zealand vs Belgium,5,6,0.0
+42,G,New Zealand,Belgium,New Zealand vs Belgium,6,0,0.0
+42,G,New Zealand,Belgium,New Zealand vs Belgium,6,1,0.0
+42,G,New Zealand,Belgium,New Zealand vs Belgium,6,2,0.0
+42,G,New Zealand,Belgium,New Zealand vs Belgium,6,3,0.0
+42,G,New Zealand,Belgium,New Zealand vs Belgium,6,4,0.0
+42,G,New Zealand,Belgium,New Zealand vs Belgium,6,5,0.0
+42,G,New Zealand,Belgium,New Zealand vs Belgium,6,6,0.0
+43,H,Spain,Cape Verde,Spain vs Cape Verde,0,0,5.65
+43,H,Spain,Cape Verde,Spain vs Cape Verde,0,1,4.81
+43,H,Spain,Cape Verde,Spain vs Cape Verde,0,2,2.04
+43,H,Spain,Cape Verde,Spain vs Cape Verde,0,3,0.58
+43,H,Spain,Cape Verde,Spain vs Cape Verde,0,4,0.12
+43,H,Spain,Cape Verde,Spain vs Cape Verde,0,5,0.02
+43,H,Spain,Cape Verde,Spain vs Cape Verde,0,6,0.0
+43,H,Spain,Cape Verde,Spain vs Cape Verde,1,0,11.43
+43,H,Spain,Cape Verde,Spain vs Cape Verde,1,1,9.72
+43,H,Spain,Cape Verde,Spain vs Cape Verde,1,2,4.14
+43,H,Spain,Cape Verde,Spain vs Cape Verde,1,3,1.17
+43,H,Spain,Cape Verde,Spain vs Cape Verde,1,4,0.25
+43,H,Spain,Cape Verde,Spain vs Cape Verde,1,5,0.04
+43,H,Spain,Cape Verde,Spain vs Cape Verde,1,6,0.01
+43,H,Spain,Cape Verde,Spain vs Cape Verde,2,0,11.56
+43,H,Spain,Cape Verde,Spain vs Cape Verde,2,1,9.83
+43,H,Spain,Cape Verde,Spain vs Cape Verde,2,2,4.18
+43,H,Spain,Cape Verde,Spain vs Cape Verde,2,3,1.19
+43,H,Spain,Cape Verde,Spain vs Cape Verde,2,4,0.25
+43,H,Spain,Cape Verde,Spain vs Cape Verde,2,5,0.04
+43,H,Spain,Cape Verde,Spain vs Cape Verde,2,6,0.01
+43,H,Spain,Cape Verde,Spain vs Cape Verde,3,0,7.79
+43,H,Spain,Cape Verde,Spain vs Cape Verde,3,1,6.63
+43,H,Spain,Cape Verde,Spain vs Cape Verde,3,2,2.82
+43,H,Spain,Cape Verde,Spain vs Cape Verde,3,3,0.8
+43,H,Spain,Cape Verde,Spain vs Cape Verde,3,4,0.17
+43,H,Spain,Cape Verde,Spain vs Cape Verde,3,5,0.03
+43,H,Spain,Cape Verde,Spain vs Cape Verde,3,6,0.0
+43,H,Spain,Cape Verde,Spain vs Cape Verde,4,0,3.94
+43,H,Spain,Cape Verde,Spain vs Cape Verde,4,1,3.35
+43,H,Spain,Cape Verde,Spain vs Cape Verde,4,2,1.43
+43,H,Spain,Cape Verde,Spain vs Cape Verde,4,3,0.4
+43,H,Spain,Cape Verde,Spain vs Cape Verde,4,4,0.09
+43,H,Spain,Cape Verde,Spain vs Cape Verde,4,5,0.01
+43,H,Spain,Cape Verde,Spain vs Cape Verde,4,6,0.0
+43,H,Spain,Cape Verde,Spain vs Cape Verde,5,0,1.59
+43,H,Spain,Cape Verde,Spain vs Cape Verde,5,1,1.36
+43,H,Spain,Cape Verde,Spain vs Cape Verde,5,2,0.58
+43,H,Spain,Cape Verde,Spain vs Cape Verde,5,3,0.16
+43,H,Spain,Cape Verde,Spain vs Cape Verde,5,4,0.03
+43,H,Spain,Cape Verde,Spain vs Cape Verde,5,5,0.01
+43,H,Spain,Cape Verde,Spain vs Cape Verde,5,6,0.0
+43,H,Spain,Cape Verde,Spain vs Cape Verde,6,0,0.54
+43,H,Spain,Cape Verde,Spain vs Cape Verde,6,1,0.46
+43,H,Spain,Cape Verde,Spain vs Cape Verde,6,2,0.19
+43,H,Spain,Cape Verde,Spain vs Cape Verde,6,3,0.06
+43,H,Spain,Cape Verde,Spain vs Cape Verde,6,4,0.01
+43,H,Spain,Cape Verde,Spain vs Cape Verde,6,5,0.0
+43,H,Spain,Cape Verde,Spain vs Cape Verde,6,6,0.0
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,0,0,12.94
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,0,1,10.06
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,0,2,3.91
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,0,3,1.01
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,0,4,0.2
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,0,5,0.03
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,0,6,0.0
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,1,0,16.41
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,1,1,12.75
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,1,2,4.95
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,1,3,1.28
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,1,4,0.25
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,1,5,0.04
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,1,6,0.01
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,2,0,10.4
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,2,1,8.08
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,2,2,3.14
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,2,3,0.81
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,2,4,0.16
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,2,5,0.02
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,2,6,0.0
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,3,0,4.39
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,3,1,3.41
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,3,2,1.33
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,3,3,0.34
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,3,4,0.07
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,3,5,0.01
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,3,6,0.0
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,4,0,1.39
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,4,1,1.08
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,4,2,0.42
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,4,3,0.11
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,4,4,0.02
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,4,5,0.0
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,4,6,0.0
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,5,0,0.35
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,5,1,0.27
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,5,2,0.11
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,5,3,0.03
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,5,4,0.01
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,5,5,0.0
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,5,6,0.0
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,6,0,0.07
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,6,1,0.06
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,6,2,0.02
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,6,3,0.01
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,6,4,0.0
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,6,5,0.0
+44,H,Saudi Arabia,Uruguay,Saudi Arabia vs Uruguay,6,6,0.0
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,0,0,9.7
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,0,1,9.7
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,0,2,4.85
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,0,3,1.62
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,0,4,0.4
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,0,5,0.08
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,0,6,0.01
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,1,0,12.94
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,1,1,12.93
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,1,2,6.46
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,1,3,2.15
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,1,4,0.54
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,1,5,0.11
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,1,6,0.02
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,2,0,8.62
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,2,1,8.62
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,2,2,4.31
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,2,3,1.44
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,2,4,0.36
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,2,5,0.07
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,2,6,0.01
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,3,0,3.83
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,3,1,3.83
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,3,2,1.91
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,3,3,0.64
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,3,4,0.16
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,3,5,0.03
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,3,6,0.01
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,4,0,1.28
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,4,1,1.28
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,4,2,0.64
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,4,3,0.21
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,4,4,0.05
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,4,5,0.01
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,4,6,0.0
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,5,0,0.34
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,5,1,0.34
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,5,2,0.17
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,5,3,0.06
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,5,4,0.01
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,5,5,0.0
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,5,6,0.0
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,6,0,0.08
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,6,1,0.08
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,6,2,0.04
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,6,3,0.01
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,6,4,0.0
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,6,5,0.0
+45,H,Spain,Saudi Arabia,Spain vs Saudi Arabia,6,6,0.0
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,0,0,10.46
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,0,1,11.28
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,0,2,6.08
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,0,3,2.19
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,0,4,0.59
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,0,5,0.13
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,0,6,0.02
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,1,0,12.33
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,1,1,13.3
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,1,2,7.17
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,1,3,2.58
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,1,4,0.7
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,1,5,0.15
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,1,6,0.03
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,2,0,7.27
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,2,1,7.84
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,2,2,4.23
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,2,3,1.52
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,2,4,0.41
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,2,5,0.09
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,2,6,0.02
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,3,0,2.86
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,3,1,3.08
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,3,2,1.66
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,3,3,0.6
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,3,4,0.16
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,3,5,0.03
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,3,6,0.01
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,4,0,0.84
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,4,1,0.91
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,4,2,0.49
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,4,3,0.18
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,4,4,0.05
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,4,5,0.01
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,4,6,0.0
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,5,0,0.2
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,5,1,0.21
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,5,2,0.12
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,5,3,0.04
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,5,4,0.01
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,5,5,0.0
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,5,6,0.0
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,6,0,0.04
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,6,1,0.04
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,6,2,0.02
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,6,3,0.01
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,6,4,0.0
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,6,5,0.0
+46,H,Uruguay,Cape Verde,Uruguay vs Cape Verde,6,6,0.0
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,0,0,7.35
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,0,1,12.29
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,0,2,10.28
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,0,3,5.73
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,0,4,2.4
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,0,5,0.8
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,0,6,0.22
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,1,0,6.89
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,1,1,11.53
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,1,2,9.64
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,1,3,5.38
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,1,4,2.25
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,1,5,0.75
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,1,6,0.21
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,2,0,3.23
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,2,1,5.41
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,2,2,4.52
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,2,3,2.52
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,2,4,1.05
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,2,5,0.35
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,2,6,0.1
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,3,0,1.01
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,3,1,1.69
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,3,2,1.41
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,3,3,0.79
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,3,4,0.33
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,3,5,0.11
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,3,6,0.03
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,4,0,0.24
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,4,1,0.4
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,4,2,0.33
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,4,3,0.18
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,4,4,0.08
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,4,5,0.03
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,4,6,0.01
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,5,0,0.04
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,5,1,0.07
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,5,2,0.06
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,5,3,0.03
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,5,4,0.01
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,5,5,0.0
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,5,6,0.0
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,6,0,0.01
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,6,1,0.01
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,6,2,0.01
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,6,3,0.01
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,6,4,0.0
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,6,5,0.0
+47,H,Cape Verde,Saudi Arabia,Cape Verde vs Saudi Arabia,6,6,0.0
+48,H,Uruguay,Spain,Uruguay vs Spain,0,0,10.68
+48,H,Uruguay,Spain,Uruguay vs Spain,0,1,16.36
+48,H,Uruguay,Spain,Uruguay vs Spain,0,2,12.53
+48,H,Uruguay,Spain,Uruguay vs Spain,0,3,6.4
+48,H,Uruguay,Spain,Uruguay vs Spain,0,4,2.45
+48,H,Uruguay,Spain,Uruguay vs Spain,0,5,0.75
+48,H,Uruguay,Spain,Uruguay vs Spain,0,6,0.19
+48,H,Uruguay,Spain,Uruguay vs Spain,1,0,7.52
+48,H,Uruguay,Spain,Uruguay vs Spain,1,1,11.53
+48,H,Uruguay,Spain,Uruguay vs Spain,1,2,8.83
+48,H,Uruguay,Spain,Uruguay vs Spain,1,3,4.51
+48,H,Uruguay,Spain,Uruguay vs Spain,1,4,1.73
+48,H,Uruguay,Spain,Uruguay vs Spain,1,5,0.53
+48,H,Uruguay,Spain,Uruguay vs Spain,1,6,0.14
+48,H,Uruguay,Spain,Uruguay vs Spain,2,0,2.65
+48,H,Uruguay,Spain,Uruguay vs Spain,2,1,4.06
+48,H,Uruguay,Spain,Uruguay vs Spain,2,2,3.11
+48,H,Uruguay,Spain,Uruguay vs Spain,2,3,1.59
+48,H,Uruguay,Spain,Uruguay vs Spain,2,4,0.61
+48,H,Uruguay,Spain,Uruguay vs Spain,2,5,0.19
+48,H,Uruguay,Spain,Uruguay vs Spain,2,6,0.05
+48,H,Uruguay,Spain,Uruguay vs Spain,3,0,0.62
+48,H,Uruguay,Spain,Uruguay vs Spain,3,1,0.95
+48,H,Uruguay,Spain,Uruguay vs Spain,3,2,0.73
+48,H,Uruguay,Spain,Uruguay vs Spain,3,3,0.37
+48,H,Uruguay,Spain,Uruguay vs Spain,3,4,0.14
+48,H,Uruguay,Spain,Uruguay vs Spain,3,5,0.04
+48,H,Uruguay,Spain,Uruguay vs Spain,3,6,0.01
+48,H,Uruguay,Spain,Uruguay vs Spain,4,0,0.11
+48,H,Uruguay,Spain,Uruguay vs Spain,4,1,0.17
+48,H,Uruguay,Spain,Uruguay vs Spain,4,2,0.13
+48,H,Uruguay,Spain,Uruguay vs Spain,4,3,0.07
+48,H,Uruguay,Spain,Uruguay vs Spain,4,4,0.03
+48,H,Uruguay,Spain,Uruguay vs Spain,4,5,0.01
+48,H,Uruguay,Spain,Uruguay vs Spain,4,6,0.0
+48,H,Uruguay,Spain,Uruguay vs Spain,5,0,0.02
+48,H,Uruguay,Spain,Uruguay vs Spain,5,1,0.02
+48,H,Uruguay,Spain,Uruguay vs Spain,5,2,0.02
+48,H,Uruguay,Spain,Uruguay vs Spain,5,3,0.01
+48,H,Uruguay,Spain,Uruguay vs Spain,5,4,0.0
+48,H,Uruguay,Spain,Uruguay vs Spain,5,5,0.0
+48,H,Uruguay,Spain,Uruguay vs Spain,5,6,0.0
+48,H,Uruguay,Spain,Uruguay vs Spain,6,0,0.0
+48,H,Uruguay,Spain,Uruguay vs Spain,6,1,0.0
+48,H,Uruguay,Spain,Uruguay vs Spain,6,2,0.0
+48,H,Uruguay,Spain,Uruguay vs Spain,6,3,0.0
+48,H,Uruguay,Spain,Uruguay vs Spain,6,4,0.0
+48,H,Uruguay,Spain,Uruguay vs Spain,6,5,0.0
+48,H,Uruguay,Spain,Uruguay vs Spain,6,6,0.0
+49,I,France,Senegal,France vs Senegal,0,0,5.41
+49,I,France,Senegal,France vs Senegal,0,1,5.86
+49,I,France,Senegal,France vs Senegal,0,2,3.17
+49,I,France,Senegal,France vs Senegal,0,3,1.15
+49,I,France,Senegal,France vs Senegal,0,4,0.31
+49,I,France,Senegal,France vs Senegal,0,5,0.07
+49,I,France,Senegal,France vs Senegal,0,6,0.01
+49,I,France,Senegal,France vs Senegal,1,0,9.92
+49,I,France,Senegal,France vs Senegal,1,1,10.74
+49,I,France,Senegal,France vs Senegal,1,2,5.82
+49,I,France,Senegal,France vs Senegal,1,3,2.1
+49,I,France,Senegal,France vs Senegal,1,4,0.57
+49,I,France,Senegal,France vs Senegal,1,5,0.12
+49,I,France,Senegal,France vs Senegal,1,6,0.02
+49,I,France,Senegal,France vs Senegal,2,0,9.09
+49,I,France,Senegal,France vs Senegal,2,1,9.85
+49,I,France,Senegal,France vs Senegal,2,2,5.34
+49,I,France,Senegal,France vs Senegal,2,3,1.93
+49,I,France,Senegal,France vs Senegal,2,4,0.52
+49,I,France,Senegal,France vs Senegal,2,5,0.11
+49,I,France,Senegal,France vs Senegal,2,6,0.02
+49,I,France,Senegal,France vs Senegal,3,0,5.56
+49,I,France,Senegal,France vs Senegal,3,1,6.02
+49,I,France,Senegal,France vs Senegal,3,2,3.26
+49,I,France,Senegal,France vs Senegal,3,3,1.18
+49,I,France,Senegal,France vs Senegal,3,4,0.32
+49,I,France,Senegal,France vs Senegal,3,5,0.07
+49,I,France,Senegal,France vs Senegal,3,6,0.01
+49,I,France,Senegal,France vs Senegal,4,0,2.55
+49,I,France,Senegal,France vs Senegal,4,1,2.76
+49,I,France,Senegal,France vs Senegal,4,2,1.5
+49,I,France,Senegal,France vs Senegal,4,3,0.54
+49,I,France,Senegal,France vs Senegal,4,4,0.15
+49,I,France,Senegal,France vs Senegal,4,5,0.03
+49,I,France,Senegal,France vs Senegal,4,6,0.01
+49,I,France,Senegal,France vs Senegal,5,0,0.94
+49,I,France,Senegal,France vs Senegal,5,1,1.01
+49,I,France,Senegal,France vs Senegal,5,2,0.55
+49,I,France,Senegal,France vs Senegal,5,3,0.2
+49,I,France,Senegal,France vs Senegal,5,4,0.05
+49,I,France,Senegal,France vs Senegal,5,5,0.01
+49,I,France,Senegal,France vs Senegal,5,6,0.0
+49,I,France,Senegal,France vs Senegal,6,0,0.29
+49,I,France,Senegal,France vs Senegal,6,1,0.31
+49,I,France,Senegal,France vs Senegal,6,2,0.17
+49,I,France,Senegal,France vs Senegal,6,3,0.06
+49,I,France,Senegal,France vs Senegal,6,4,0.02
+49,I,France,Senegal,France vs Senegal,6,5,0.0
+49,I,France,Senegal,France vs Senegal,6,6,0.0
+50,I,Iraq,Norway,Iraq vs Norway,0,0,9.62
+50,I,Iraq,Norway,Iraq vs Norway,0,1,17.16
+50,I,Iraq,Norway,Iraq vs Norway,0,2,15.31
+50,I,Iraq,Norway,Iraq vs Norway,0,3,9.11
+50,I,Iraq,Norway,Iraq vs Norway,0,4,4.07
+50,I,Iraq,Norway,Iraq vs Norway,0,5,1.45
+50,I,Iraq,Norway,Iraq vs Norway,0,6,0.43
+50,I,Iraq,Norway,Iraq vs Norway,1,0,5.36
+50,I,Iraq,Norway,Iraq vs Norway,1,1,9.56
+50,I,Iraq,Norway,Iraq vs Norway,1,2,8.53
+50,I,Iraq,Norway,Iraq vs Norway,1,3,5.08
+50,I,Iraq,Norway,Iraq vs Norway,1,4,2.26
+50,I,Iraq,Norway,Iraq vs Norway,1,5,0.81
+50,I,Iraq,Norway,Iraq vs Norway,1,6,0.24
+50,I,Iraq,Norway,Iraq vs Norway,2,0,1.49
+50,I,Iraq,Norway,Iraq vs Norway,2,1,2.66
+50,I,Iraq,Norway,Iraq vs Norway,2,2,2.38
+50,I,Iraq,Norway,Iraq vs Norway,2,3,1.41
+50,I,Iraq,Norway,Iraq vs Norway,2,4,0.63
+50,I,Iraq,Norway,Iraq vs Norway,2,5,0.23
+50,I,Iraq,Norway,Iraq vs Norway,2,6,0.07
+50,I,Iraq,Norway,Iraq vs Norway,3,0,0.28
+50,I,Iraq,Norway,Iraq vs Norway,3,1,0.49
+50,I,Iraq,Norway,Iraq vs Norway,3,2,0.44
+50,I,Iraq,Norway,Iraq vs Norway,3,3,0.26
+50,I,Iraq,Norway,Iraq vs Norway,3,4,0.12
+50,I,Iraq,Norway,Iraq vs Norway,3,5,0.04
+50,I,Iraq,Norway,Iraq vs Norway,3,6,0.01
+50,I,Iraq,Norway,Iraq vs Norway,4,0,0.04
+50,I,Iraq,Norway,Iraq vs Norway,4,1,0.07
+50,I,Iraq,Norway,Iraq vs Norway,4,2,0.06
+50,I,Iraq,Norway,Iraq vs Norway,4,3,0.04
+50,I,Iraq,Norway,Iraq vs Norway,4,4,0.02
+50,I,Iraq,Norway,Iraq vs Norway,4,5,0.01
+50,I,Iraq,Norway,Iraq vs Norway,4,6,0.0
+50,I,Iraq,Norway,Iraq vs Norway,5,0,0.0
+50,I,Iraq,Norway,Iraq vs Norway,5,1,0.01
+50,I,Iraq,Norway,Iraq vs Norway,5,2,0.01
+50,I,Iraq,Norway,Iraq vs Norway,5,3,0.0
+50,I,Iraq,Norway,Iraq vs Norway,5,4,0.0
+50,I,Iraq,Norway,Iraq vs Norway,5,5,0.0
+50,I,Iraq,Norway,Iraq vs Norway,5,6,0.0
+50,I,Iraq,Norway,Iraq vs Norway,6,0,0.0
+50,I,Iraq,Norway,Iraq vs Norway,6,1,0.0
+50,I,Iraq,Norway,Iraq vs Norway,6,2,0.0
+50,I,Iraq,Norway,Iraq vs Norway,6,3,0.0
+50,I,Iraq,Norway,Iraq vs Norway,6,4,0.0
+50,I,Iraq,Norway,Iraq vs Norway,6,5,0.0
+50,I,Iraq,Norway,Iraq vs Norway,6,6,0.0
+51,I,France,Iraq,France vs Iraq,0,0,5.81
+51,I,France,Iraq,France vs Iraq,0,1,3.39
+51,I,France,Iraq,France vs Iraq,0,2,0.99
+51,I,France,Iraq,France vs Iraq,0,3,0.19
+51,I,France,Iraq,France vs Iraq,0,4,0.03
+51,I,France,Iraq,France vs Iraq,0,5,0.0
+51,I,France,Iraq,France vs Iraq,0,6,0.0
+51,I,France,Iraq,France vs Iraq,1,0,13.14
+51,I,France,Iraq,France vs Iraq,1,1,7.68
+51,I,France,Iraq,France vs Iraq,1,2,2.24
+51,I,France,Iraq,France vs Iraq,1,3,0.44
+51,I,France,Iraq,France vs Iraq,1,4,0.06
+51,I,France,Iraq,France vs Iraq,1,5,0.01
+51,I,France,Iraq,France vs Iraq,1,6,0.0
+51,I,France,Iraq,France vs Iraq,2,0,14.86
+51,I,France,Iraq,France vs Iraq,2,1,8.68
+51,I,France,Iraq,France vs Iraq,2,2,2.54
+51,I,France,Iraq,France vs Iraq,2,3,0.49
+51,I,France,Iraq,France vs Iraq,2,4,0.07
+51,I,France,Iraq,France vs Iraq,2,5,0.01
+51,I,France,Iraq,France vs Iraq,2,6,0.0
+51,I,France,Iraq,France vs Iraq,3,0,11.2
+51,I,France,Iraq,France vs Iraq,3,1,6.54
+51,I,France,Iraq,France vs Iraq,3,2,1.91
+51,I,France,Iraq,France vs Iraq,3,3,0.37
+51,I,France,Iraq,France vs Iraq,3,4,0.05
+51,I,France,Iraq,France vs Iraq,3,5,0.01
+51,I,France,Iraq,France vs Iraq,3,6,0.0
+51,I,France,Iraq,France vs Iraq,4,0,6.33
+51,I,France,Iraq,France vs Iraq,4,1,3.7
+51,I,France,Iraq,France vs Iraq,4,2,1.08
+51,I,France,Iraq,France vs Iraq,4,3,0.21
+51,I,France,Iraq,France vs Iraq,4,4,0.03
+51,I,France,Iraq,France vs Iraq,4,5,0.0
+51,I,France,Iraq,France vs Iraq,4,6,0.0
+51,I,France,Iraq,France vs Iraq,5,0,2.86
+51,I,France,Iraq,France vs Iraq,5,1,1.67
+51,I,France,Iraq,France vs Iraq,5,2,0.49
+51,I,France,Iraq,France vs Iraq,5,3,0.1
+51,I,France,Iraq,France vs Iraq,5,4,0.01
+51,I,France,Iraq,France vs Iraq,5,5,0.0
+51,I,France,Iraq,France vs Iraq,5,6,0.0
+51,I,France,Iraq,France vs Iraq,6,0,1.08
+51,I,France,Iraq,France vs Iraq,6,1,0.63
+51,I,France,Iraq,France vs Iraq,6,2,0.18
+51,I,France,Iraq,France vs Iraq,6,3,0.04
+51,I,France,Iraq,France vs Iraq,6,4,0.01
+51,I,France,Iraq,France vs Iraq,6,5,0.0
+51,I,France,Iraq,France vs Iraq,6,6,0.0
+52,I,Norway,Senegal,Norway vs Senegal,0,0,8.37
+52,I,Norway,Senegal,Norway vs Senegal,0,1,8.64
+52,I,Norway,Senegal,Norway vs Senegal,0,2,4.46
+52,I,Norway,Senegal,Norway vs Senegal,0,3,1.54
+52,I,Norway,Senegal,Norway vs Senegal,0,4,0.4
+52,I,Norway,Senegal,Norway vs Senegal,0,5,0.08
+52,I,Norway,Senegal,Norway vs Senegal,0,6,0.01
+52,I,Norway,Senegal,Norway vs Senegal,1,0,12.12
+52,I,Norway,Senegal,Norway vs Senegal,1,1,12.51
+52,I,Norway,Senegal,Norway vs Senegal,1,2,6.46
+52,I,Norway,Senegal,Norway vs Senegal,1,3,2.23
+52,I,Norway,Senegal,Norway vs Senegal,1,4,0.57
+52,I,Norway,Senegal,Norway vs Senegal,1,5,0.12
+52,I,Norway,Senegal,Norway vs Senegal,1,6,0.02
+52,I,Norway,Senegal,Norway vs Senegal,2,0,8.77
+52,I,Norway,Senegal,Norway vs Senegal,2,1,9.06
+52,I,Norway,Senegal,Norway vs Senegal,2,2,4.68
+52,I,Norway,Senegal,Norway vs Senegal,2,3,1.61
+52,I,Norway,Senegal,Norway vs Senegal,2,4,0.42
+52,I,Norway,Senegal,Norway vs Senegal,2,5,0.09
+52,I,Norway,Senegal,Norway vs Senegal,2,6,0.01
+52,I,Norway,Senegal,Norway vs Senegal,3,0,4.23
+52,I,Norway,Senegal,Norway vs Senegal,3,1,4.37
+52,I,Norway,Senegal,Norway vs Senegal,3,2,2.26
+52,I,Norway,Senegal,Norway vs Senegal,3,3,0.78
+52,I,Norway,Senegal,Norway vs Senegal,3,4,0.2
+52,I,Norway,Senegal,Norway vs Senegal,3,5,0.04
+52,I,Norway,Senegal,Norway vs Senegal,3,6,0.01
+52,I,Norway,Senegal,Norway vs Senegal,4,0,1.53
+52,I,Norway,Senegal,Norway vs Senegal,4,1,1.58
+52,I,Norway,Senegal,Norway vs Senegal,4,2,0.82
+52,I,Norway,Senegal,Norway vs Senegal,4,3,0.28
+52,I,Norway,Senegal,Norway vs Senegal,4,4,0.07
+52,I,Norway,Senegal,Norway vs Senegal,4,5,0.02
+52,I,Norway,Senegal,Norway vs Senegal,4,6,0.0
+52,I,Norway,Senegal,Norway vs Senegal,5,0,0.44
+52,I,Norway,Senegal,Norway vs Senegal,5,1,0.46
+52,I,Norway,Senegal,Norway vs Senegal,5,2,0.24
+52,I,Norway,Senegal,Norway vs Senegal,5,3,0.08
+52,I,Norway,Senegal,Norway vs Senegal,5,4,0.02
+52,I,Norway,Senegal,Norway vs Senegal,5,5,0.0
+52,I,Norway,Senegal,Norway vs Senegal,5,6,0.0
+52,I,Norway,Senegal,Norway vs Senegal,6,0,0.11
+52,I,Norway,Senegal,Norway vs Senegal,6,1,0.11
+52,I,Norway,Senegal,Norway vs Senegal,6,2,0.06
+52,I,Norway,Senegal,Norway vs Senegal,6,3,0.02
+52,I,Norway,Senegal,Norway vs Senegal,6,4,0.01
+52,I,Norway,Senegal,Norway vs Senegal,6,5,0.0
+52,I,Norway,Senegal,Norway vs Senegal,6,6,0.0
+53,I,Norway,France,Norway vs France,0,0,5.0
+53,I,Norway,France,Norway vs France,0,1,8.2
+53,I,Norway,France,Norway vs France,0,2,6.72
+53,I,Norway,France,Norway vs France,0,3,3.67
+53,I,Norway,France,Norway vs France,0,4,1.5
+53,I,Norway,France,Norway vs France,0,5,0.49
+53,I,Norway,France,Norway vs France,0,6,0.13
+53,I,Norway,France,Norway vs France,1,0,6.79
+53,I,Norway,France,Norway vs France,1,1,11.12
+53,I,Norway,France,Norway vs France,1,2,9.11
+53,I,Norway,France,Norway vs France,1,3,4.98
+53,I,Norway,France,Norway vs France,1,4,2.04
+53,I,Norway,France,Norway vs France,1,5,0.67
+53,I,Norway,France,Norway vs France,1,6,0.18
+53,I,Norway,France,Norway vs France,2,0,4.6
+53,I,Norway,France,Norway vs France,2,1,7.54
+53,I,Norway,France,Norway vs France,2,2,6.18
+53,I,Norway,France,Norway vs France,2,3,3.37
+53,I,Norway,France,Norway vs France,2,4,1.38
+53,I,Norway,France,Norway vs France,2,5,0.45
+53,I,Norway,France,Norway vs France,2,6,0.12
+53,I,Norway,France,Norway vs France,3,0,2.08
+53,I,Norway,France,Norway vs France,3,1,3.41
+53,I,Norway,France,Norway vs France,3,2,2.79
+53,I,Norway,France,Norway vs France,3,3,1.53
+53,I,Norway,France,Norway vs France,3,4,0.62
+53,I,Norway,France,Norway vs France,3,5,0.2
+53,I,Norway,France,Norway vs France,3,6,0.06
+53,I,Norway,France,Norway vs France,4,0,0.71
+53,I,Norway,France,Norway vs France,4,1,1.16
+53,I,Norway,France,Norway vs France,4,2,0.95
+53,I,Norway,France,Norway vs France,4,3,0.52
+53,I,Norway,France,Norway vs France,4,4,0.21
+53,I,Norway,France,Norway vs France,4,5,0.07
+53,I,Norway,France,Norway vs France,4,6,0.02
+53,I,Norway,France,Norway vs France,5,0,0.19
+53,I,Norway,France,Norway vs France,5,1,0.31
+53,I,Norway,France,Norway vs France,5,2,0.26
+53,I,Norway,France,Norway vs France,5,3,0.14
+53,I,Norway,France,Norway vs France,5,4,0.06
+53,I,Norway,France,Norway vs France,5,5,0.02
+53,I,Norway,France,Norway vs France,5,6,0.01
+53,I,Norway,France,Norway vs France,6,0,0.04
+53,I,Norway,France,Norway vs France,6,1,0.07
+53,I,Norway,France,Norway vs France,6,2,0.06
+53,I,Norway,France,Norway vs France,6,3,0.03
+53,I,Norway,France,Norway vs France,6,4,0.01
+53,I,Norway,France,Norway vs France,6,5,0.0
+53,I,Norway,France,Norway vs France,6,6,0.0
+54,I,Senegal,Iraq,Senegal vs Iraq,0,0,12.88
+54,I,Senegal,Iraq,Senegal vs Iraq,0,1,8.03
+54,I,Senegal,Iraq,Senegal vs Iraq,0,2,2.5
+54,I,Senegal,Iraq,Senegal vs Iraq,0,3,0.52
+54,I,Senegal,Iraq,Senegal vs Iraq,0,4,0.08
+54,I,Senegal,Iraq,Senegal vs Iraq,0,5,0.01
+54,I,Senegal,Iraq,Senegal vs Iraq,0,6,0.0
+54,I,Senegal,Iraq,Senegal vs Iraq,1,0,18.37
+54,I,Senegal,Iraq,Senegal vs Iraq,1,1,11.45
+54,I,Senegal,Iraq,Senegal vs Iraq,1,2,3.57
+54,I,Senegal,Iraq,Senegal vs Iraq,1,3,0.74
+54,I,Senegal,Iraq,Senegal vs Iraq,1,4,0.12
+54,I,Senegal,Iraq,Senegal vs Iraq,1,5,0.01
+54,I,Senegal,Iraq,Senegal vs Iraq,1,6,0.0
+54,I,Senegal,Iraq,Senegal vs Iraq,2,0,13.09
+54,I,Senegal,Iraq,Senegal vs Iraq,2,1,8.16
+54,I,Senegal,Iraq,Senegal vs Iraq,2,2,2.55
+54,I,Senegal,Iraq,Senegal vs Iraq,2,3,0.53
+54,I,Senegal,Iraq,Senegal vs Iraq,2,4,0.08
+54,I,Senegal,Iraq,Senegal vs Iraq,2,5,0.01
+54,I,Senegal,Iraq,Senegal vs Iraq,2,6,0.0
+54,I,Senegal,Iraq,Senegal vs Iraq,3,0,6.22
+54,I,Senegal,Iraq,Senegal vs Iraq,3,1,3.88
+54,I,Senegal,Iraq,Senegal vs Iraq,3,2,1.21
+54,I,Senegal,Iraq,Senegal vs Iraq,3,3,0.25
+54,I,Senegal,Iraq,Senegal vs Iraq,3,4,0.04
+54,I,Senegal,Iraq,Senegal vs Iraq,3,5,0.0
+54,I,Senegal,Iraq,Senegal vs Iraq,3,6,0.0
+54,I,Senegal,Iraq,Senegal vs Iraq,4,0,2.22
+54,I,Senegal,Iraq,Senegal vs Iraq,4,1,1.38
+54,I,Senegal,Iraq,Senegal vs Iraq,4,2,0.43
+54,I,Senegal,Iraq,Senegal vs Iraq,4,3,0.09
+54,I,Senegal,Iraq,Senegal vs Iraq,4,4,0.01
+54,I,Senegal,Iraq,Senegal vs Iraq,4,5,0.0
+54,I,Senegal,Iraq,Senegal vs Iraq,4,6,0.0
+54,I,Senegal,Iraq,Senegal vs Iraq,5,0,0.63
+54,I,Senegal,Iraq,Senegal vs Iraq,5,1,0.39
+54,I,Senegal,Iraq,Senegal vs Iraq,5,2,0.12
+54,I,Senegal,Iraq,Senegal vs Iraq,5,3,0.03
+54,I,Senegal,Iraq,Senegal vs Iraq,5,4,0.0
+54,I,Senegal,Iraq,Senegal vs Iraq,5,5,0.0
+54,I,Senegal,Iraq,Senegal vs Iraq,5,6,0.0
+54,I,Senegal,Iraq,Senegal vs Iraq,6,0,0.15
+54,I,Senegal,Iraq,Senegal vs Iraq,6,1,0.09
+54,I,Senegal,Iraq,Senegal vs Iraq,6,2,0.03
+54,I,Senegal,Iraq,Senegal vs Iraq,6,3,0.01
+54,I,Senegal,Iraq,Senegal vs Iraq,6,4,0.0
+54,I,Senegal,Iraq,Senegal vs Iraq,6,5,0.0
+54,I,Senegal,Iraq,Senegal vs Iraq,6,6,0.0
+55,J,Argentina,Algeria,Argentina vs Algeria,0,0,10.95
+55,J,Argentina,Algeria,Argentina vs Algeria,0,1,8.67
+55,J,Argentina,Algeria,Argentina vs Algeria,0,2,3.43
+55,J,Argentina,Algeria,Argentina vs Algeria,0,3,0.91
+55,J,Argentina,Algeria,Argentina vs Algeria,0,4,0.18
+55,J,Argentina,Algeria,Argentina vs Algeria,0,5,0.03
+55,J,Argentina,Algeria,Argentina vs Algeria,0,6,0.0
+55,J,Argentina,Algeria,Argentina vs Algeria,1,0,15.55
+55,J,Argentina,Algeria,Argentina vs Algeria,1,1,12.31
+55,J,Argentina,Algeria,Argentina vs Algeria,1,2,4.87
+55,J,Argentina,Algeria,Argentina vs Algeria,1,3,1.29
+55,J,Argentina,Algeria,Argentina vs Algeria,1,4,0.25
+55,J,Argentina,Algeria,Argentina vs Algeria,1,5,0.04
+55,J,Argentina,Algeria,Argentina vs Algeria,1,6,0.01
+55,J,Argentina,Algeria,Argentina vs Algeria,2,0,11.04
+55,J,Argentina,Algeria,Argentina vs Algeria,2,1,8.74
+55,J,Argentina,Algeria,Argentina vs Algeria,2,2,3.46
+55,J,Argentina,Algeria,Argentina vs Algeria,2,3,0.91
+55,J,Argentina,Algeria,Argentina vs Algeria,2,4,0.18
+55,J,Argentina,Algeria,Argentina vs Algeria,2,5,0.03
+55,J,Argentina,Algeria,Argentina vs Algeria,2,6,0.0
+55,J,Argentina,Algeria,Argentina vs Algeria,3,0,5.23
+55,J,Argentina,Algeria,Argentina vs Algeria,3,1,4.14
+55,J,Argentina,Algeria,Argentina vs Algeria,3,2,1.64
+55,J,Argentina,Algeria,Argentina vs Algeria,3,3,0.43
+55,J,Argentina,Algeria,Argentina vs Algeria,3,4,0.09
+55,J,Argentina,Algeria,Argentina vs Algeria,3,5,0.01
+55,J,Argentina,Algeria,Argentina vs Algeria,3,6,0.0
+55,J,Argentina,Algeria,Argentina vs Algeria,4,0,1.86
+55,J,Argentina,Algeria,Argentina vs Algeria,4,1,1.47
+55,J,Argentina,Algeria,Argentina vs Algeria,4,2,0.58
+55,J,Argentina,Algeria,Argentina vs Algeria,4,3,0.15
+55,J,Argentina,Algeria,Argentina vs Algeria,4,4,0.03
+55,J,Argentina,Algeria,Argentina vs Algeria,4,5,0.0
+55,J,Argentina,Algeria,Argentina vs Algeria,4,6,0.0
+55,J,Argentina,Algeria,Argentina vs Algeria,5,0,0.53
+55,J,Argentina,Algeria,Argentina vs Algeria,5,1,0.42
+55,J,Argentina,Algeria,Argentina vs Algeria,5,2,0.17
+55,J,Argentina,Algeria,Argentina vs Algeria,5,3,0.04
+55,J,Argentina,Algeria,Argentina vs Algeria,5,4,0.01
+55,J,Argentina,Algeria,Argentina vs Algeria,5,5,0.0
+55,J,Argentina,Algeria,Argentina vs Algeria,5,6,0.0
+55,J,Argentina,Algeria,Argentina vs Algeria,6,0,0.12
+55,J,Argentina,Algeria,Argentina vs Algeria,6,1,0.1
+55,J,Argentina,Algeria,Argentina vs Algeria,6,2,0.04
+55,J,Argentina,Algeria,Argentina vs Algeria,6,3,0.01
+55,J,Argentina,Algeria,Argentina vs Algeria,6,4,0.0
+55,J,Argentina,Algeria,Argentina vs Algeria,6,5,0.0
+55,J,Argentina,Algeria,Argentina vs Algeria,6,6,0.0
+56,J,Austria,Jordan,Austria vs Jordan,0,0,4.23
+56,J,Austria,Jordan,Austria vs Jordan,0,1,3.98
+56,J,Austria,Jordan,Austria vs Jordan,0,2,1.87
+56,J,Austria,Jordan,Austria vs Jordan,0,3,0.59
+56,J,Austria,Jordan,Austria vs Jordan,0,4,0.14
+56,J,Austria,Jordan,Austria vs Jordan,0,5,0.03
+56,J,Austria,Jordan,Austria vs Jordan,0,6,0.0
+56,J,Austria,Jordan,Austria vs Jordan,1,0,9.4
+56,J,Austria,Jordan,Austria vs Jordan,1,1,8.84
+56,J,Austria,Jordan,Austria vs Jordan,1,2,4.16
+56,J,Austria,Jordan,Austria vs Jordan,1,3,1.3
+56,J,Austria,Jordan,Austria vs Jordan,1,4,0.31
+56,J,Austria,Jordan,Austria vs Jordan,1,5,0.06
+56,J,Austria,Jordan,Austria vs Jordan,1,6,0.01
+56,J,Austria,Jordan,Austria vs Jordan,2,0,10.45
+56,J,Austria,Jordan,Austria vs Jordan,2,1,9.82
+56,J,Austria,Jordan,Austria vs Jordan,2,2,4.62
+56,J,Austria,Jordan,Austria vs Jordan,2,3,1.45
+56,J,Austria,Jordan,Austria vs Jordan,2,4,0.34
+56,J,Austria,Jordan,Austria vs Jordan,2,5,0.06
+56,J,Austria,Jordan,Austria vs Jordan,2,6,0.01
+56,J,Austria,Jordan,Austria vs Jordan,3,0,7.74
+56,J,Austria,Jordan,Austria vs Jordan,3,1,7.28
+56,J,Austria,Jordan,Austria vs Jordan,3,2,3.42
+56,J,Austria,Jordan,Austria vs Jordan,3,3,1.07
+56,J,Austria,Jordan,Austria vs Jordan,3,4,0.25
+56,J,Austria,Jordan,Austria vs Jordan,3,5,0.05
+56,J,Austria,Jordan,Austria vs Jordan,3,6,0.01
+56,J,Austria,Jordan,Austria vs Jordan,4,0,4.3
+56,J,Austria,Jordan,Austria vs Jordan,4,1,4.05
+56,J,Austria,Jordan,Austria vs Jordan,4,2,1.9
+56,J,Austria,Jordan,Austria vs Jordan,4,3,0.6
+56,J,Austria,Jordan,Austria vs Jordan,4,4,0.14
+56,J,Austria,Jordan,Austria vs Jordan,4,5,0.03
+56,J,Austria,Jordan,Austria vs Jordan,4,6,0.0
+56,J,Austria,Jordan,Austria vs Jordan,5,0,1.91
+56,J,Austria,Jordan,Austria vs Jordan,5,1,1.8
+56,J,Austria,Jordan,Austria vs Jordan,5,2,0.85
+56,J,Austria,Jordan,Austria vs Jordan,5,3,0.27
+56,J,Austria,Jordan,Austria vs Jordan,5,4,0.06
+56,J,Austria,Jordan,Austria vs Jordan,5,5,0.01
+56,J,Austria,Jordan,Austria vs Jordan,5,6,0.0
+56,J,Austria,Jordan,Austria vs Jordan,6,0,0.71
+56,J,Austria,Jordan,Austria vs Jordan,6,1,0.67
+56,J,Austria,Jordan,Austria vs Jordan,6,2,0.31
+56,J,Austria,Jordan,Austria vs Jordan,6,3,0.1
+56,J,Austria,Jordan,Austria vs Jordan,6,4,0.02
+56,J,Austria,Jordan,Austria vs Jordan,6,5,0.0
+56,J,Austria,Jordan,Austria vs Jordan,6,6,0.0
+57,J,Argentina,Austria,Argentina vs Austria,0,0,6.53
+57,J,Argentina,Austria,Argentina vs Austria,0,1,5.13
+57,J,Argentina,Austria,Argentina vs Austria,0,2,2.02
+57,J,Argentina,Austria,Argentina vs Austria,0,3,0.53
+57,J,Argentina,Austria,Argentina vs Austria,0,4,0.1
+57,J,Argentina,Austria,Argentina vs Austria,0,5,0.02
+57,J,Argentina,Austria,Argentina vs Austria,0,6,0.0
+57,J,Argentina,Austria,Argentina vs Austria,1,0,12.68
+57,J,Argentina,Austria,Argentina vs Austria,1,1,9.97
+57,J,Argentina,Austria,Argentina vs Austria,1,2,3.92
+57,J,Argentina,Austria,Argentina vs Austria,1,3,1.03
+57,J,Argentina,Austria,Argentina vs Austria,1,4,0.2
+57,J,Argentina,Austria,Argentina vs Austria,1,5,0.03
+57,J,Argentina,Austria,Argentina vs Austria,1,6,0.0
+57,J,Argentina,Austria,Argentina vs Austria,2,0,12.32
+57,J,Argentina,Austria,Argentina vs Austria,2,1,9.69
+57,J,Argentina,Austria,Argentina vs Austria,2,2,3.81
+57,J,Argentina,Austria,Argentina vs Austria,2,3,1.0
+57,J,Argentina,Austria,Argentina vs Austria,2,4,0.2
+57,J,Argentina,Austria,Argentina vs Austria,2,5,0.03
+57,J,Argentina,Austria,Argentina vs Austria,2,6,0.0
+57,J,Argentina,Austria,Argentina vs Austria,3,0,7.97
+57,J,Argentina,Austria,Argentina vs Austria,3,1,6.27
+57,J,Argentina,Austria,Argentina vs Austria,3,2,2.47
+57,J,Argentina,Austria,Argentina vs Austria,3,3,0.65
+57,J,Argentina,Austria,Argentina vs Austria,3,4,0.13
+57,J,Argentina,Austria,Argentina vs Austria,3,5,0.02
+57,J,Argentina,Austria,Argentina vs Austria,3,6,0.0
+57,J,Argentina,Austria,Argentina vs Austria,4,0,3.87
+57,J,Argentina,Austria,Argentina vs Austria,4,1,3.05
+57,J,Argentina,Austria,Argentina vs Austria,4,2,1.2
+57,J,Argentina,Austria,Argentina vs Austria,4,3,0.31
+57,J,Argentina,Austria,Argentina vs Austria,4,4,0.06
+57,J,Argentina,Austria,Argentina vs Austria,4,5,0.01
+57,J,Argentina,Austria,Argentina vs Austria,4,6,0.0
+57,J,Argentina,Austria,Argentina vs Austria,5,0,1.5
+57,J,Argentina,Austria,Argentina vs Austria,5,1,1.18
+57,J,Argentina,Austria,Argentina vs Austria,5,2,0.47
+57,J,Argentina,Austria,Argentina vs Austria,5,3,0.12
+57,J,Argentina,Austria,Argentina vs Austria,5,4,0.02
+57,J,Argentina,Austria,Argentina vs Austria,5,5,0.0
+57,J,Argentina,Austria,Argentina vs Austria,5,6,0.0
+57,J,Argentina,Austria,Argentina vs Austria,6,0,0.49
+57,J,Argentina,Austria,Argentina vs Austria,6,1,0.38
+57,J,Argentina,Austria,Argentina vs Austria,6,2,0.15
+57,J,Argentina,Austria,Argentina vs Austria,6,3,0.04
+57,J,Argentina,Austria,Argentina vs Austria,6,4,0.01
+57,J,Argentina,Austria,Argentina vs Austria,6,5,0.0
+57,J,Argentina,Austria,Argentina vs Austria,6,6,0.0
+58,J,Jordan,Algeria,Jordan vs Algeria,0,0,5.37
+58,J,Jordan,Algeria,Jordan vs Algeria,0,1,12.0
+58,J,Jordan,Algeria,Jordan vs Algeria,0,2,13.43
+58,J,Jordan,Algeria,Jordan vs Algeria,0,3,10.02
+58,J,Jordan,Algeria,Jordan vs Algeria,0,4,5.6
+58,J,Jordan,Algeria,Jordan vs Algeria,0,5,2.51
+58,J,Jordan,Algeria,Jordan vs Algeria,0,6,0.94
+58,J,Jordan,Algeria,Jordan vs Algeria,1,0,3.69
+58,J,Jordan,Algeria,Jordan vs Algeria,1,1,8.26
+58,J,Jordan,Algeria,Jordan vs Algeria,1,2,9.24
+58,J,Jordan,Algeria,Jordan vs Algeria,1,3,6.89
+58,J,Jordan,Algeria,Jordan vs Algeria,1,4,3.85
+58,J,Jordan,Algeria,Jordan vs Algeria,1,5,1.72
+58,J,Jordan,Algeria,Jordan vs Algeria,1,6,0.64
+58,J,Jordan,Algeria,Jordan vs Algeria,2,0,1.27
+58,J,Jordan,Algeria,Jordan vs Algeria,2,1,2.84
+58,J,Jordan,Algeria,Jordan vs Algeria,2,2,3.18
+58,J,Jordan,Algeria,Jordan vs Algeria,2,3,2.37
+58,J,Jordan,Algeria,Jordan vs Algeria,2,4,1.33
+58,J,Jordan,Algeria,Jordan vs Algeria,2,5,0.59
+58,J,Jordan,Algeria,Jordan vs Algeria,2,6,0.22
+58,J,Jordan,Algeria,Jordan vs Algeria,3,0,0.29
+58,J,Jordan,Algeria,Jordan vs Algeria,3,1,0.65
+58,J,Jordan,Algeria,Jordan vs Algeria,3,2,0.73
+58,J,Jordan,Algeria,Jordan vs Algeria,3,3,0.54
+58,J,Jordan,Algeria,Jordan vs Algeria,3,4,0.3
+58,J,Jordan,Algeria,Jordan vs Algeria,3,5,0.14
+58,J,Jordan,Algeria,Jordan vs Algeria,3,6,0.05
+58,J,Jordan,Algeria,Jordan vs Algeria,4,0,0.05
+58,J,Jordan,Algeria,Jordan vs Algeria,4,1,0.11
+58,J,Jordan,Algeria,Jordan vs Algeria,4,2,0.13
+58,J,Jordan,Algeria,Jordan vs Algeria,4,3,0.09
+58,J,Jordan,Algeria,Jordan vs Algeria,4,4,0.05
+58,J,Jordan,Algeria,Jordan vs Algeria,4,5,0.02
+58,J,Jordan,Algeria,Jordan vs Algeria,4,6,0.01
+58,J,Jordan,Algeria,Jordan vs Algeria,5,0,0.01
+58,J,Jordan,Algeria,Jordan vs Algeria,5,1,0.02
+58,J,Jordan,Algeria,Jordan vs Algeria,5,2,0.02
+58,J,Jordan,Algeria,Jordan vs Algeria,5,3,0.01
+58,J,Jordan,Algeria,Jordan vs Algeria,5,4,0.01
+58,J,Jordan,Algeria,Jordan vs Algeria,5,5,0.0
+58,J,Jordan,Algeria,Jordan vs Algeria,5,6,0.0
+58,J,Jordan,Algeria,Jordan vs Algeria,6,0,0.0
+58,J,Jordan,Algeria,Jordan vs Algeria,6,1,0.0
+58,J,Jordan,Algeria,Jordan vs Algeria,6,2,0.0
+58,J,Jordan,Algeria,Jordan vs Algeria,6,3,0.0
+58,J,Jordan,Algeria,Jordan vs Algeria,6,4,0.0
+58,J,Jordan,Algeria,Jordan vs Algeria,6,5,0.0
+58,J,Jordan,Algeria,Jordan vs Algeria,6,6,0.0
+59,J,Algeria,Austria,Algeria vs Austria,0,0,12.25
+59,J,Algeria,Austria,Algeria vs Austria,0,1,10.82
+59,J,Algeria,Austria,Algeria vs Austria,0,2,4.78
+59,J,Algeria,Austria,Algeria vs Austria,0,3,1.41
+59,J,Algeria,Austria,Algeria vs Austria,0,4,0.31
+59,J,Algeria,Austria,Algeria vs Austria,0,5,0.06
+59,J,Algeria,Austria,Algeria vs Austria,0,6,0.01
+59,J,Algeria,Austria,Algeria vs Austria,1,0,14.89
+59,J,Algeria,Austria,Algeria vs Austria,1,1,13.16
+59,J,Algeria,Austria,Algeria vs Austria,1,2,5.82
+59,J,Algeria,Austria,Algeria vs Austria,1,3,1.71
+59,J,Algeria,Austria,Algeria vs Austria,1,4,0.38
+59,J,Algeria,Austria,Algeria vs Austria,1,5,0.07
+59,J,Algeria,Austria,Algeria vs Austria,1,6,0.01
+59,J,Algeria,Austria,Algeria vs Austria,2,0,9.06
+59,J,Algeria,Austria,Algeria vs Austria,2,1,8.0
+59,J,Algeria,Austria,Algeria vs Austria,2,2,3.54
+59,J,Algeria,Austria,Algeria vs Austria,2,3,1.04
+59,J,Algeria,Austria,Algeria vs Austria,2,4,0.23
+59,J,Algeria,Austria,Algeria vs Austria,2,5,0.04
+59,J,Algeria,Austria,Algeria vs Austria,2,6,0.01
+59,J,Algeria,Austria,Algeria vs Austria,3,0,3.67
+59,J,Algeria,Austria,Algeria vs Austria,3,1,3.25
+59,J,Algeria,Austria,Algeria vs Austria,3,2,1.43
+59,J,Algeria,Austria,Algeria vs Austria,3,3,0.42
+59,J,Algeria,Austria,Algeria vs Austria,3,4,0.09
+59,J,Algeria,Austria,Algeria vs Austria,3,5,0.02
+59,J,Algeria,Austria,Algeria vs Austria,3,6,0.0
+59,J,Algeria,Austria,Algeria vs Austria,4,0,1.12
+59,J,Algeria,Austria,Algeria vs Austria,4,1,0.99
+59,J,Algeria,Austria,Algeria vs Austria,4,2,0.44
+59,J,Algeria,Austria,Algeria vs Austria,4,3,0.13
+59,J,Algeria,Austria,Algeria vs Austria,4,4,0.03
+59,J,Algeria,Austria,Algeria vs Austria,4,5,0.01
+59,J,Algeria,Austria,Algeria vs Austria,4,6,0.0
+59,J,Algeria,Austria,Algeria vs Austria,5,0,0.27
+59,J,Algeria,Austria,Algeria vs Austria,5,1,0.24
+59,J,Algeria,Austria,Algeria vs Austria,5,2,0.11
+59,J,Algeria,Austria,Algeria vs Austria,5,3,0.03
+59,J,Algeria,Austria,Algeria vs Austria,5,4,0.01
+59,J,Algeria,Austria,Algeria vs Austria,5,5,0.0
+59,J,Algeria,Austria,Algeria vs Austria,5,6,0.0
+59,J,Algeria,Austria,Algeria vs Austria,6,0,0.06
+59,J,Algeria,Austria,Algeria vs Austria,6,1,0.05
+59,J,Algeria,Austria,Algeria vs Austria,6,2,0.02
+59,J,Algeria,Austria,Algeria vs Austria,6,3,0.01
+59,J,Algeria,Austria,Algeria vs Austria,6,4,0.0
+59,J,Algeria,Austria,Algeria vs Austria,6,5,0.0
+59,J,Algeria,Austria,Algeria vs Austria,6,6,0.0
+60,J,Jordan,Argentina,Jordan vs Argentina,0,0,1.52
+60,J,Jordan,Argentina,Jordan vs Argentina,0,1,5.44
+60,J,Jordan,Argentina,Jordan vs Argentina,0,2,9.71
+60,J,Jordan,Argentina,Jordan vs Argentina,0,3,11.57
+60,J,Jordan,Argentina,Jordan vs Argentina,0,4,10.34
+60,J,Jordan,Argentina,Jordan vs Argentina,0,5,7.39
+60,J,Jordan,Argentina,Jordan vs Argentina,0,6,4.4
+60,J,Jordan,Argentina,Jordan vs Argentina,1,0,0.93
+60,J,Jordan,Argentina,Jordan vs Argentina,1,1,3.33
+60,J,Jordan,Argentina,Jordan vs Argentina,1,2,5.95
+60,J,Jordan,Argentina,Jordan vs Argentina,1,3,7.08
+60,J,Jordan,Argentina,Jordan vs Argentina,1,4,6.33
+60,J,Jordan,Argentina,Jordan vs Argentina,1,5,4.52
+60,J,Jordan,Argentina,Jordan vs Argentina,1,6,2.69
+60,J,Jordan,Argentina,Jordan vs Argentina,2,0,0.28
+60,J,Jordan,Argentina,Jordan vs Argentina,2,1,1.02
+60,J,Jordan,Argentina,Jordan vs Argentina,2,2,1.82
+60,J,Jordan,Argentina,Jordan vs Argentina,2,3,2.17
+60,J,Jordan,Argentina,Jordan vs Argentina,2,4,1.94
+60,J,Jordan,Argentina,Jordan vs Argentina,2,5,1.38
+60,J,Jordan,Argentina,Jordan vs Argentina,2,6,0.82
+60,J,Jordan,Argentina,Jordan vs Argentina,3,0,0.06
+60,J,Jordan,Argentina,Jordan vs Argentina,3,1,0.21
+60,J,Jordan,Argentina,Jordan vs Argentina,3,2,0.37
+60,J,Jordan,Argentina,Jordan vs Argentina,3,3,0.44
+60,J,Jordan,Argentina,Jordan vs Argentina,3,4,0.4
+60,J,Jordan,Argentina,Jordan vs Argentina,3,5,0.28
+60,J,Jordan,Argentina,Jordan vs Argentina,3,6,0.17
+60,J,Jordan,Argentina,Jordan vs Argentina,4,0,0.01
+60,J,Jordan,Argentina,Jordan vs Argentina,4,1,0.03
+60,J,Jordan,Argentina,Jordan vs Argentina,4,2,0.06
+60,J,Jordan,Argentina,Jordan vs Argentina,4,3,0.07
+60,J,Jordan,Argentina,Jordan vs Argentina,4,4,0.06
+60,J,Jordan,Argentina,Jordan vs Argentina,4,5,0.04
+60,J,Jordan,Argentina,Jordan vs Argentina,4,6,0.03
+60,J,Jordan,Argentina,Jordan vs Argentina,5,0,0.0
+60,J,Jordan,Argentina,Jordan vs Argentina,5,1,0.0
+60,J,Jordan,Argentina,Jordan vs Argentina,5,2,0.01
+60,J,Jordan,Argentina,Jordan vs Argentina,5,3,0.01
+60,J,Jordan,Argentina,Jordan vs Argentina,5,4,0.01
+60,J,Jordan,Argentina,Jordan vs Argentina,5,5,0.01
+60,J,Jordan,Argentina,Jordan vs Argentina,5,6,0.0
+60,J,Jordan,Argentina,Jordan vs Argentina,6,0,0.0
+60,J,Jordan,Argentina,Jordan vs Argentina,6,1,0.0
+60,J,Jordan,Argentina,Jordan vs Argentina,6,2,0.0
+60,J,Jordan,Argentina,Jordan vs Argentina,6,3,0.0
+60,J,Jordan,Argentina,Jordan vs Argentina,6,4,0.0
+60,J,Jordan,Argentina,Jordan vs Argentina,6,5,0.0
+60,J,Jordan,Argentina,Jordan vs Argentina,6,6,0.0
+61,K,Portugal,DR Congo,Portugal vs DR Congo,0,0,9.81
+61,K,Portugal,DR Congo,Portugal vs DR Congo,0,1,4.93
+61,K,Portugal,DR Congo,Portugal vs DR Congo,0,2,1.24
+61,K,Portugal,DR Congo,Portugal vs DR Congo,0,3,0.21
+61,K,Portugal,DR Congo,Portugal vs DR Congo,0,4,0.03
+61,K,Portugal,DR Congo,Portugal vs DR Congo,0,5,0.0
+61,K,Portugal,DR Congo,Portugal vs DR Congo,0,6,0.0
+61,K,Portugal,DR Congo,Portugal vs DR Congo,1,0,17.85
+61,K,Portugal,DR Congo,Portugal vs DR Congo,1,1,8.96
+61,K,Portugal,DR Congo,Portugal vs DR Congo,1,2,2.25
+61,K,Portugal,DR Congo,Portugal vs DR Congo,1,3,0.38
+61,K,Portugal,DR Congo,Portugal vs DR Congo,1,4,0.05
+61,K,Portugal,DR Congo,Portugal vs DR Congo,1,5,0.0
+61,K,Portugal,DR Congo,Portugal vs DR Congo,1,6,0.0
+61,K,Portugal,DR Congo,Portugal vs DR Congo,2,0,16.24
+61,K,Portugal,DR Congo,Portugal vs DR Congo,2,1,8.15
+61,K,Portugal,DR Congo,Portugal vs DR Congo,2,2,2.05
+61,K,Portugal,DR Congo,Portugal vs DR Congo,2,3,0.34
+61,K,Portugal,DR Congo,Portugal vs DR Congo,2,4,0.04
+61,K,Portugal,DR Congo,Portugal vs DR Congo,2,5,0.0
+61,K,Portugal,DR Congo,Portugal vs DR Congo,2,6,0.0
+61,K,Portugal,DR Congo,Portugal vs DR Congo,3,0,9.85
+61,K,Portugal,DR Congo,Portugal vs DR Congo,3,1,4.95
+61,K,Portugal,DR Congo,Portugal vs DR Congo,3,2,1.24
+61,K,Portugal,DR Congo,Portugal vs DR Congo,3,3,0.21
+61,K,Portugal,DR Congo,Portugal vs DR Congo,3,4,0.03
+61,K,Portugal,DR Congo,Portugal vs DR Congo,3,5,0.0
+61,K,Portugal,DR Congo,Portugal vs DR Congo,3,6,0.0
+61,K,Portugal,DR Congo,Portugal vs DR Congo,4,0,4.48
+61,K,Portugal,DR Congo,Portugal vs DR Congo,4,1,2.25
+61,K,Portugal,DR Congo,Portugal vs DR Congo,4,2,0.56
+61,K,Portugal,DR Congo,Portugal vs DR Congo,4,3,0.09
+61,K,Portugal,DR Congo,Portugal vs DR Congo,4,4,0.01
+61,K,Portugal,DR Congo,Portugal vs DR Congo,4,5,0.0
+61,K,Portugal,DR Congo,Portugal vs DR Congo,4,6,0.0
+61,K,Portugal,DR Congo,Portugal vs DR Congo,5,0,1.63
+61,K,Portugal,DR Congo,Portugal vs DR Congo,5,1,0.82
+61,K,Portugal,DR Congo,Portugal vs DR Congo,5,2,0.21
+61,K,Portugal,DR Congo,Portugal vs DR Congo,5,3,0.03
+61,K,Portugal,DR Congo,Portugal vs DR Congo,5,4,0.0
+61,K,Portugal,DR Congo,Portugal vs DR Congo,5,5,0.0
+61,K,Portugal,DR Congo,Portugal vs DR Congo,5,6,0.0
+61,K,Portugal,DR Congo,Portugal vs DR Congo,6,0,0.49
+61,K,Portugal,DR Congo,Portugal vs DR Congo,6,1,0.25
+61,K,Portugal,DR Congo,Portugal vs DR Congo,6,2,0.06
+61,K,Portugal,DR Congo,Portugal vs DR Congo,6,3,0.01
+61,K,Portugal,DR Congo,Portugal vs DR Congo,6,4,0.0
+61,K,Portugal,DR Congo,Portugal vs DR Congo,6,5,0.0
+61,K,Portugal,DR Congo,Portugal vs DR Congo,6,6,0.0
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,0,0,5.82
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,0,1,12.09
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,0,2,12.55
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,0,3,8.68
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,0,4,4.51
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,0,5,1.87
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,0,6,0.65
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,1,0,4.47
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,1,1,9.27
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,1,2,9.63
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,1,3,6.66
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,1,4,3.46
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,1,5,1.44
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,1,6,0.5
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,2,0,1.71
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,2,1,3.56
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,2,2,3.69
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,2,3,2.56
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,2,4,1.33
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,2,5,0.55
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,2,6,0.19
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,3,0,0.44
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,3,1,0.91
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,3,2,0.95
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,3,3,0.65
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,3,4,0.34
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,3,5,0.14
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,3,6,0.05
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,4,0,0.08
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,4,1,0.17
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,4,2,0.18
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,4,3,0.13
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,4,4,0.07
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,4,5,0.03
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,4,6,0.01
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,5,0,0.01
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,5,1,0.03
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,5,2,0.03
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,5,3,0.02
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,5,4,0.01
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,5,5,0.0
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,5,6,0.0
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,6,0,0.0
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,6,1,0.0
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,6,2,0.0
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,6,3,0.0
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,6,4,0.0
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,6,5,0.0
+62,K,Uzbekistan,Colombia,Uzbekistan vs Colombia,6,6,0.0
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,0,0,3.64
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,0,1,2.32
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,0,2,0.74
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,0,3,0.16
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,0,4,0.03
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,0,5,0.0
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,0,6,0.0
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,1,0,9.73
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,1,1,6.22
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,1,2,1.99
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,1,3,0.42
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,1,4,0.07
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,1,5,0.01
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,1,6,0.0
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,2,0,13.02
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,2,1,8.31
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,2,2,2.66
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,2,3,0.57
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,2,4,0.09
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,2,5,0.01
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,2,6,0.0
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,3,0,11.61
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,3,1,7.41
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,3,2,2.37
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,3,3,0.5
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,3,4,0.08
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,3,5,0.01
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,3,6,0.0
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,4,0,7.76
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,4,1,4.96
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,4,2,1.58
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,4,3,0.34
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,4,4,0.05
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,4,5,0.01
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,4,6,0.0
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,5,0,4.15
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,5,1,2.65
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,5,2,0.85
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,5,3,0.18
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,5,4,0.03
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,5,5,0.0
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,5,6,0.0
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,6,0,1.85
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,6,1,1.18
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,6,2,0.38
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,6,3,0.08
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,6,4,0.01
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,6,5,0.0
+63,K,Portugal,Uzbekistan,Portugal vs Uzbekistan,6,6,0.0
+64,K,Colombia,DR Congo,Colombia vs DR Congo,0,0,13.33
+64,K,Colombia,DR Congo,Colombia vs DR Congo,0,1,8.04
+64,K,Colombia,DR Congo,Colombia vs DR Congo,0,2,2.42
+64,K,Colombia,DR Congo,Colombia vs DR Congo,0,3,0.49
+64,K,Colombia,DR Congo,Colombia vs DR Congo,0,4,0.07
+64,K,Colombia,DR Congo,Colombia vs DR Congo,0,5,0.01
+64,K,Colombia,DR Congo,Colombia vs DR Congo,0,6,0.0
+64,K,Colombia,DR Congo,Colombia vs DR Congo,1,0,18.82
+64,K,Colombia,DR Congo,Colombia vs DR Congo,1,1,11.35
+64,K,Colombia,DR Congo,Colombia vs DR Congo,1,2,3.42
+64,K,Colombia,DR Congo,Colombia vs DR Congo,1,3,0.69
+64,K,Colombia,DR Congo,Colombia vs DR Congo,1,4,0.1
+64,K,Colombia,DR Congo,Colombia vs DR Congo,1,5,0.01
+64,K,Colombia,DR Congo,Colombia vs DR Congo,1,6,0.0
+64,K,Colombia,DR Congo,Colombia vs DR Congo,2,0,13.29
+64,K,Colombia,DR Congo,Colombia vs DR Congo,2,1,8.02
+64,K,Colombia,DR Congo,Colombia vs DR Congo,2,2,2.42
+64,K,Colombia,DR Congo,Colombia vs DR Congo,2,3,0.49
+64,K,Colombia,DR Congo,Colombia vs DR Congo,2,4,0.07
+64,K,Colombia,DR Congo,Colombia vs DR Congo,2,5,0.01
+64,K,Colombia,DR Congo,Colombia vs DR Congo,2,6,0.0
+64,K,Colombia,DR Congo,Colombia vs DR Congo,3,0,6.26
+64,K,Colombia,DR Congo,Colombia vs DR Congo,3,1,3.77
+64,K,Colombia,DR Congo,Colombia vs DR Congo,3,2,1.14
+64,K,Colombia,DR Congo,Colombia vs DR Congo,3,3,0.23
+64,K,Colombia,DR Congo,Colombia vs DR Congo,3,4,0.03
+64,K,Colombia,DR Congo,Colombia vs DR Congo,3,5,0.0
+64,K,Colombia,DR Congo,Colombia vs DR Congo,3,6,0.0
+64,K,Colombia,DR Congo,Colombia vs DR Congo,4,0,2.21
+64,K,Colombia,DR Congo,Colombia vs DR Congo,4,1,1.33
+64,K,Colombia,DR Congo,Colombia vs DR Congo,4,2,0.4
+64,K,Colombia,DR Congo,Colombia vs DR Congo,4,3,0.08
+64,K,Colombia,DR Congo,Colombia vs DR Congo,4,4,0.01
+64,K,Colombia,DR Congo,Colombia vs DR Congo,4,5,0.0
+64,K,Colombia,DR Congo,Colombia vs DR Congo,4,6,0.0
+64,K,Colombia,DR Congo,Colombia vs DR Congo,5,0,0.62
+64,K,Colombia,DR Congo,Colombia vs DR Congo,5,1,0.38
+64,K,Colombia,DR Congo,Colombia vs DR Congo,5,2,0.11
+64,K,Colombia,DR Congo,Colombia vs DR Congo,5,3,0.02
+64,K,Colombia,DR Congo,Colombia vs DR Congo,5,4,0.0
+64,K,Colombia,DR Congo,Colombia vs DR Congo,5,5,0.0
+64,K,Colombia,DR Congo,Colombia vs DR Congo,5,6,0.0
+64,K,Colombia,DR Congo,Colombia vs DR Congo,6,0,0.15
+64,K,Colombia,DR Congo,Colombia vs DR Congo,6,1,0.09
+64,K,Colombia,DR Congo,Colombia vs DR Congo,6,2,0.03
+64,K,Colombia,DR Congo,Colombia vs DR Congo,6,3,0.01
+64,K,Colombia,DR Congo,Colombia vs DR Congo,6,4,0.0
+64,K,Colombia,DR Congo,Colombia vs DR Congo,6,5,0.0
+64,K,Colombia,DR Congo,Colombia vs DR Congo,6,6,0.0
+65,K,Colombia,Portugal,Colombia vs Portugal,0,0,4.92
+65,K,Colombia,Portugal,Colombia vs Portugal,0,1,9.0
+65,K,Colombia,Portugal,Colombia vs Portugal,0,2,8.24
+65,K,Colombia,Portugal,Colombia vs Portugal,0,3,5.02
+65,K,Colombia,Portugal,Colombia vs Portugal,0,4,2.3
+65,K,Colombia,Portugal,Colombia vs Portugal,0,5,0.84
+65,K,Colombia,Portugal,Colombia vs Portugal,0,6,0.26
+65,K,Colombia,Portugal,Colombia vs Portugal,1,0,5.82
+65,K,Colombia,Portugal,Colombia vs Portugal,1,1,10.64
+65,K,Colombia,Portugal,Colombia vs Portugal,1,2,9.74
+65,K,Colombia,Portugal,Colombia vs Portugal,1,3,5.94
+65,K,Colombia,Portugal,Colombia vs Portugal,1,4,2.72
+65,K,Colombia,Portugal,Colombia vs Portugal,1,5,0.99
+65,K,Colombia,Portugal,Colombia vs Portugal,1,6,0.3
+65,K,Colombia,Portugal,Colombia vs Portugal,2,0,3.44
+65,K,Colombia,Portugal,Colombia vs Portugal,2,1,6.29
+65,K,Colombia,Portugal,Colombia vs Portugal,2,2,5.75
+65,K,Colombia,Portugal,Colombia vs Portugal,2,3,3.51
+65,K,Colombia,Portugal,Colombia vs Portugal,2,4,1.6
+65,K,Colombia,Portugal,Colombia vs Portugal,2,5,0.59
+65,K,Colombia,Portugal,Colombia vs Portugal,2,6,0.18
+65,K,Colombia,Portugal,Colombia vs Portugal,3,0,1.35
+65,K,Colombia,Portugal,Colombia vs Portugal,3,1,2.48
+65,K,Colombia,Portugal,Colombia vs Portugal,3,2,2.27
+65,K,Colombia,Portugal,Colombia vs Portugal,3,3,1.38
+65,K,Colombia,Portugal,Colombia vs Portugal,3,4,0.63
+65,K,Colombia,Portugal,Colombia vs Portugal,3,5,0.23
+65,K,Colombia,Portugal,Colombia vs Portugal,3,6,0.07
+65,K,Colombia,Portugal,Colombia vs Portugal,4,0,0.4
+65,K,Colombia,Portugal,Colombia vs Portugal,4,1,0.73
+65,K,Colombia,Portugal,Colombia vs Portugal,4,2,0.67
+65,K,Colombia,Portugal,Colombia vs Portugal,4,3,0.41
+65,K,Colombia,Portugal,Colombia vs Portugal,4,4,0.19
+65,K,Colombia,Portugal,Colombia vs Portugal,4,5,0.07
+65,K,Colombia,Portugal,Colombia vs Portugal,4,6,0.02
+65,K,Colombia,Portugal,Colombia vs Portugal,5,0,0.09
+65,K,Colombia,Portugal,Colombia vs Portugal,5,1,0.17
+65,K,Colombia,Portugal,Colombia vs Portugal,5,2,0.16
+65,K,Colombia,Portugal,Colombia vs Portugal,5,3,0.1
+65,K,Colombia,Portugal,Colombia vs Portugal,5,4,0.04
+65,K,Colombia,Portugal,Colombia vs Portugal,5,5,0.02
+65,K,Colombia,Portugal,Colombia vs Portugal,5,6,0.0
+65,K,Colombia,Portugal,Colombia vs Portugal,6,0,0.02
+65,K,Colombia,Portugal,Colombia vs Portugal,6,1,0.03
+65,K,Colombia,Portugal,Colombia vs Portugal,6,2,0.03
+65,K,Colombia,Portugal,Colombia vs Portugal,6,3,0.02
+65,K,Colombia,Portugal,Colombia vs Portugal,6,4,0.01
+65,K,Colombia,Portugal,Colombia vs Portugal,6,5,0.0
+65,K,Colombia,Portugal,Colombia vs Portugal,6,6,0.0
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,0,0,19.3
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,0,1,14.73
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,0,2,5.62
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,0,3,1.43
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,0,4,0.27
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,0,5,0.04
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,0,6,0.01
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,1,0,17.02
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,1,1,12.99
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,1,2,4.96
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,1,3,1.26
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,1,4,0.24
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,1,5,0.04
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,1,6,0.0
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,2,0,7.51
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,2,1,5.73
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,2,2,2.19
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,2,3,0.56
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,2,4,0.11
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,2,5,0.02
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,2,6,0.0
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,3,0,2.21
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,3,1,1.68
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,3,2,0.64
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,3,3,0.16
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,3,4,0.03
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,3,5,0.0
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,3,6,0.0
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,4,0,0.49
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,4,1,0.37
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,4,2,0.14
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,4,3,0.04
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,4,4,0.01
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,4,5,0.0
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,4,6,0.0
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,5,0,0.09
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,5,1,0.07
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,5,2,0.02
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,5,3,0.01
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,5,4,0.0
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,5,5,0.0
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,5,6,0.0
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,6,0,0.01
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,6,1,0.01
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,6,2,0.0
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,6,3,0.0
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,6,4,0.0
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,6,5,0.0
+66,K,DR Congo,Uzbekistan,DR Congo vs Uzbekistan,6,6,0.0
+67,L,England,Croatia,England vs Croatia,0,0,13.28
+67,L,England,Croatia,England vs Croatia,0,1,11.15
+67,L,England,Croatia,England vs Croatia,0,2,4.68
+67,L,England,Croatia,England vs Croatia,0,3,1.31
+67,L,England,Croatia,England vs Croatia,0,4,0.28
+67,L,England,Croatia,England vs Croatia,0,5,0.05
+67,L,England,Croatia,England vs Croatia,0,6,0.01
+67,L,England,Croatia,England vs Croatia,1,0,15.66
+67,L,England,Croatia,England vs Croatia,1,1,13.15
+67,L,England,Croatia,England vs Croatia,1,2,5.52
+67,L,England,Croatia,England vs Croatia,1,3,1.55
+67,L,England,Croatia,England vs Croatia,1,4,0.32
+67,L,England,Croatia,England vs Croatia,1,5,0.05
+67,L,England,Croatia,England vs Croatia,1,6,0.01
+67,L,England,Croatia,England vs Croatia,2,0,9.23
+67,L,England,Croatia,England vs Croatia,2,1,7.75
+67,L,England,Croatia,England vs Croatia,2,2,3.26
+67,L,England,Croatia,England vs Croatia,2,3,0.91
+67,L,England,Croatia,England vs Croatia,2,4,0.19
+67,L,England,Croatia,England vs Croatia,2,5,0.03
+67,L,England,Croatia,England vs Croatia,2,6,0.0
+67,L,England,Croatia,England vs Croatia,3,0,3.63
+67,L,England,Croatia,England vs Croatia,3,1,3.05
+67,L,England,Croatia,England vs Croatia,3,2,1.28
+67,L,England,Croatia,England vs Croatia,3,3,0.36
+67,L,England,Croatia,England vs Croatia,3,4,0.08
+67,L,England,Croatia,England vs Croatia,3,5,0.01
+67,L,England,Croatia,England vs Croatia,3,6,0.0
+67,L,England,Croatia,England vs Croatia,4,0,1.07
+67,L,England,Croatia,England vs Croatia,4,1,0.9
+67,L,England,Croatia,England vs Croatia,4,2,0.38
+67,L,England,Croatia,England vs Croatia,4,3,0.11
+67,L,England,Croatia,England vs Croatia,4,4,0.02
+67,L,England,Croatia,England vs Croatia,4,5,0.0
+67,L,England,Croatia,England vs Croatia,4,6,0.0
+67,L,England,Croatia,England vs Croatia,5,0,0.25
+67,L,England,Croatia,England vs Croatia,5,1,0.21
+67,L,England,Croatia,England vs Croatia,5,2,0.09
+67,L,England,Croatia,England vs Croatia,5,3,0.02
+67,L,England,Croatia,England vs Croatia,5,4,0.01
+67,L,England,Croatia,England vs Croatia,5,5,0.0
+67,L,England,Croatia,England vs Croatia,5,6,0.0
+67,L,England,Croatia,England vs Croatia,6,0,0.05
+67,L,England,Croatia,England vs Croatia,6,1,0.04
+67,L,England,Croatia,England vs Croatia,6,2,0.02
+67,L,England,Croatia,England vs Croatia,6,3,0.0
+67,L,England,Croatia,England vs Croatia,6,4,0.0
+67,L,England,Croatia,England vs Croatia,6,5,0.0
+67,L,England,Croatia,England vs Croatia,6,6,0.0
+68,L,Ghana,Panama,Ghana vs Panama,0,0,6.03
+68,L,Ghana,Panama,Ghana vs Panama,0,1,9.74
+68,L,Ghana,Panama,Ghana vs Panama,0,2,7.87
+68,L,Ghana,Panama,Ghana vs Panama,0,3,4.24
+68,L,Ghana,Panama,Ghana vs Panama,0,4,1.71
+68,L,Ghana,Panama,Ghana vs Panama,0,5,0.55
+68,L,Ghana,Panama,Ghana vs Panama,0,6,0.15
+68,L,Ghana,Panama,Ghana vs Panama,1,0,7.19
+68,L,Ghana,Panama,Ghana vs Panama,1,1,11.62
+68,L,Ghana,Panama,Ghana vs Panama,1,2,9.39
+68,L,Ghana,Panama,Ghana vs Panama,1,3,5.06
+68,L,Ghana,Panama,Ghana vs Panama,1,4,2.04
+68,L,Ghana,Panama,Ghana vs Panama,1,5,0.66
+68,L,Ghana,Panama,Ghana vs Panama,1,6,0.18
+68,L,Ghana,Panama,Ghana vs Panama,2,0,4.29
+68,L,Ghana,Panama,Ghana vs Panama,2,1,6.93
+68,L,Ghana,Panama,Ghana vs Panama,2,2,5.6
+68,L,Ghana,Panama,Ghana vs Panama,2,3,3.02
+68,L,Ghana,Panama,Ghana vs Panama,2,4,1.22
+68,L,Ghana,Panama,Ghana vs Panama,2,5,0.39
+68,L,Ghana,Panama,Ghana vs Panama,2,6,0.11
+68,L,Ghana,Panama,Ghana vs Panama,3,0,1.7
+68,L,Ghana,Panama,Ghana vs Panama,3,1,2.76
+68,L,Ghana,Panama,Ghana vs Panama,3,2,2.23
+68,L,Ghana,Panama,Ghana vs Panama,3,3,1.2
+68,L,Ghana,Panama,Ghana vs Panama,3,4,0.48
+68,L,Ghana,Panama,Ghana vs Panama,3,5,0.16
+68,L,Ghana,Panama,Ghana vs Panama,3,6,0.04
+68,L,Ghana,Panama,Ghana vs Panama,4,0,0.51
+68,L,Ghana,Panama,Ghana vs Panama,4,1,0.82
+68,L,Ghana,Panama,Ghana vs Panama,4,2,0.66
+68,L,Ghana,Panama,Ghana vs Panama,4,3,0.36
+68,L,Ghana,Panama,Ghana vs Panama,4,4,0.14
+68,L,Ghana,Panama,Ghana vs Panama,4,5,0.05
+68,L,Ghana,Panama,Ghana vs Panama,4,6,0.01
+68,L,Ghana,Panama,Ghana vs Panama,5,0,0.12
+68,L,Ghana,Panama,Ghana vs Panama,5,1,0.2
+68,L,Ghana,Panama,Ghana vs Panama,5,2,0.16
+68,L,Ghana,Panama,Ghana vs Panama,5,3,0.09
+68,L,Ghana,Panama,Ghana vs Panama,5,4,0.03
+68,L,Ghana,Panama,Ghana vs Panama,5,5,0.01
+68,L,Ghana,Panama,Ghana vs Panama,5,6,0.0
+68,L,Ghana,Panama,Ghana vs Panama,6,0,0.02
+68,L,Ghana,Panama,Ghana vs Panama,6,1,0.04
+68,L,Ghana,Panama,Ghana vs Panama,6,2,0.03
+68,L,Ghana,Panama,Ghana vs Panama,6,3,0.02
+68,L,Ghana,Panama,Ghana vs Panama,6,4,0.01
+68,L,Ghana,Panama,Ghana vs Panama,6,5,0.0
+68,L,Ghana,Panama,Ghana vs Panama,6,6,0.0
+69,L,England,Ghana,England vs Ghana,0,0,14.23
+69,L,England,Ghana,England vs Ghana,0,1,6.2
+69,L,England,Ghana,England vs Ghana,0,2,1.35
+69,L,England,Ghana,England vs Ghana,0,3,0.2
+69,L,England,Ghana,England vs Ghana,0,4,0.02
+69,L,England,Ghana,England vs Ghana,0,5,0.0
+69,L,England,Ghana,England vs Ghana,0,6,0.0
+69,L,England,Ghana,England vs Ghana,1,0,21.55
+69,L,England,Ghana,England vs Ghana,1,1,9.38
+69,L,England,Ghana,England vs Ghana,1,2,2.04
+69,L,England,Ghana,England vs Ghana,1,3,0.3
+69,L,England,Ghana,England vs Ghana,1,4,0.03
+69,L,England,Ghana,England vs Ghana,1,5,0.0
+69,L,England,Ghana,England vs Ghana,1,6,0.0
+69,L,England,Ghana,England vs Ghana,2,0,16.32
+69,L,England,Ghana,England vs Ghana,2,1,7.1
+69,L,England,Ghana,England vs Ghana,2,2,1.55
+69,L,England,Ghana,England vs Ghana,2,3,0.22
+69,L,England,Ghana,England vs Ghana,2,4,0.02
+69,L,England,Ghana,England vs Ghana,2,5,0.0
+69,L,England,Ghana,England vs Ghana,2,6,0.0
+69,L,England,Ghana,England vs Ghana,3,0,8.24
+69,L,England,Ghana,England vs Ghana,3,1,3.59
+69,L,England,Ghana,England vs Ghana,3,2,0.78
+69,L,England,Ghana,England vs Ghana,3,3,0.11
+69,L,England,Ghana,England vs Ghana,3,4,0.01
+69,L,England,Ghana,England vs Ghana,3,5,0.0
+69,L,England,Ghana,England vs Ghana,3,6,0.0
+69,L,England,Ghana,England vs Ghana,4,0,3.12
+69,L,England,Ghana,England vs Ghana,4,1,1.36
+69,L,England,Ghana,England vs Ghana,4,2,0.3
+69,L,England,Ghana,England vs Ghana,4,3,0.04
+69,L,England,Ghana,England vs Ghana,4,4,0.0
+69,L,England,Ghana,England vs Ghana,4,5,0.0
+69,L,England,Ghana,England vs Ghana,4,6,0.0
+69,L,England,Ghana,England vs Ghana,5,0,0.94
+69,L,England,Ghana,England vs Ghana,5,1,0.41
+69,L,England,Ghana,England vs Ghana,5,2,0.09
+69,L,England,Ghana,England vs Ghana,5,3,0.01
+69,L,England,Ghana,England vs Ghana,5,4,0.0
+69,L,England,Ghana,England vs Ghana,5,5,0.0
+69,L,England,Ghana,England vs Ghana,5,6,0.0
+69,L,England,Ghana,England vs Ghana,6,0,0.24
+69,L,England,Ghana,England vs Ghana,6,1,0.1
+69,L,England,Ghana,England vs Ghana,6,2,0.02
+69,L,England,Ghana,England vs Ghana,6,3,0.0
+69,L,England,Ghana,England vs Ghana,6,4,0.0
+69,L,England,Ghana,England vs Ghana,6,5,0.0
+69,L,England,Ghana,England vs Ghana,6,6,0.0
+70,L,Croatia,Panama,Croatia vs Panama,0,0,2.84
+70,L,Croatia,Panama,Croatia vs Panama,0,1,3.58
+70,L,Croatia,Panama,Croatia vs Panama,0,2,2.25
+70,L,Croatia,Panama,Croatia vs Panama,0,3,0.95
+70,L,Croatia,Panama,Croatia vs Panama,0,4,0.3
+70,L,Croatia,Panama,Croatia vs Panama,0,5,0.07
+70,L,Croatia,Panama,Croatia vs Panama,0,6,0.02
+70,L,Croatia,Panama,Croatia vs Panama,1,0,6.54
+70,L,Croatia,Panama,Croatia vs Panama,1,1,8.24
+70,L,Croatia,Panama,Croatia vs Panama,1,2,5.18
+70,L,Croatia,Panama,Croatia vs Panama,1,3,2.18
+70,L,Croatia,Panama,Croatia vs Panama,1,4,0.68
+70,L,Croatia,Panama,Croatia vs Panama,1,5,0.17
+70,L,Croatia,Panama,Croatia vs Panama,1,6,0.04
+70,L,Croatia,Panama,Croatia vs Panama,2,0,7.53
+70,L,Croatia,Panama,Croatia vs Panama,2,1,9.48
+70,L,Croatia,Panama,Croatia vs Panama,2,2,5.97
+70,L,Croatia,Panama,Croatia vs Panama,2,3,2.5
+70,L,Croatia,Panama,Croatia vs Panama,2,4,0.79
+70,L,Croatia,Panama,Croatia vs Panama,2,5,0.2
+70,L,Croatia,Panama,Croatia vs Panama,2,6,0.04
+70,L,Croatia,Panama,Croatia vs Panama,3,0,5.78
+70,L,Croatia,Panama,Croatia vs Panama,3,1,7.27
+70,L,Croatia,Panama,Croatia vs Panama,3,2,4.58
+70,L,Croatia,Panama,Croatia vs Panama,3,3,1.92
+70,L,Croatia,Panama,Croatia vs Panama,3,4,0.6
+70,L,Croatia,Panama,Croatia vs Panama,3,5,0.15
+70,L,Croatia,Panama,Croatia vs Panama,3,6,0.03
+70,L,Croatia,Panama,Croatia vs Panama,4,0,3.32
+70,L,Croatia,Panama,Croatia vs Panama,4,1,4.18
+70,L,Croatia,Panama,Croatia vs Panama,4,2,2.63
+70,L,Croatia,Panama,Croatia vs Panama,4,3,1.11
+70,L,Croatia,Panama,Croatia vs Panama,4,4,0.35
+70,L,Croatia,Panama,Croatia vs Panama,4,5,0.09
+70,L,Croatia,Panama,Croatia vs Panama,4,6,0.02
+70,L,Croatia,Panama,Croatia vs Panama,5,0,1.53
+70,L,Croatia,Panama,Croatia vs Panama,5,1,1.93
+70,L,Croatia,Panama,Croatia vs Panama,5,2,1.21
+70,L,Croatia,Panama,Croatia vs Panama,5,3,0.51
+70,L,Croatia,Panama,Croatia vs Panama,5,4,0.16
+70,L,Croatia,Panama,Croatia vs Panama,5,5,0.04
+70,L,Croatia,Panama,Croatia vs Panama,5,6,0.01
+70,L,Croatia,Panama,Croatia vs Panama,6,0,0.59
+70,L,Croatia,Panama,Croatia vs Panama,6,1,0.74
+70,L,Croatia,Panama,Croatia vs Panama,6,2,0.47
+70,L,Croatia,Panama,Croatia vs Panama,6,3,0.2
+70,L,Croatia,Panama,Croatia vs Panama,6,4,0.06
+70,L,Croatia,Panama,Croatia vs Panama,6,5,0.02
+70,L,Croatia,Panama,Croatia vs Panama,6,6,0.0
+71,L,Panama,England,Panama vs England,0,0,8.27
+71,L,Panama,England,Panama vs England,0,1,14.84
+71,L,Panama,England,Panama vs England,0,2,13.31
+71,L,Panama,England,Panama vs England,0,3,7.96
+71,L,Panama,England,Panama vs England,0,4,3.57
+71,L,Panama,England,Panama vs England,0,5,1.28
+71,L,Panama,England,Panama vs England,0,6,0.38
+71,L,Panama,England,Panama vs England,1,0,5.78
+71,L,Panama,England,Panama vs England,1,1,10.37
+71,L,Panama,England,Panama vs England,1,2,9.3
+71,L,Panama,England,Panama vs England,1,3,5.56
+71,L,Panama,England,Panama vs England,1,4,2.49
+71,L,Panama,England,Panama vs England,1,5,0.89
+71,L,Panama,England,Panama vs England,1,6,0.27
+71,L,Panama,England,Panama vs England,2,0,2.02
+71,L,Panama,England,Panama vs England,2,1,3.62
+71,L,Panama,England,Panama vs England,2,2,3.25
+71,L,Panama,England,Panama vs England,2,3,1.94
+71,L,Panama,England,Panama vs England,2,4,0.87
+71,L,Panama,England,Panama vs England,2,5,0.31
+71,L,Panama,England,Panama vs England,2,6,0.09
+71,L,Panama,England,Panama vs England,3,0,0.47
+71,L,Panama,England,Panama vs England,3,1,0.84
+71,L,Panama,England,Panama vs England,3,2,0.76
+71,L,Panama,England,Panama vs England,3,3,0.45
+71,L,Panama,England,Panama vs England,3,4,0.2
+71,L,Panama,England,Panama vs England,3,5,0.07
+71,L,Panama,England,Panama vs England,3,6,0.02
+71,L,Panama,England,Panama vs England,4,0,0.08
+71,L,Panama,England,Panama vs England,4,1,0.15
+71,L,Panama,England,Panama vs England,4,2,0.13
+71,L,Panama,England,Panama vs England,4,3,0.08
+71,L,Panama,England,Panama vs England,4,4,0.04
+71,L,Panama,England,Panama vs England,4,5,0.01
+71,L,Panama,England,Panama vs England,4,6,0.0
+71,L,Panama,England,Panama vs England,5,0,0.01
+71,L,Panama,England,Panama vs England,5,1,0.02
+71,L,Panama,England,Panama vs England,5,2,0.02
+71,L,Panama,England,Panama vs England,5,3,0.01
+71,L,Panama,England,Panama vs England,5,4,0.0
+71,L,Panama,England,Panama vs England,5,5,0.0
+71,L,Panama,England,Panama vs England,5,6,0.0
+71,L,Panama,England,Panama vs England,6,0,0.0
+71,L,Panama,England,Panama vs England,6,1,0.0
+71,L,Panama,England,Panama vs England,6,2,0.0
+71,L,Panama,England,Panama vs England,6,3,0.0
+71,L,Panama,England,Panama vs England,6,4,0.0
+71,L,Panama,England,Panama vs England,6,5,0.0
+71,L,Panama,England,Panama vs England,6,6,0.0
+72,L,Croatia,Ghana,Croatia vs Ghana,0,0,6.54
+72,L,Croatia,Ghana,Croatia vs Ghana,0,1,5.13
+72,L,Croatia,Ghana,Croatia vs Ghana,0,2,2.01
+72,L,Croatia,Ghana,Croatia vs Ghana,0,3,0.53
+72,L,Croatia,Ghana,Croatia vs Ghana,0,4,0.1
+72,L,Croatia,Ghana,Croatia vs Ghana,0,5,0.02
+72,L,Croatia,Ghana,Croatia vs Ghana,0,6,0.0
+72,L,Croatia,Ghana,Croatia vs Ghana,1,0,12.7
+72,L,Croatia,Ghana,Croatia vs Ghana,1,1,9.97
+72,L,Croatia,Ghana,Croatia vs Ghana,1,2,3.91
+72,L,Croatia,Ghana,Croatia vs Ghana,1,3,1.02
+72,L,Croatia,Ghana,Croatia vs Ghana,1,4,0.2
+72,L,Croatia,Ghana,Croatia vs Ghana,1,5,0.03
+72,L,Croatia,Ghana,Croatia vs Ghana,1,6,0.0
+72,L,Croatia,Ghana,Croatia vs Ghana,2,0,12.34
+72,L,Croatia,Ghana,Croatia vs Ghana,2,1,9.68
+72,L,Croatia,Ghana,Croatia vs Ghana,2,2,3.8
+72,L,Croatia,Ghana,Croatia vs Ghana,2,3,0.99
+72,L,Croatia,Ghana,Croatia vs Ghana,2,4,0.19
+72,L,Croatia,Ghana,Croatia vs Ghana,2,5,0.03
+72,L,Croatia,Ghana,Croatia vs Ghana,2,6,0.0
+72,L,Croatia,Ghana,Croatia vs Ghana,3,0,7.99
+72,L,Croatia,Ghana,Croatia vs Ghana,3,1,6.27
+72,L,Croatia,Ghana,Croatia vs Ghana,3,2,2.46
+72,L,Croatia,Ghana,Croatia vs Ghana,3,3,0.64
+72,L,Croatia,Ghana,Croatia vs Ghana,3,4,0.13
+72,L,Croatia,Ghana,Croatia vs Ghana,3,5,0.02
+72,L,Croatia,Ghana,Croatia vs Ghana,3,6,0.0
+72,L,Croatia,Ghana,Croatia vs Ghana,4,0,3.88
+72,L,Croatia,Ghana,Croatia vs Ghana,4,1,3.05
+72,L,Croatia,Ghana,Croatia vs Ghana,4,2,1.19
+72,L,Croatia,Ghana,Croatia vs Ghana,4,3,0.31
+72,L,Croatia,Ghana,Croatia vs Ghana,4,4,0.06
+72,L,Croatia,Ghana,Croatia vs Ghana,4,5,0.01
+72,L,Croatia,Ghana,Croatia vs Ghana,4,6,0.0
+72,L,Croatia,Ghana,Croatia vs Ghana,5,0,1.51
+72,L,Croatia,Ghana,Croatia vs Ghana,5,1,1.18
+72,L,Croatia,Ghana,Croatia vs Ghana,5,2,0.46
+72,L,Croatia,Ghana,Croatia vs Ghana,5,3,0.12
+72,L,Croatia,Ghana,Croatia vs Ghana,5,4,0.02
+72,L,Croatia,Ghana,Croatia vs Ghana,5,5,0.0
+72,L,Croatia,Ghana,Croatia vs Ghana,5,6,0.0
+72,L,Croatia,Ghana,Croatia vs Ghana,6,0,0.49
+72,L,Croatia,Ghana,Croatia vs Ghana,6,1,0.38
+72,L,Croatia,Ghana,Croatia vs Ghana,6,2,0.15
+72,L,Croatia,Ghana,Croatia vs Ghana,6,3,0.04
+72,L,Croatia,Ghana,Croatia vs Ghana,6,4,0.01
+72,L,Croatia,Ghana,Croatia vs Ghana,6,5,0.0
+72,L,Croatia,Ghana,Croatia vs Ghana,6,6,0.0

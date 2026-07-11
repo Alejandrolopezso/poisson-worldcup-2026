@@ -1,0 +1,17 @@
+match,team1_position,team2_position
+M73,2°A (Mexico),2°B (Canada)
+M74,1°E (Germany),Mejor 3° A/B/C/D/F
+M75,1°F (Netherlands),2°C (Morocco)
+M76,1°C (Brazil),2°F (Japan)
+M77,1°I (France),Mejor 3° C/D/F/G/H
+M78,2°E (Ecuador),2°I (Norway)
+M79,1°A (South Korea),Mejor 3° C/E/F/H/I
+M80,1°L (England),Mejor 3° E/H/I/J/K
+M81,1°D (Australia),Mejor 3° B/E/F/I/J
+M82,1°G (Belgium),Mejor 3° A/E/H/I/J
+M83,2°K (Colombia),2°L (Croatia)
+M84,1°H (Spain),2°J (Algeria)
+M85,1°B (Switzerland),Mejor 3° E/F/G/I/J
+M86,1°J (Argentina),2°H (Saudi Arabia)
+M87,1°K (Portugal),Mejor 3° D/E/I/J/L
+M88,2°D (Türkiye),2°G (Iran)
