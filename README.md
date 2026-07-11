@@ -65,6 +65,7 @@ poisson-worldcup-2026/
 │   ├── market_values_211_teams.xlsx  # 211 selecciones con valor de mercado
 │   ├── wc_2026_teams.csv             # 48 selecciones del Mundial
 │   └── wc_2026_fixtures.csv          # Calendario oficial (corregido)
+│   ├── wc_all_matches.csv            # Histórico de partidos mundialistas
 ├── outputs/
 │   ├── poisson_predictions.csv       # 72 predicciones de fase de grupos
 │   ├── qualification_probabilities.csv
@@ -74,8 +75,6 @@ poisson-worldcup-2026/
 │   ├── bracket_16avos.csv
 │   ├── team_master.csv
 │   └── group_certainty.csv
-├── powerbi/
-│   └── FIFAWC2026.pbix               # Dashboard y modelo PowerScore
 ├── docs/
 │   ├── PROCESO_COMPLETO.md           # Documentación completa del proceso
 │   └── Pulso_Poisson_WC2026_Forecast.pdf   # Presentación del proyecto
