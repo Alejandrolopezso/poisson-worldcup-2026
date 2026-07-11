@@ -126,7 +126,7 @@ El 80% del trabajo fue de ingeniería de datos, no de modelado. Bugs encontrados
 ## 👤 Autor
 
 **Alejandro López** — Data Analyst · Analítica Deportiva
-📎 [linkedin.com/in/alejodata](https://www.linkedin.com/in/alejodata)
+📎   Linkedin ([https://www.linkedin.com/in/alejodata](https://www.linkedin.com/in/daniel-alejandro-lopez-sotelo-445958310/))
 
 > Proyecto con fines educativos y de portafolio. Las probabilidades son resultado de simulación estadística, no consejo de apuestas.
 
