@@ -77,7 +77,7 @@ poisson-worldcup-2026/
 │   └── group_certainty.csv
 ├── docs/
 │   ├── PROCESO_COMPLETO.md           # Documentación completa del proceso
-│   └── Pulso_Poisson_WC2026_Forecast.pdf   # Presentación del proyecto
+│   └── Forecast_FIFA_World_Cup_2026-Alejandro_Lopez_S.pdf   # Presentación del proyecto
 └── README.md
 ```
 
